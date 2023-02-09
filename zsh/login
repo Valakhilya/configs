@@ -1,0 +1,27 @@
+typeset -U path
+export TERMINAL="alacritty"
+export BROWSER="firefox"
+export PLAYER="mpv"
+export OPENER="xdg-open"
+export PAGER="less"
+export EDITOR="vim"
+export IVIEWER="sxiv"
+export CM_SELECTIONS="clipboard"
+export CM_DEBUG=0
+export CM_OUTPUT_CLIP=1
+export CM_MAX_CLIPS=10
+
+export XDG_CONFIG_HOME=$HOME/.config
+export XDG_CACHE_HOME=$HOME/.cache
+export XDG_DATA_HOME=$HOME/.local/share
+export XDG_DATA_DIRS=/usr/local/share:/usr/share
+export XDG_CONFIG_DIRS=/etc/xdg
+export PERLBREW_ROOT=$XDG_DATA_HOME/soft/perlbrew
+export PERL_LOCAL_LIB_ROOT=$XDG_DATA_HOME/soft/perl5
+export PERL5LIB=$XDG_DATA_HOME/soft/perl5/lib/perl5
+source ${PERLBREW_ROOT}/etc/bashrc
+
+export XINITRC=$XDG_CONFIG_HOME/X11/xinitrc
+
+path=($XDG_DATA_HOME/soft/perl5/bin /usr/sbin /usr/local/go/bin $path)
+export PATH

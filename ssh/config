@@ -1,0 +1,35 @@
+Host hk
+    Hostname old.harekrishna.ru
+    User dandimj
+    Port 1023
+    IdentityFile ~/.ssh/hk.rsa
+
+Host vu
+    Hostname vedx.pro
+    User root
+    Port 7645
+    IdentityFile ~/.ssh/vultr.rsa
+
+Host mm
+    User deployer
+    Hostname mahamandala.com
+    IdentityFile ~/.ssh/mm_rsa
+
+Host gitlab.com
+    Preferredauthentications publickey
+    IdentityFile ~/.ssh/id_ed25519
+
+
+Host github.com
+    Preferredauthentications publickey
+    IdentityFile ~/.ssh/nf
+
+Host bx
+    Hostname harekrishna.ru
+    User root
+    IdentityFile ~/.ssh/bitrix.rsa
+
+Host mmm
+    Hostname mahamandala.com
+    User deployer
+    IdentityFile ~/.ssh/mahamandala

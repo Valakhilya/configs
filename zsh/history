@@ -1,0 +1,3075 @@
+grep "^${USER}" /etc/passwd
+su - dandi
+./calc
+./calc.raku "4:57	7	Apr	2021" "4:24	8	Apr	2021"
+sudo chmod -R a+r vaishnavacalendar.org
+cp -rv vaishnavacalendar.org ~/.local/share/work
+sudo cp -rv vaishnavacalendar.org ~/.local/share/work
+sudo service start tor
+sudo apt install libssl libssl-dev
+zef install OpenSSL
+zef look OpenSSL
+cd OpenSSL
+vim Stack.pm6
+zef install . --force
+zef uninstall OpenSSL
+zef fetch OpenSSL
+zef search OpenSSL
+zef update
+zef upgrade
+vim /home/astik/.local/share/soft/rakudo-moar-2021.02.1-01-linux-x86_64-gcc/share/perl6/core/sources/947BDAB9F96E0E5FCCB383124F923A6BF6F8D76B
+sudo /etc/apt/sources.list
+sudo apt update && apt-cache policy libssl1.0-dev
+sudo apt-get install libssl1.0-dev
+zef install  IO::Socket::SSL
+zef install HTTP::UserAgent
+sudo chmod a+x test_ua.raku
+curl --socks5-hostname 127.0.0.1:9050 user-agent = "Mozilla/5.0 (X11; Linux i686; rv:7.0.1) Gecko/20100101 Firefox/7.0.1 https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHSDD-BENGALI-PANJIKA-778JKS&geoname-id=5397166&date=01/01/2021&time-format=24hours
+curl --socks5-hostname 127.0.0.1:9050 user-agent "Mozilla/5.0 (X11; Linux i686; rv:7.0.1) Gecko/20100101 Firefox/7.0.1" https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHSDD-BENGALI-PANJIKA-778JKS&geoname-id=5397166&date=01/01/2021&time-format=24hours
+curl --socks5-hostname 127.0.0.1:9050 user-agent "Mozilla/5.0 (X11; Linux i686; rv:7.0.1) Gecko/20100101 Firefox/7.0.1" https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHSDD-BENGALI-PANJIKA-778JKS
+curl --socks5 11.22.33.44:5555 check-host.net/ip
+curl check-host.net/ip
+curl --socks5 127.0.0.1:9050 check-host.net/ip
+curl https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHSDD-BENGALI-PANJIKA-778JKS
+curl harekrishna.ru
+curl https://harekrishna.ru
+curl https://drikpanchang.com/
+curl www.drikpanchang.com/
+curl https://www.drikpanchang.com/
+curl https://www.drikpanchang.com
+curl -L www.drikpanchang.com/
+wget https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHSDD-BENGALI-PANJIKA-778JKS
+vim ~/.curlrc
+curl -L www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHSDD-BENGALI-PANJIKA-778JKS
+curl -L https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHS-BENGALI-PANJIKA-778JKS
+curl -L "https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHS-BENGALI-PANJIKA-778JKS"
+curl "https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHS-BENGALI-PANJIKA-778JKS"
+curl --user-agent "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0" "https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHS-BENGALI-PANJIKA-778JKS"
+curl --user-agent "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0" "https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHSDD-BENGALI-PANJIKA-778JKS"
+curl --socks5 --user-agent "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0" "https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHSDD-BENGALI-PANJIKA-778JKS"
+curl --socks5 127.0.0.1:9050 --user-agent "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0" "https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHSDD-BENGALI-PANJIKA-778JKS"
+wget https://raw.githubusercontent.com/tamimibrahim17/List-of-user-agents/master/Firefox.txt
+sudo chomd a+x rand.raku
+sudo chmod a+x rand.raku
+./rand.raku
+curl --help
+curl https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHSDD-BENGALI-PANJIKA-778JKS&geoname-id=5397166&date=01/01/2021&time-format=24hour
+curl "https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHSDD-BENGALI-PANJIKA-778JKS&geoname-id=5397166&date=01/01/2021&time-format=24hour"
+wget "https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHSDD-BENGALI-PANJIKA-778JKS&geoname-id=5397166&date=01/01/2021&time-format=24hour"
+vim dp-surya-siddhanta-panjika.php\?key=FGHSDD-BENGALI-PANJIKA-778JKS\&geoname-id=5397166\&date=01%2F01%2F2021\&time-format=24hour
+rm dp-surya-siddhanta-panjika.php\?key=FGHSDD-BENGALI-PANJIKA-778JKS\&geoname-id=5397166\&date=01%2F01%2F2021\&time-format=24hour
+vm
+vim Firefox.txt
+vim proxies.txt
+vim soquel_2021.csv
+mv Firefox.txt uas.txt
+./test_ua.raku
+vim soquel_2022.csv
+vim test_ua.raku
+mv test_ua.raku drik_parser.raku
+sudo chmod a+x conv.raku
+vim json/masas.csv
+vim conv.raku
+vim rand.raku
+sudo chmod a+x masas.raku
+vim navadvip_537.csv
+sudo chmod a+x conv_cities.raku
+./conv_cities.raku
+vim conv_cities.raku
+./dir.raku
+vim dir.raku
+ :
+./drik_parser.raku
+vim drik_parser.raku
+mv drik_parser.raku parse.raku
+parse.raku riga 2021
+ls -la p*
+parse riga 2021
+./parse.raku riga 2021
+rm sochi_2021.csv
+vim sochi_2021.csv
+./parse.raku sochi 2021
+./parse.raku london 2021
+./parse.raku london 2022
+cat sochi_2022.csv | nc -l
+cat sochi_2022.csv | wc -l
+rm sochi_2022.csv
+./parse.raku almaty 2022
+./parse.raku moscow 2022
+sudo sysemctl restart tor
+awk '!seen[$0]++' saint_petersburg_2022.csv
+rm saint_petersburg_2022.csv
+./parse.raku saint_petersburg 2022
+vim moscow_2022.csv
+./parse.raku kyiv 2022
+./parse.raku sochi 2022
+vim sochi_2022.csv
+vim saint_petersburg 2022
+vim saint_petersburg_2022.csv
+vim saint_petersburg_2021.csv
+./parse.raku kharkiv 2022
+./parse.raku ankara 2022
+curl https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHSDD-BENGALI-PANJIKA-778JKS&geoname-id=323786&date=21/08/2022&time-format=24hour
+curl "https://www.drikpanchang.com/dp-api/panchangam/dp-surya-siddhanta-panjika.php?key=FGHSDD-BENGALI-PANJIKA-778JKS&geoname-id=323786&date=21/08/2022&time-format=24hour"
+./parse.raku byronbay 2022
+./parse.raku sukhum 2022
+./parse.raku sukhum 2021
+cd ~/.local/share/work/Soquel.Ekadashis
+sudo systemctl tor
+./parse.raku shenzhen 2022
+sudo chmod a+x conv_dst.raku
+vim conv_dst.raku
+./conv_dst.rakuhhj
+vim Calendar.php
+grep -r 'resource_path'
+vim PagesController.php
+./parse.raku navadvip 2022
+git config --show-origin
+git config --global --list
+git add origin --help
+git remote add cal git@gitlab.com:astik/vc2021.git
+git pull cal master
+git pull cal
+git commit -m "Ѓ�ерву�й коммит"
+git push cal master
+echo `date '%Y-%m-%d'`
+echo `date '+%Y-%m-%d'`
+echo `date '+%Y-%m-%d %H:%M'`
+sudo chmod a+x commiter.sh
+vim commiter.sh
+sudo vim /etc/crontab
+sudo vim /etc/cron.d/anacron
+echo $EDITOR
+_calc almaty 536
+./commiter.sh
+./calc.raku almaty 536
+./calc.raku saint_petersburg 536
+nslookup news.vedx.pro
+vim ~/vu
+ping news.vedx.pro
+youtube-dl https://www.instagram.com/tv/CNFH1o7hpsF/?utm_source=ig_web_copy_link
+youtube-dl https://www.instagram.com/tv/CNFH1o7hpsF
+./calc.raku sochi 536
+find . -type f -name '*.rar' -exec rm {} \;
+sudo chomd a+x ext.raku
+sudo chmod a+x ext.raku
+ls -al ext.raku
+mkdir ~/.local/share/work/ext
+mv ext.raku ~/.local/share/work/ext
+find /media/astik/data/Ѓ�ваду�у�т\ Ѓ�ау�арадж -type f
+find . -type f
+mkdir mp3
+ffmpeg -i /media/astik/data/Ѓ�ваду�у�т\ Ѓ�ау�арадж/VedaviewTV/Ѓ�айну�\ Ѓ�ималаев\ -\ Эпизоду�/videos/20121104\ -\ Ѓ�айну�\ Ѓ�ималаев.\ Ѓ�а\ пу�ти\ к\ постижениу�\ Ѓ�стину�.\ 1.1\ \[1920x1080\].mkv -acodec copy out.mp3
+ffmpeg -i /media/astik/data/Ѓ�ваду�у�т\ Ѓ�ау�арадж/VedaviewTV/Ѓ�айну�\ Ѓ�ималаев\ -\ Эпизоду�/videos/20121104\ -\ Ѓ�айну�\ Ѓ�ималаев.\ Ѓ�а\ пу�ти\ к\ постижениу�\ Ѓ�стину�.\ 1.1\ \[1920x1080\].mkv -acodec copy out.aac
+cd audio
+rm -rf audio
+sudo apt install mkvtoolnix
+man mkvextract
+cd mp3
+find /media/astik/data/Ѓ�ваду�у�т\ Ѓ�ау�арадж -type f -name '*.mkv'
+find /media/astik/data/Ѓ�ваду�у�т\ Ѓ�ау�арадж -type f -name '*.mkv' | wc -l
+find /media/astik/data/Ѓ�ваду�у�т\ Ѓ�ау�арадж -type f -name '*.mp4' | wc -l
+cp -rv mp3 /media/astik/data/Ѓ�ваду�у�т\ Ѓ�ау�арадж
+mkdir "Ѓ�ваду�у�т Ѓ�ау�арадж"
+cd Ѓ�ваду�у�т\ Ѓ�ау�арадж
+youtube-dl https://vk.com/videos-19926418
+youtube-dl -f mp4 --yes-playlist https://vk.com/videos-19926418?section=album_5
+youtube-dl -f mp4 --yes-playlist https://vk.com/videos-19926418
+xflock4
+vim --version | grep clipboard
+vim --version 
+sudo apt install vim-gtk
+ sudo apt-get install xclip
+sudo chmod a+x fire
+sudo systemctl stop tor
+sudo systemctl status tor
+vim fire
+./fire
+./calc.raku johanesburg 536
+spacefm
+scp ./resources/* root@vu:/var/www/vaishnavacalendar.org/resources
+scp -r ./resources/* root@vu:/var/www/vaishnavacalendar.org/resources/
+php artisan work
+ssh vedx.pro
+ssh vedx.pro:7645
+ssh vedx.pro -p 7645
+ssh arun@vedx.pro -p 7645
+./calc.raku johannesburg 536
+./calc.raku navadvip 536
+vim csv/navadvip_536_tt.csv
+scp -r resourses/* root@vu:/var/www/vaishnavacalendar.org/resources
+scp -r ./resources/* root@vu:/var/www/vaishnavacalendar.org/resources
+scp -r app/* root@vu:/var/www/vaishnavacalendar.org/app/
+cd Http
+cd Controllers
+scp EkadashiData.php root@vu:/var/www/vaishnavacalendar.org/app
+./parser :q
+sudo chmod a+x parse.raku
+./parse.raku 2021
+./parse.raku orsk  2021
+./parse.raku orsk 2022
+./calc.raku orsk 536
+php artistan sevve
+scp cities.csv dst.csv root@vu:/var/www/vaishnavacalendar.org/resources
+scp orsk_2021.csv orsk_2022.csv root@vu:/var/www/vaishnavacalendar.org/resources/srss
+cd ../tithis
+ls | grep orsk
+scp orsk_536_tt.csv root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+find . -name 'Jiv Jago*'
+find . -name 'Jiv Jago'*
+find . -name 'Jiv*'
+find . -name Jiv*
+ls | grep Jiv*
+ls | grep Jiv
+ls | grep Jiv\ Jago
+find . -name Jiv\ Jago
+find . -name '*Jiv\ Jago*'
+VV
+find . -name '*Ѓ�ау�айоги*'
+find . -name '*Ѓ�ау�айоги*' -exec mv {} Ѓ�ау�айоги \;
+find . -name '*Ѓ�ау�адев*' -exec mv {} Ѓ�ау�адев/ \;
+find . -name '*Ѓ�у�зу�ко*' -exec mv {} Ѓ�ау�адев/ \;
+find . -name "*Ѓ�у�агаватамрита*"
+find . -name "*Ѓ�у�агаватамрита*" -exec mv {} Ѓ�риу�ад-Ѓ�у�агаватамрита \;
+find -name "*Ѓ�агу�у�*"
+7~qvv
+find ../ -name "TVDarshanLahta*"
+find ../ -name "TVDarshan*"
+find ../ -name "*TVDarshan_Lahta*"
+find ../ -name "*TVDarshan_Lahta*" -maxdepth 1
+find ../ -maxdepth 1 -name "*TVDarshan_Lahta*" -exec mv {} . \;
+find ../ -maxdepth 1 -name "*TVDarshan_Lahta*"
+find . -name "*Ѓ�анди*" -exec rm {} \;
+mkdir video
+cd video
+youtube-dl -f mp4 https://vk.com/video-109944232_456239576
+wget https://gaudiyadarshan.net/__projects__/calendar/main/index_main_calendar.html
+vim index_main_calendar.html
+wget http://gaudiyadarshan.net/__projects__/calendar/main/img/favicon/android-chrome-192x192.png
+wget http://gaudiyadarshan.net/__projects__/calendar/main/img/favicon/favicon-32x32.png
+wget http://gaudiyadarshan.net/__projects__/calendar/main/img/favicon/site.webmanifest
+ssh zhenya@vedx.pro -p 7645
+scp wp-rocket.zip root@vu:/var/www/learn.vedx.pro/
+cd Ѓ�бразователу�ну�й
+scp wp-rocket_3.8.8.zip root@vu:/var/www/learn.vedx.pro/
+sudo vu
+umount /media/astik/slim
+ssu vu
+sudo ln -s /home/astik/.local/share/soft/dynalist/dynalist-1.0.5/dynalist /usr/bin/dynalist
+inxi -v
+cp -rv Windows\ 10\ Pro\ x64\ Lite\ 20H2\ build\ 19042.782\ by\ Zosma.iso /media/astik/31E7-D821
+nslookup indubala.ru
+yotube-dl -f mp4 https://www.instagram.com/tv/COrd8e9HHxm/?utm_source=ig_web_copy_link
+yotube-dl -f mp4 https://www.instagram.com/tv/COrd8e9HHxm
+youtube-dl -f mp4 https://www.instagram.com/tv/COrd8e9HHxm
+yottube-dl -f mp4 https://www.youtube.com/watch?v=S5jTkArBmPA
+yotube-dl -f mp4 https://www.youtube.com/watch?v=S5jaTkArBmPA
+youtube-dl -f mp4 https://youtu.be/S5jTkArBmPA
+yt
+yt -U
+yt https://youtu.be/S5jTkArBmPA
+find . -name 'docfetcher*'
+cd snap
+cd current
+cd docfetcher
+cd conf
+sudo ls ext.raku
+sudo ls -la ext.raku
+find . -name "*Хриу�икеу�*"
+raku ./ext.raku
+cd .local/share/work
+cd vaishnavacalendar.org
+find . -name '*webpack*'
+find . -name '*webpack.mix*'
+npm install laravel-mix cross-env --save-dev
+scp root@vu:/var/www/vaishnavacalendar.org/package.json .
+npm run build
+vim package.json
+npm run dev
+scp ./app.css root@vu:/var/www/vaishnavacalendar.org/public/css
+mysql -uroot -p 
+sudo apt install mysql-server-8.0
+sudo aptitude install mysql-server-8.0
+mysql -uroot -proot
+mysql --version
+sudo apt remove -f mysql-server
+sudo apt remove -f mysql-server-8.0
+sudo apt remove mysql-common mysql-server-8.0
+sudo apt purge mysql-common mysql-server-8.0
+sudo apt-get autoremove
+sudo apt install mysql-server
+mysql -uroot
+mysql -uroot -p
+mysql
+sudo systemctl stop mysql
+sudo mysqld_safe --skip-grant-tables &
+mysql -uastik -pastik
+sudo apt install filezilla
+wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+sudo apt-get install apt-transport-https
+echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+sudo apt-get update
+sudo apt-get install sublime-text
+subl
+sudo chmod -R 777 MyriadPro-Regular
+sudo chmod -R 777 design/
+dpkg --list
+whereis dynalist
+sudo ls -al /usr/bin/d*
+tar xvzf dynalist.tar.gz
+cd dynalist-1.0.5
+./dynalist
+sudo find / -name '*dynalist*'
+dynalist
+sudo apt-get install docx2txt
+docx2txt
+docx2txt -h
+yotube-dl -U
+youtube-dl -U
+youtube-dl -f mp4 https://www.youtube.com/watch?v=UiYHnMvcZTo
+youtube-dl -f mp4 https://youtu.be/UiYHnMvcZTo
+cd /var/
+ls -al tmp
+cd tmp 
+sudo chmod -R 777 audacity-astik 
+ls -la /tmp
+ls -la /
+youtube-dl -f mp4 https://fb.watch/5K1kvQUXCM/
+sudo youtube-dl -U
+sudo apt-get remove -y youtube-dl
+sudo chmod a+rx /usr/local/bin/youtube-dl
+hash -r
+youtube-dl -f mp4 https://fb.watch/5K1zWEuwqS/
+sudo ls -la
+sudo rm -rf /tmp
+df -g
+sudo rm -rf /var/tmp
+vi
+rm Ѓ�ау�а\ миссиу�.\ Ѓ�сториу�\ и\ перспективу�.\ Часту�\ 1.\ Уу�од\ Ѓ�у�ару�и\ Ѓ�ау�араджа.mp4
+sudo mkdir /tmp
+sudo chmod -R 777 
+sudo chmod -R 777 /tmp
+mkdir /home/astik/.local/share/nvim
+mkdir /home/astik/.local/share/nv
+sudo mount nvim.appimage /home/astik/.local/share/nv
+sudo mount nvim.appimage /home/astik/.local/share/nv/
+./nvim.appimage --appimage-mount
+./nvim.appimage --help
+sudo rm -rf www
+rm -rf timeshift
+sudo rm -rf timeshift
+yotube-dl -f mp4 -w -a list.lst
+youtube-dl -f mp4 -w -a list.lst
+ scp -r . root@vu:/var/www/vaishnavacalendar.org/resources
+scp -r root@vu:/var/www/vaishnavacalendar.org/resources . 
+scp -r *.php root@vu:/var/www/vaishnavacalendar.org/resources/views/calendar
+scp -r *.php root@vu:/var/www/vaishnavacalendar.org/app/Http/Controllers
+ssh zhenya@gypsy-dance.ru
+ssh zhenya@gypsy-dance.ru -p 7645
+curl -X POST http://195.128.124.236/api/json
+curl -H "Content-Type: application/json" -X POST -d "{"operation":"print","data":{"oper":"print","user":"Alex","datetime":"01.06.2000 17:01","vdasha_start":"03.03.2021","length":"27","deep":"3","transit_date":"01.06.2021","la":59.938951,"lo":30.315635,"dst":false,"asl":0,"tz":3,"itz":false,"sex":1,"lang":"RU","width":1000,"height":892,"chart1":"1","chart2":"0","properties":{"Options":{"Chart_Style":1}},"Write":{"myaction":"write","myindex":1,"Chart_Style":"1","Decor":"0","Show_Arudha_Pada":0,"Show_Upa_Grahas_Dhoma":0,"cart1":"1","cart2":"9"}}}"\
+ "{"operation":"print","data":{"oper":"print","user":"Alex","datetime":"01.06.2000\
+ 17:01","vdasha_start":"03.03.2021","length":"27","deep":"3","transit_date":"01.06.2021","la":59.938951,"lo":30.315635,"dst":false,"asl":0,"tz":3,"itz":false,"sex":1,"lang":"RU","width":1000,"height":892,"chart1":"1","chart2":"0","properties":{"Options":{"Chart_Style":1}},"Write":{"myaction":"write","myindex":1,"Chart_Style":"1","Decor":"0","Show_Arudha_Pada":0,"Show_Upa_Grahas_Dhoma":0,"cart1":"1","cart2":"9"}}}"\
+
+curl -H "Content-Type: application/json" -X POST -d "{"operation":"print","data":{"oper":"print","user":"Alex","datetime":"01.06.2000 17:01","vdasha_start":"03.03.2021","length":"27","deep":"3","transit_date":"01.06.2021","la":59.938951,"lo":30.315635,"dst":false,"asl":0,"tz":3,"itz":false,"sex":1,"lang":"RU","width":1000,"height":892,"chart1":"1","chart2":"0","properties":{"Options":{"Chart_Style":1}},"Write":{"myaction":"write","myindex":1,"Chart_Style":"1","Decor":"0","Show_Arudha_Pada":0,"Show_Upa_Grahas_Dhoma":0,"cart1":"1","cart2":"9"}}}"\
+ "{"operation":"print","data":{"oper":"print","user":"Alex","datetime":"01.06.2000\
+ 17:01","vdasha_start":"03.03.2021","length":"27","deep":"3","transit_date":"01.06.2021","la":59.938951,"lo":30.315635,"dst":false,"asl":0,"tz":3,"itz":false,"sex":1,"lang":"RU","width":1000,"height":892,"chart1":"1","chart2":"0","properties":{"Options":{"Chart_Style":1}},"Write":{"myaction":"write","myindex":1,"Chart_Style":"1","Decor":"0","Show_Arudha_Pada":0,"Show_Upa_Grahas_Dhoma":0,"cart1":"1","cart2":"9"}}}" http://195.128.124.236/api/json\
+
+curl  -H "Content-Type: application/json" -X POST -d "{"operation":"print","data":{"oper":"print","user":"Alex","datetime":"01.06.2000 17:01","vdasha_start":"03.03.2021","length":"27","deep":"3","transit_date":"01.06.2021","la":59.938951,"lo":30.315635,"dst":false,"asl":0,"tz":3,"itz":false,"sex":1,"lang":"RU","width":1000,"height":892,"chart1":"1","chart2":"0","properties":{"Options":{"Chart_Style":1}},"Write":{"myaction":"write","myindex":1,"Chart_Style":"1","Decor":"0","Show_Arudha_Pada":0,"Show_Upa_Grahas_Dhoma":0,"cart1":"1","cart2":"9"}}}" http://195.128.124.236/api/json
+curl  -H "Content-Type: application/json" -X POST -d '{"operation":"print","data":{"oper":"print","user":"Alex","datetime":"01.06.2000 17:01","vdasha_start":"03.03.2021","length":"27","deep":"3","transit_date":"01.06.2021","la":59.938951,"lo":30.315635,"dst":false,"asl":0,"tz":3,"itz":false,"sex":1,"lang":"RU","width":1000,"height":892,"chart1":"1","chart2":"0","properties":{"Options":{"Chart_Style":1}},"Write":{"myaction":"write","myindex":1,"Chart_Style":"1","Decor":"0","Show_Arudha_Pada":0,"Show_Upa_Grahas_Dhoma":0,"cart1":"1","cart2":"9"}}}' http://195.128.124.236/api/json
+curl  -H "Content-Type: application/json" -X POST -d '{"operation":"print","data":{"oper":"print","user":"Alex","datetime":"01.06.2000 17:01","vdasha_start":"03.03.2021","length":"27","deep":"3","transit_date":"01.06.2021","la":59.938951000000003,"lo":30.315635,"dst":false,"asl":0,"tz":3,"itz":false,"sex":1,"lang":"RU","width":1000,"height":892,"chart1":"1","chart2":"0","properties":{"Options":{"Chart_Style":1}},"Write":{"myaction":"write","myindex":1,"Chart_Style":"1","Decor":"0","Show_Arudha_Pada":0,"Show_Upa_Grahas_Dhoma":0,"cart1":"1","cart2":"9"}},"userId":"AE6C4395-E02B-4C00-83E5-D652F751103A"}' http://195.128.124.236/api/json
+curl "https://google.com"
+curl "https://www.google.com"
+ssh indubalaru@indubala.ru
+sudo cd /var/cache
+sudo vv
+sudo vifm
+mkdir -p /home/astik/.local/share/cache/apt
+sudo mv -i /var/cache/apt /home/astik/.local/share/cache/apt
+sudo ln -s /home/astik/.local/share/cache/apt /var/cache/apt
+mkdir -p /home/astik/.local/var/cache
+cd /var/cache
+cd cache
+sudo rm cache
+sudo mv -i cache /home/astik/.local/var/
+sudo ln -s /home/astik/.local/var/cache /var/cache
+cd /home/astik/.local/var/cache
+sudo apt-get autoclean
+sudo apt-get clean
+sudo apt reload
+cd /home/astik/.local/share/var
+mkdir -p /home/astik/.local/share/var
+mv -r -i /var/* /home/astik/.local/share/var/
+mv -i /var/* /home/astik/.local/share/var/
+sudo mv -i /var/* /home/astik/.local/share/var/
+cp -ri . /home/astik/.local/share/var/
+cp -riy . /home/astik/.local/share/var/
+cp --help
+cp -rvf . /home/astik/.local/share/var/
+sudo cp -rvf . /home/astik/.local/share/var/
+yotube-dl -f mp4 https://www.youtube.com/watch?v=tqmmw31zxd0
+youtube-dl -f mp4 https://www.youtube.com/watch?v=tqmmw31zxd0
+youtube-dl
+youtube-dl -f mp4 https://youtu.be/tqmmw31zxd0
+sudo apt remove kdenlive
+cd /
+sudo ls -al
+mv -i tmp /home/astik/.local/tmp
+sudo mv -i tmp /home/astik/.local/tmp
+sudo rm -rf /home/astik/.local/tmp
+sudo mv -i tmp /home/astik/.local
+ls -al /home/astik/.local/tmp
+sudo ln -s /home/astik/.local/tmp /tmp
+sudo chmod a+x Jubler-7.0.3.x86_64.appimage
+sudo apt install mplayer
+./Jubler-7.0.3.x86_64.appimage
+mkvmerge
+rm ten_offences.mkv
+mkvmerge -o ten_offences.mkv ten_offences.mp4 ten_offences.srt
+mkdir ../mp4
+mv *.mp4 ../mp4
+mkdir ../mkv
+mv *.mkv ../mkv
+sudo find / -name *flatpack*
+sudo find / -name '*flatpack*'
+sudo find / -name '*flatpak*'
+cd /home/astik
+rm -rf мандалореу�
+cd .local
+cd share
+cd var 
+sudo ln -s /home/astik/.local/var /var
+sudo rm /var
+sudo rm -rf /var
+ln -s /home/astik/.local/share/var /var
+sudo ln -s /home/astik/.local/share/var /var
+flatpak install https://flathub.org/repo/appstream/org.gimp.GIMP.flatpakref
+cd target
+cd release
+sudo ln -s /media/astik/home/astik/.local/share/soft/alacritty/target/release/alacritty /usr/bin/alacritty
+alacritty
+sudo apt install spacefm
+cd .local/share/soft
+cd rakudo-moar-2021.02.1-01-linux-x86_64-gcc
+sudo ln -s /home/astik/.local/share/applications/ft
+sudo ln -s /media/astik/home/astik/.local/share/soft/rakudo-moar-2021.02.1-01-linux-x86_64-gcc/bin/raku /usr/bin/raku
+cd soft
+cd nvim
+sudo tar xvzf node-v14.17.0-linux-x64.tar.xz
+sudo tar xvf node-v14.17.0-linux-x64.tar.xz
+cd node-v14.17.0-linux-x64
+sudo ln -s /media/astik/home/astik/.local/share/soft/node-v14.17.0-linux-x64/bin/node /usr/bin/node
+/media/astik/home/astik/.local/share/soft/nvim/nvim.appimage
+/home/astik/.local/share/soft/nvim/nvim.appimage
+vi aliases
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash\
+
+nvm
+vim .zsh/aliases
+npm
+ls -al /usr/bin/vim
+sudo chmod a+x ./ext.raku
+./pass.raku
+vim ext.raku
+./ext.raku
+sudo ./ext.raku
+raku ext.raku
+mkdir /media/astik/mt
+sudo mkdir /media/astik/mt
+sudo chmod 777 /media/astik/mt
+sudo mount /dev/nvme0n1p3 /media/astik/mt
+cp -rv mp3 /media/astik/BEED-45B7
+sudo debi -i zoom_amd64.deb
+sudo apt install libgl1-mesa-glx libegl1-mesa libxcb-xtest0 ibus
+sudo apt install ./zoom_amd64.deb --fix-broken
+cp -rv mp3 /media/astik/0123-4567/Ѓ�УЃ�Ѓ�Ѓ�Ѓ�Ѓ�Ѓ�ЦЃ�Ѓ�/
+sudo rm /etc/apt/preferences.d/nosnap.pref
+sudo chmod -R 777 /media/astik/home/astik/snap/docfetcher
+sudo chmod -R 777 /media/astik/home/astik/snap/docfetcher/3
+sudo snap remove docfetcher
+sudo apt install snapd
+sudo apt install docfetcher
+sudo snap install docfetcher
+docfetche
+ls /
+cd /var
+sudo chown -R astik:astik snap
+cp -r /home /media/astik/home/astik/old_home
+sudo cp -r /home /media/astik/home/astik/old_home
+sudo chmod -R a+rw /home
+sudo chmod -R 777 /media/astik/home/astik/snap
+docfetcher
+./DocFetcher-GTK3.sh
+sudo apt install xclip xsel
+sudo npm install -g neovim
+sudo chmod a+wx /media/astik/home/astik/.local/share/soft/node-v14.17.0-linux-x64/lib/node_modules
+sudo chmod -R a+wx /media/astik/home/astik/.local/share/soft/node-v14.17.0-linux-x64
+sudo chmod -R a+wx /var/lib/gems
+sudo apt install ruby-dev
+gem install neovim
+sudo gem install neovim
+sudo apt install rclone
+cd ~
+sudo chmod 655 config
+ls -la .s*
+sudo chmod 700 .ssh
+find . -name '*.pub' -exec chmod 644 \;
+find . -name '*.pub' -exec chmod 644 {} \;
+sudo chmod 600 vultr.rsa
+/usr/bin/rclone copy --update --verbose --transfers 30 --contimeout 60s --      timeout 300s --retries 3 --low-level-retries 10 .       vlib:/library
+/usr/bin/rclone copy --update --verbose --transfers 30 --contimeout 60s --      timeout 300s --retries 3 --low-level-retries 10 .:/  vlib:/library
+/usr/bin/rclone copy --update --verbose --timeout 300s .  vlib:/library
+ping learn.vedx.pro
+ping dzen.vedx.pro
+ping mahabuddhi.vedx.pro
+ping dev.vedx.pro
+/usr/bin/rclone copy --update --verbose --timeout 300s /media/astik/home/astik/.local/share/work/library  vlib:/library
+yotube-dl -f mp4 https://www.facebook.com/watch/live/?v=302268274901528
+type youtube-dl
+sudo ls -al /usr/local/bin
+ls -al /usr/local
+which youtube-dl
+whereis youtube-dl
+wget -O - https://yt-dl.org/downloads/latest/youtube-dl | sudo tee /usr/local/bin/youtube-dl >/dev/null
+sudo ln -s /usr/bin/python3 /usr/bin/python
+youtube-dl https://www.facebook.com/watch/live/?v=302268274901528
+youtube-dl https://www.facebook.com/558913600787899/videos/302268274901528
+sudo apt install mpv
+mpv ./Dive\ Deep\ Into\ Reality\ _\ Bhakti\ Sudhir\ Goswami-302268274901528.mp4
+sudo ln -s /media/astik/home/astik/.local/share/work/vedabase_processing/pass.raku /usr/bin/pass
+wget https://github.com/mattermost/focalboard/releases/download/v0.6.7/focalboard-server-linux-amd64.tar.gz
+tar -xvzf focalboard-server-linux-amd64.tar.gz
+sudo mv focalboard /opt
+sudo ./bin/focalboard-server
+sudo apt install nginx
+sudo vim /etc/nginx/sites-available/focalboard
+sudo ln -s /etc/nginx/sites-available/focalboard /etc/nginx/sites-enabled/focalboard
+vim /etc/nginx/conf
+sudo vim /etc/nginx/nginx.conf
+cd /etc/nginx
+cd conf.d
+cd sites-available
+vim default
+sudo vim default
+sudo nginx -t
+sudo systemctl restart nginx
+/opt/focalboard/bin/focalboard-server
+cd ~/.local/share
+cp -rf focalboard /opt/
+sudo cp -rf focalboard /opt/
+sudo rm -rf /opt/focalboard
+cd /opt
+wget https://github.com/mattermost/focalboard/releases/download/v0.7.0-rc1/focalboard-server-linux-amd64.tar.gz
+tar xvzf focalboard-server-linux-amd64.tar.gz
+sudo mv focalboard /opt/
+cd /opt/focalboard
+sudo chmod a+x focalboard-server
+./focalboard-server
+./bin/focalboard-server
+curl localhost:8000
+yotube-dl -f mp4 https://youtu.be/_6jLXhVFzuk
+youtube-dl -f mp4 https://youtu.be/_6jLXhVFzuk
+yotube-dl -f mp4 https://youtu.be/ef0OhfYgaVA
+yt https://youtu.be/ef0OhfYgaVA
+ffmpeg -i video.mp4 -ss 00:00:00 -to 00:03:31 -c:v libx264 -crf 30 piece.mp4
+ffmpeg -i video.mp4 -ss 00:00:00 -to 00:03:31 -c:v copy -c:a copy piece2.mp4
+sudo chmod a+x cut.raku
+find . -name '*.raku'
+vim ./resources/srss/parse.raku
+ffmpeg -i video.mp4
+find . -name '*.mp4'
+find . -name '*.mp4' | sort
+sudo chmod a+x proc.raku
+vim proc.raku
+./proc.raku
+ffmpeg -i 1-Sadhu.mp4
+ffmpeg -i 0-Introduction.mp4
+sudo chmod a+x thumb.raku
+find -name '*.png'
+man ffmpeg
+ffmpeg -filters
+ffmpeg -filters | grep transition
+ffmpeg -filters 
+sudo apt install rlwrap
+ffmpeg -y -i fades/7.mp4 -i 7-Duplicity.mp4 -filter_complex "[0:v:0] [0:a:0] [1:v:0] [1:a:0] concat=n=2:v=1:a=1 [outv] [outa]" -map "[outv]" -map "[outa]" out/7-Duplicity.mp4
+ffmpeg -y -i fades/7.mp4 -i 7-Duplicity.mp4 -filter_complex "[0:v:0][0:a:0][1:v:0][1:a:0] concat=n=2:v=1:a=1 [outv] [outa]" -map "[outv]" -map "[outa]" out/7-Duplicity.mp4
+ffmpeg -i "concat:fades/7.mp4|7-Duplicity.mp4" -c copy out.mp4 
+ffmpeg -i fades/7.mp4 -c copy -bsf:v h264_mp4toannexb -f mpegts intermediate1.ts
+ffmpeg -i 7-Duplicity.mp4 -c copy -bsf:v h264_mp4toannexb -f mpegts intermediate2.ts
+ffmpeg -y -i "concat:intermediate1.ts|intermediate2.ts" -c copy -bsf:a aac_adtstoasc out.mp4
+ffmpeg -y -i fades/7.mp4 -i 7-Duplicity.mp4 -filter_complex "[0:v:0][1:v:0][1:a:0] concat=n=2:v=1:a=1 [outv] [outa]" -map "[outv]" -map "[outa]" out/7-Duplicity.mp4
+ffmpeg -y -i "concat:intermediate1.ts|intermediate2.ts" -c copy out.mp4
+mpv out.mp4
+ffmpeg -f lavfi -i aevalsrc=0 -i fades/7.mp4 -shortest -c:v copy -c:a mp3 -strict experimental fades/thumb.mp4
+ffmpeg -y -i fades/thumb.mp4 -i 7-Duplicity.mp4 -filter_complex "[0:v:0][1:v:0][1:a:0] concat=n=2:v=1:a=1 [outv] [outa]" -map "[outv]" -map "[outa]" out/7-Duplicity.mp4
+ffmpeg -y -i fades/thumb.mp4 -i 7-Duplicity.mp4 -filter_complex "[0:v:0][0:a:0][1:v:0][1:a:0] concat=n=2:v=1:a=1 [outv] [outa]" -map "[outv]" -map "[outa]" out/7-Duplicity.mp4
+youtube-dl -h
+youtube-dl -v
+youtube-dl -f mp4 -a list.lst
+cp -rv out /media/astik/MX-LIVE/10obstacles
+sudo chmod 600 bitrix.rsa
+git
+git config --global --get-all
+git remote add scripts https://gitlab.com/astik/scripts.git
+git pull remote master
+find -name '*.raku' -type f
+find -name '*.raku' -type f -exec rsync -a {} . \;
+find -name '*.raku' -type f -exec cp --parents {} . \;
+git commit -m 'Ѓ�оммит от 27.06.2021'
+find ../ -name '*.raku' -type f -exec cp --parents {} . \;
+find ../../ -name '*.raku' -type f -exec cp --parents {} . \;
+find /media/astik/home/astik/.local/share/work -name '*.raku' -type f -exec cp --parents {} . \;
+find /media/astik/home/astik/.local/share/work/ -name '*.raku' -type f -exec cp --parents {} . \;
+find /media/astik/home/astik/.local/share/work/ -name '*.raku' -type f
+vim bcp.raku
+git commit -m "Ѓ�оммит от 30.06.2021"
+git push scripts master
+vim cn
+sudo chmod 600 ~/.ssh/id_ed25519
+ls -la ~/.ssh
+mkdir scripts
+cd scripts
+git remote add git@gitlab.com:astik/scripts.git scripts
+git remote add scripts git@gitlab.com:astik/scripts.git
+git pull scripts master
+find /media/astik/home/astik/.local/share/work -name '*.raku' -type f
+vim backuper.sh
+sudo chmod a+x backuper.sh
+./backuper.sh
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \\
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'\
+
+youtube-dl -f mp4 https://youtu.be/VmorARZKQtE
+vim cut.raku
+kdenlive
+sudo add-apt-repository ppa:kdenlive/kdenlive-stable
+sudo apt install kdenlive
+sudo apt-key list
+sudp apt-key adv --keyserver keys.gnupg.net --recv-keys D404 0146 BE39 7250 9FD5  7FC7 1F30 45A5 DF75 87C3
+sudo apt-key adv --keyserver keys.gnupg.net --recv-keys D404 0146 BE39 7250 9FD5  7FC7 1F30 45A5 DF75 87C3
+sudo apt-key adv --keyserver keys.gnupg.net --recv-keys D4040146BE3972509FD57FC71F3045A5DF7587C3
+curl https://repo.skype.com/data/SKYPE-GPG-KEY | sudo apt-key add -
+sudo apt install audacity
+vkkkkkjasdfads
+git clone https://gitlab.gnome.org/GNOME/gnome-system-monitor.git
+sudo apt-get install meson gettext appstream-util itstool libglibmm-2.4-dev libgtkmm-3.0-dev libgtop2-dev librsvg2-dev libxml2-dev
+cd gnome-system-monitor
+meson build
+ninja -C build
+c++ --version
+sudo apt install gnome-system-monitor
+sudo apt install sxiv
+youtube-dl https://youtu.be/VmorARZKQtE
+youtube-dl https://youtu.be/t1m5StCcg-0
+youtube-dl https://youtu.be/8MXAJNE_t-A?list=UUhCiGPzXpMFDe6deLYZR0Hw
+youtube-dl https://youtu.be/8MXAJNE_t-A
+youtube-dl https://youtu.be/blkq-YSw_NQ
+youtube-dl -f mp4 https://youtu.be/6YWmiYs8p2E
+yotube-dl -f mp4 https://youtu.be/zQMevDTRF8g
+youtube-dl -f mp4 https://youtu.be/zQMevDTRF8g
+youtube-dl -f mp4 https://youtu.be/gevNzFbxae4
+sudo apt install calibre
+sudo apt install gimp
+reboot
+./cut.raku
+cp -rv production /media/astik/BEED-45B7
+wget https://archive.org/download/svarupaofthejiva/Svarupa%20of%20the%20Jiva.pdf
+wget https://archive.org/download/GuruTheUniversalTeacher/Guru%20-%20The%20Universal%20Teacher.pdf
+wget https://www.ebookarchive.org/download/BhaktiTattvaViveka/bhakti-tattva-viveka%204th%20ed%20%28hindi%29.pdf
+wget --no-check-certificate https://www.ebookarchive.org/download/BhaktiTattvaViveka/bhakti-tattva-viveka%204th%20ed%20%28hindi%29.pdf
+find . -type f -name "*2003*"
+loffice 2002.02.28_GovindaMj_Fleita_Krishny.rtf
+sudo apt install php
+loffice dst.csv
+sudo apt install tor
+./parse.raku petropavl 2020
+./parse.raku petropavl 2021
+./parse.raku petropavl 2022
+loffice cities.csv
+./parse.raku petropavlovsk_kamchatsky 2020
+./parse.raku petropavlovsk_kamchatsky 2021
+./parse.raku petropavlovsk_kamchatsky 2022
+ffmpeg 01.mp4
+ffmpeg -i 01.mp4
+ffmpeg -i 05.mp4
+sudo apt install mediainfo
+mediainfo
+mediainfo 01.jpg
+mediainfo 01.mp4
+ffprobe -v error -select_streams v:0 -show_entries stream=width,height -of csv=s=x:p=0 01.mp4
+ffmpeg -y -i amp4/01.mp4 -i 01.mp4 -filter_complex "[0:v:0] [0:a:0] [1:v:0] [1:a:0] concat=n=2:v=1:a=1 [outv] [outa]" -map "[outv]" -map "[outa]" out/01.mp4
+ffmpeg -y -i amp4/01.mp4 -i 01_rsz.mp4 -filter_complex "[0:v:0]setdar=16/9[0:a:0] [1:v:0]setdar=16/9[1:a:0] concat=n=2:v=1:a=1 [outv] [outa]" -map "[outv]" -map "[outa]" out/01.mp4
+ffmpeg -y -i amp4/01.mp4 -i 01_rsz.mp4 -filter_complex "[0:v:0]setdar=16/9[0:a:0];[1:v:0]setdar=16/9[1:a:0] concat=n=2:v=1:a=1 [outv] [outa]" -map "[outv]" -map "[outa]" out/01.mp4
+ffmpeg -y -i amp4/01.mp4 -i 01_rsz.mp4 -filter_complex "[0:v:0]setdar=16/9[0:a:0];[1:v:0]setdar=16/9[1:a:0];concat=n=2:v=1:a=1;[outv] [outa]" -map "[outv]" -map "[outa]" out/01.mp4
+ffmpeg -y -i amp4/01.mp4 -i 01_rsz.mp4 -filter_complex "[0:v:0]setdar=16/9[0:a:0];[1:v:0]setdar=16/9[1:a:0];concat=n=2:v=1:a=1 [outv] [outa]" -map "[outv]" -map "[outa]" out/01.mp4
+ffmpeg -y -i amp4/01.mp4 -i 01_rsz.mp4 -filter_complex "[0:v]setdar=16/9[0:a];[1:v]setdar=16/9[1:a];concat=n=2:v=1:a=1 [outv] [outa]" -map "[outv]" -map "[outa]" out/01.mp4
+ffmpeg -y -i amp4/01.mp4 -i 01_rsz.mp4 -filter_complex "[0:v:0]setdar=16/9;[1:v:0]setdar=16/9;concat=n=2:v=1:a=1 [outv] [outa]" -map "[outv]" -map "[outa]" out/01.mp4
+ffmpeg -y -i amp4/01.mp4 -i 01_rsz.mp4 -filter_complex "setdar=16/9;setdar=16/9;concat=n=2:v=1:a=1 [outv] [outa]" -map "[outv]" -map "[outa]" out/01.mp4
+ffmpeg -y -i amp4/01.mp4 -i 01_rsz.mp4 -filter_complex "[0:v]setdar=16/9[a];[1:v]setdar=16/9[b];concat=n=2:v=1:a=1 [outv] [outa]" -map "[outv]" -map "[outa]" out/01.mp4
+ffmpeg -y -i amp4/01.mp4 -i 01_rsz.mp4 -filter_complex "[0:v:0]setdar=16/9[0:a:0];[1:v:0]setdar=16/9[1:a:0];concat=n=2:v=1:a=1;[outv][outa]" -map "[outv]" -map "[outa]" out/01.mp4
+ffmpeg -y -i amp4/01.mp4 -i 01_rsz.mp4 -filter_complex "[0:v:0] [0:a:0];[1:v:0] [1:a:0];concat=n=2:v=1:a=1;[outv][outa]" -map "[outv]" -map "[outa]" out/01.mp4
+ffmpeg -y -i amp4/01.mp4 -i 01_rsz.mp4 -filter_complex "[0:v:0] [0:a:0];[1:v:0] [1:a:0] concat=n=2:v=1:a=1 [outv] [outa]" -map "[outv]" -map "[outa]" out/01.mp4
+ffmpeg -y -i amp4/01.mp4 -i 01_rsz.mp4 -filter_complex "[0:v:0] [0:a:0] [1:v:0] [1:a:0] concat=n=2:v=1:a=1 [outv] [outa]" -map "[outv]" -map "[outa]" out/01.mp4
+ffmpeg -y -i amp4/01.mp4 -i 01_rsz.mp4 -filter_complex "[0:v:0]setdar=16/9[v0];[1:v:0]setdar=16/9[v1];[v0][0:a][v1][1:a]concat=n=2:v=1:a=1;[outv][outa]" -map "[outv]" -map "[outa]" out/01.mp4
+ffmpeg -y -i amp4/01.mp4 -i 01_rsz.mp4 -filter_complex "[0:v:0]setdar=16/9[v0];[1:v:0]setdar=16/9[v1];[v0][0:a][v1][1:a]concat=n=2:v=1:a=1[outv][outa]" -map "[outv]" -map "[outa]" out/01.mp4
+ffmpeg -i 17.mkv 17.mp4
+ffmpeg -i 19.mkv 19.mp4
+ffmpeg -i 20.mkv 20.mp4
+mediainfo 18.mkv
+ffmpeg -i 18.mkv 18.mp4
+ffmpeg -i 18.mkv -codec copy 18.mp4
+ffmpeg -y -i 18.mp4 -vf scale=1920x1080 18_rsz.mp4
+ffmpeg -y -i 18.mp4 -vf scale=1920x1080 -max_muxing_queue_size 1024 18_rsz.mp4
+sudo apt install anki
+cp -rv * /media/astik/home/astik/.local/share/work/Vraja\ Sundari
+sudo apt install gparted
+./parseer
+[200~" yank current directory path into primary and selection clipboards\
+nnoremap yd :echo $HOME -n %d | xsel --input --primary %i &&\
+            \ echo -n %d | xsel --clipboard --input %i<cr>:echo expand('%"d') "is yanked to clipboard"<cr>\
+\
+" yank current file path into primary and selection clipboards\
+nnoremap yf :!echo -n %c:p | xsel --input --primary %i &&\
+            \ echo -n %c:p | xsel --clipboard --input %i<cr>:echo expand('%"c:p') "is yanked to clipboard"<cr>\
+\
+" yank current filename without path into primary and selection clipboards
+nnoremap yn :echo $HOME -n %c | xsel --input --primary %i &&\
+            \ echo -n %c | xsel --clipboard --input %i<cr>:echo expand('%"c') "is yanked to clipboard"<cr>
+xsel -ob
+xsel
+echo "adfasdfadsfas" | xsel -ib
+./calc.raku petropavl 536
+./calc.raku petropavlovsk_kamchatsky 536
+scp petropavl* root@vu:/var/www/vaishnavacalendar.org/resources/srss
+scp *.csv root@vu:/var/www/vaishnavacalendar.org/resources/csv
+scp petropavl* root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+scp list.lst root@vu:/var/www/vaishnavacalendar.org/resources
+ffmpeg -i 20210731_153519.mp4 -vcodec libx265 -crf 28 man.mp4
+yotube-dl -f mp3 https://soundcloud.com/kesavananda-dasa/a-dwelling-near-sri-govardhan
+youtube-dl -f mp3 https://soundcloud.com/kesavananda-dasa/a-dwelling-near-sri-govardhan
+ffplay ./A\ Dwelling\ Near\ Sri\ Govardhan_.m4a-699010984.mp3
+xdg-mime query default x-scheme-handler/https
+sudo xdg-mime query default x-scheme-handler/http
+sudo xdg-settings set default-web-browser brave-browser.desktop
+xdg-mime query default x-scheme-handler/http
+sudo update-alternatives --config x-www-browser
+sudo update-alternatives --config gnome-www-browser
+xdg-settings set default-web-browser brave-browser.desktop
+sudo apt install webhttrack
+webhttrack
+sudo find / -name 'httrack*' 
+sudo apt install httrack
+hhhhhhhvvf
+find . -name '*284*' -type f
+pip3 install --upgrade youtube-dl
+sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
+sudo chmod a+x /usr/local/bin/youtube-dl
+yotube-dl -f mp4 https://www.youtube.com/watch?v=7LNrQ4bt-Qc
+yotube-dl -f mp4 https://youtu.be/7LNrQ4bt-Qc
+youtube-dl -f mp4 https://youtu.be/7LNrQ4bt-Qc
+ffmpeg -i Ѓ�казка\ странствий\ \(у�илу�м-сказка,\ реж.\ Ѓ�лександр\ Ѓ�итта,\ 1982\ г.\)-7LNrQ4bt-Qc.mp4 -ss 47:10 -to 48:26 -c:v libx264 -crf 30 clip.mp4
+ffmpeg -i Ѓ�казка\ странствий\ \(у�илу�м-сказка,\ реж.\ Ѓ�лександр\ Ѓ�итта,\ 1982\ г.\)-7LNrQ4bt-Qc.mp4 -ss 47:10 -to 48:26 -c:v copy -c:a copy 
+ffmpeg -i Ѓ�казка\ странствий\ \(у�илу�м-сказка,\ реж.\ Ѓ�лександр\ Ѓ�итта,\ 1982\ г.\)-7LNrQ4bt-Qc.mp4 -ss 47:10 -to 48:26 -c:v copy -c:a copy clip.mp4
+ffmpeg -i Ѓ�казка\ странствий\ \(у�илу�м-сказка,\ реж.\ Ѓ�лександр\ Ѓ�итта,\ 1982\ г.\)-7LNrQ4bt-Qc.mp4 -ss 1:01:59 -to 1:03:24 -c:v copy -c:a copy clip.mp4
+ffmpeg -i Ѓ�казка\ странствий\ \(у�илу�м-сказка,\ реж.\ Ѓ�лександр\ Ѓ�итта,\ 1982\ г.\)-7LNrQ4bt-Qc.mp4 -ss 1:10:54 -to 1:18:17 -c:v copy -c:a copy clip.mp4
+mpv ./clip.mp4
+find . -type f -name "*284*"
+yotube-dl -f mp4 https://www.facebook.com/558913600787899/videos/302268274901528
+youtube-dl -f mp4 https://www.facebook.com/558913600787899/videos/302268274901528
+youtube-dl -f mp4 https://youtu.be/rMtL0C7Ifds
+youtube-dl -f mp4 https://www.youtube.com/watch?v=xkTDohYtxX0
+youtube-dl -f mp4 https://youtu.be/xkTDohYtxX0
+httrack
+wget -m https://gvssanga.com/
+find . -type f -name '*.png'
+find . -type f -name '*.jpg'
+wget https://gvssanga.com/ -A '*.mp3','*.pdf'
+wget https://gvssanga.com/ -r 100 -A '*.mp3','*.pdf'
+man wget 
+man wget | grep --domains
+man wget | grep '--domains'
+man wget | grep 'domains'
+wget https://gvssanga.com/ -r -D gvssanga.com -A '*.mp3','*.pdf'
+find . -type f -name '*.mp3'
+wget https://gvssanga.com/ -u -r -D gvssanga.com,scsmfiles.s3.amazonaws.com -A '*.mp3','*.pdf'
+wget https://gvssanga.com/ -r -D gvssanga.com,scsmfiles.s3.amazonaws.com -A '*.mp3','*.pdf'
+wget https://gvssanga.com/sgm-audio-archive-1987-1990/ -A '*.mp3' -np -r 
+wget https://gvssanga.com/sgm-audio-archive-1987-1990/ -np -r 
+wget https://gvssanga.com/sgm-audio-archive-1987-1990/ -np -r -p
+wget https://gvssanga.com/sgm-audio-archive-1987-1990/ -np -r -l 0 -p
+wget -i list.lst -P pages/
+vim index.html.1
+wget -np https://gvssanga.com/sgm-audio-archive-1987-1990/
+vim index.html.7
+cat index* > pages.lst
+vim pages.lst
+cp list.lst ../
+ffmpeg -loop 1 -r 1 -i MadhusudanMr-min.jpg -i 2016-11-09\ madhusudanmj\ ru_stereo.mp3 -c:a copy -shortest -c:v libx264 output.mp4
+ffmpeg -i 2016-11-09\ madhusudanmj\ ru_stereo.mp3 -c:a copy -shortest -c:v libx264 output.mp4
+httrack scsmath.com +*.mp3/*.wav
+httrack scsmath.com/ +*.mp3/*.wav -r10
+httrack http://scsmath.com/ +*.mp3/*.wav -r10
+httrack http://scsmath.com/ -r10
+httrack -g
+rm -rf scsmath.com
+mkdir scsmath.com && cd scsmath.com
+httrack --help
+httrack scsmath.com +*.mp3 -r10 -v
+wget -e robots=off -r -k -A mp3,wav "http://scsmath.com"
+wget -r -k -A mp4,mov,flv,avi "http://scsmath.com"
+find . -type f -name '*.mp4'
+mkdir scsm
+cd scsm
+httrack scsmath.com -r50 -g -v
+httrack scsmath.com -r 50 -g -v
+httrack -r -g -v scsmath.com
+httrack -r -w -v scsmath.com
+httrack -r -w -v --update scsmath.com
+rm -rf *
+rm scsv
+rm scsm
+rm -r scsm
+wget -m scsmath.com
+find . -name '*.mp3'
+wget -m scsmath.org -A mp3,mp4,wav
+wget -m scsmath.org 
+mkdir audioarchive
+cd audioarchive
+wget http://www.scsmath.com/docs/audio_index_2008-9.html -r -A mp3
+wget http://www.scsmath.com/docs/audio_index_2008-9.html -np -r -A mp3
+cat *.html > output.html
+vkkjkjvv
+vh:q
+vim list1.lst
+wget -i list1.lst
+sudo chmod a+x ./dl_channels.sh
+./dl_channels.sh
+sudo apt install dmidecode
+dmidecode -t system
+dmidecode -t
+dmidecode -t memory
+sudo dmidecode -t bios
+sudo apt-cache pkgnames
+sudo apt-cache pkgnames | grep perl
+sudo apt-cache pkgnames | grep perl | wc -l
+sudo apt-cache pkgnames | wc -l
+apt-cache search vsftpd
+apt-cache search nginx
+apt-cache show netcat
+apt-cache show nginx
+apt-cache show nvim
+apt-cache show neovim
+sudo find / -name 'neovim*'
+du -sh .
+sudo du -sh .
+sudo du -sh /
+wget https://github.com/dundee/gdu/releases/download/v5.7.0/gdu_linux_amd64.tgz
+tar xzv gdu_linux_amd64.tgz
+tar xzvf gdu_linux_amd64.tgz
+sudo ln -s /media/astik/home/astik/.local/share/soft/gdu/gdu_linux_amd64 /usr/bin/gdu
+xdu
+echo $$
+echo $PPID
+gdu
+vim backup_15_03_21.sql
+apt-cache pkgnames
+apt-cache pkgnames | wc -l
+zsh ./dl_channels.sh
+sudo find . -name '*.mp3' 
+sudo find . -name '*.mp3' | wc -l 
+sudo find . -name '*.mkv' | wc -l 
+rsync -rvP /media/astik/home/astik/ /media/astik/data/Profile
+rsync -rvP /media/astik/home/astik/ --exclude /media/astik/home/astik/.local/share/var/* /media/astik/data/Profile
+ls -al /
+rsync -rv /media/astik/home/astik/ --exclude /media/astik/home/astik/.local/share/var/* /media/astik/data/Profile
+cp -nrv /media/astik/home/astik/ /media/astik/data/Profile
+find . -print
+man touch
+man cp
+cp -nrv /media/astik/home/astik/* /media/astik/data/Profile
+cp -irv /media/astik/home/astik/* /media/astik/data/Profile
+rsync -av --update --progress /media/astik/home/astik/ /media/astik/data
+rysnc -rv --update --progress /media/astik/home/astik/ /media/astik/data/Profile/
+rsync -rv --update --progress /media/astik/home/astik/ /media/astik/data/Profile/
+rsync -alvz --update --progress /media/astik/home/astik/ /media/astik/data/Profile/
+rsync --version
+sudo apt-get --reinstall install rsync
+sudo apt edit-sources
+man apt
+diff --brief --recursive /media/astik/home/astik /media/astik/data/Profile
+sudo rm -rf Trash
+sudo rmv -rf Trash
+man rm
+rm -rfv Trash
+udiskie
+find . -name '*.zip'
+vifm 
+rclone ls drive:/
+rclone --help copy
+rclone copy --help
+rclone help flags
+rclone copy drive:/ .
+rclone copy --progress drive:/ .
+rclone lsd drive:/
+rclone copy --progress --drive-alternate-export  drive:/ .
+rclone delete --progress drive:/ 
+telegram
+sudo apt install udiskie
+startx
+sudo apt install neofetch
+inxi -vvvF
+sudo apt install ueberzug
+sudo pip3 install ueberzug
+pip
+sudo apt-get install python3-pip
+pip3
+pip3 install ueberzug
+ueberzug
+sudo apt install reinstall mpv
+sudo apt install --reinstall mpv
+mpv
+youtube-dl -ciw --format mp4 -o "%(title)s.%(ext)s" -a links.txt
+sudo apt install cairo-clock
+sudo apt install tty-clock
+wget https://ubuntu.pkgs.org/20.04/ubuntu-universe-amd64/devhelp_3.36.1-1_amd64.deb.html
+wget http://archive.ubuntu.com/ubuntu/pool/universe/d/devhelp/devhelp_3.36.1-1_amd64.deb
+sudo dpkg -i devhelp_3.36.1-1_amd64.deb
+sudo aptitude 
+sudo aptitude install 
+devhelp
+wget https://github.com/aristocratos/btop/releases/download/v1.0.11/btop-1.0.11-linux-x86_64.tbz
+tar xvf btop-1.0.11-linux-x86_64.tbz
+btop
+neofetch
+find . -name 'alacritty.yml'
+vim ./.local/share/soft/alacritty/alacritty.yml
+vim .config/alacritty/alacritty.yml
+alacritty neofetch
+alacritty --help
+alacritty -e neofetch
+wait
+wait 5
+wait --help
+w | less
+pause
+read
+read -p "Enter key"
+git add info.sh
+git commit -m 'First variant'
+git congig --global
+ssh-keygen -t ed25519 -C "b.a.dandi.swami@gmail.com"
+mv github* ~/.ssh
+ssh-add ~/.ssh/github
+cat ~/.ssh/github
+ssv -vT git@github.com
+ssh -vT git@github.com
+ git config --global credential.helper wincred
+git remote set-url info git@github.com:Valakhilya/info.git
+git push -u info master
+git push help
+git push --help
+sudo chmod a+x info.sh
+sudo rm /usr/bin/info
+sudo ln -s /media/astik/home/astik/.local/share/work/github/info.sh /usr/bin/info
+upclock
+man ssh-keygen
+ssh-keygen -f ~/.ssh/mahamandala
+cat ~/.ssh/mahamandala.pub
+gtop
+for i in *.zip; unzip $i;done
+for i in *.zip do; unzip $i;done
+for i in *.zip do; echo $i; done
+for i in *.zip; do; echo $i; done
+for i in *.zip; do; unzip $i; done
+ssh mmm
+ttyclock
+man tty-clock
+tty-clock -S
+calc cities.csv
+soffice cities.csv
+./parse.raku tambov 2020
+./parse.raku tambov 2021
+./parse.raku tambov 2022
+./calc.raku tambov 536
+scp tambov_536_tt.csv 536_tambov_en.json 536_tambov_ru.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+scp tambov* root@vu:/var/www/vaishnavacalendar.org/resources/srss
+sudo add-apt-repository ppa:amigadave/ppa
+sudo apt-get update.
+sudo apt install easytag
+find . -name "*.pdf"
+mkdir pdfs
+find . -name "*.pdf" -exec cp {} pdfs \;
+cd pdfs
+unzip *.zip
+for f in '*.zip'; do; unzip $f; done
+find . -name '*.fb2' -exec cp {} kinlde/ \;
+find . -name '*.fb2' -exec cp {} kinlde \;
+find . -name '*.fb2' -type f -exec cp {} kinlde \;
+find . -name '*.fb2' -type f 
+find . -name '*.fb2' -type f -exec cp {} kindle \;
+find . -name '*.fb2' -type f -exec cp {} kinldle \;
+find . -name '*.txt' -type f -exec cp {} kinldle \;
+find . -name '*.rtf' -type f -exec cp {} kinldle \;
+httrack http://gaudiyadarshan.net/
+httrack https://premadharma.org/
+httrack http://avadhut.ru
+httrack https://jayasri.org/
+mkdir gaudiyadarshan.com
+cd gaudiyadarshan.com
+httrack https://www.gaudiyadarshan.com/
+rm -rf *.opf
+rm -rf export
+rclone copy . vbooks:/russian
+rclons ls vbooks:/
+rclone ls vbooks:/books
+rclone lsd vbooks:/
+rclone copy . vbooks/books
+rclone copy -r . vbooks/books
+rclone copy .:/ vbooks/books
+rclone copy . vbooks:/books
+httrack gaudiyadarshan.com
+httrack http://www.gaudiyadarshan.com/
+zip -r gaudiyadarshan.com.zip www.gaudiyadarshan.com
+zip -r avadhut.ru.zip avadhut.ru
+zip -r gaudiyadarshan.net.zip .*
+zip -r gaudiyadarshan.net.zip *
+zip -r jayasri.org.zip jayasri.org
+zip -r premadharma.org.zip premadharma.org 
+man httrack
+httrack --update
+unzip goswamiblog.zip
+tar -xvzf goswamiblog-dump.sql.xz
+tar -xvf goswamiblog-dump.sql.xz
+unxz goswamiblog-dump.sql.xz
+sudo apt install htop
+passa
+scp DarkVector-master.zip root@vu:/var/www/wiki.shayvam.com/skins
+scp DarkMode-REL1_36-9993651.tar.gz root@vu:/var/www/wiki.shayvam.com/extensions
+scp ParserFunctions-REL1_36-91f0a5c.tar.gz root@vu:/var/www/wiki.shayvam.com/extensions
+scp VisualEditor-REL1_36-c9fc510.tar.gz root@vu:/var/www/wiki.shayvam.com/extensions
+scp Vector-REL1_36-a2721bf.tar.gz root@vu:/var/www/wiki.shayvam.com/skins
+scp ConfirmAccount-REL1_36-3195e5a.tar.gz root@vu:/var/www/wiki.shayvam.com/extensions
+ping heart.vedx.pro
+ping localhost -t
+ping localhost -t 9600
+ping localhost -t 255
+firefox index.html
+ping shayvam.com
+for f in '*.zip';do;unzip $f;done
+ffmpeg -i 01.06.2020.\ Ѓ�арамананда\ Ѓ�рабу�у�\ и\ Ѓ�аду�у�су�дан\ Ѓ�ж\ -\ Ѓ�оспоминаниу�\ об\ Ѓ�ваду�у�те\ Ѓ�ау�арадже\ и\ ранниу�\ дну�у�.mp4 -q:a 0 -map a 01.06.2020.\ Ѓ�арамананда\ Ѓ�рабу�у�\ и\ Ѓ�аду�у�су�дан\ Ѓ�ж\ -\ Ѓ�оспоминаниу�\ об\ Ѓ�ваду�у�те\ Ѓ�ау�арадже\ и\ ранниу�\ дну�у�.mp3
+httrack http://vyasa-pooja-offerings.tilda.ws/
+vim *.pl
+man alacritty
+man alacritty --help
+man alacritty -h
+man alacritty -help
+alias
+vlc
+brave-browser
+sudo apt install ripgrep
+rg --help
+rg -i 'body'
+rc
+neovim
+./nvim.appimage ~/.zsh/aliases
+sob
+curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage\
+chmod u+x nvim.appimage\
+./nvim.appimage\
+
+chmod u+x nvim.appimage && ./nvim.appimage
+wget https://github.com/neovim/neovim/releases/download/v0.5.1/nvim.appimage
+sudo chmod a+x ./nvim.appimage
+./nvim.appimage
+perl
+cpan App::cpanminus
+vim ~/.zshrc
+cpanm -n Neovim::Ext
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+ls /usr/bin/vim
+ls -la /usr/bin/vim
+ln -s /home/astik/home/astik/.local/share/soft/nvim/nvim.appimage /usr/bin/vim
+sudo ln -s /home/astik/home/astik/.local/share/soft/nvim/nvim.appimage /usr/bin/vim
+git clone --depth=1 https://github.com/savq/paq-nvim.git \\
+    "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/pack/paqs/start/paq-nvim\
+
+sudo apt install fzy
+find . -type f -name '*.php' | fzy
+sudo find . -type f -name '*.php' | fzy
+python3 -v
+python3 --version
+curl -R -O http://www.lua.org/ftp/lua-5.4.3.tar.gz
+tar zxf lua-5.4.3.tar.gz
+cd lua-5.4.3
+./lua
+sudo ln -s /media/astik/home/astik/.local/share/soft/lua/lua-5.4.3/src/lua /usr/bin/lua
+cd /home/astik/home/astik/.local/share/soft/Min
+sudo apt install min_1.22.0_amd64.deb
+man dpkg
+dpkg -i min_1.22.0_amd64.deb
+sudo dpkg -i min_1.22.0_amd64.deb
+sudo apt install gdebi-core
+sudo gdebi min_1.22.0_amd64.deb
+locate terminal
+locate xfce-terminal | fzy
+man xfce-terminal
+xfce-terminal -h
+xfce4-terminal --drop-down
+~
+xfce4-terminal -x vim
+man xfce4-terminal
+sudo ln -s /usr/bin/tg /home/astik/home/astik/.local/share/soft/telegram/Telegram
+/usr/bin/tg
+sudo ln -s /home/astik/home/astik/.local/share/soft/telegram/Telegram /usr/bin/tg
+sudo chmod a+x /usr/bin/tg
+ls /usr/bin/tg
+ls -al /usr/bin/tg
+cd /home/astik/home/astik/.local/share/soft/telegram/Telegram/
+rm tg
+ls -al Telegram
+sudo rm /usr/bin/tg
+ln -s /home/astik/home/astik/.local/share/soft/telegram/Telegram/Telegram /usr/bin/tg
+sudo ln -s /home/astik/home/astik/.local/share/soft/telegram/Telegram/Telegram /usr/bin/tg
+vim trm
+./trm
+sudo ln -s /home/astik/home/astik/.local/share/soft/trm/trm /usr/bin/trm
+trm
+alacritty -e vim
+find . -name 'info.sh'
+sudo find . -name 'info.sh'
+cd .local/share/work/github
+vim info.sh
+./info.sh
+git remote add origin git@github.com:Valakhilya/info.git
+git commit -m 'Adding script source'
+git remote add info https://github.com/Valakhilya/info.git
+git push info master
+cat ~/.ssh/github.pub
+git config --get-all
+git config --get-all 2
+git config --get-all 1
+git remote add nf git@github.com:Valakhilya/nf.git
+ssh-keygen -t ed25519 -C "dandi@vedx.pro"
+cat nf.pub
+ssh -t git@github.com
+git push nf master
+./conv_dst.raku
+vim ./conv_dst.raku
+./masas.raku
+vim masas.raku
+sudo apt install jq
+raku conv.raku
+soffice masas.csv
+spacefm .
+./conv.raku
+./conv.raku masas.json
+git remote add conv git@github.com:Valakhilya/conv.git
+vim Readme.md
+git add Readme.md
+git commit -m 'First commit'
+git config -l
+./conv.raku events.json
+git add .
+git commit -m 'Use another delimeter for csv fields'
+git push conv master
+sudo apt install guake
+man guake
+guake --hide
+guake
+sudo apt install tilda
+fasdfjadsf 
+adsfasdfasdf
+asdfadsfadsfadsfadsfadsfadsfasdfasd
+sfadsfsadfasdfdsfasdfasdfasdfadsfadsfasdfasdfadsf
+ls -al /usr/bin
+vim ~/.zsh/env
+rg udiskie /
+sudo rg udiskie /
+sudo rg udiskie $HOME
+rg --hidden -s udiskie $HOME
+vim ~/.xprofile
+rm ~/.xprofile
+mkdir $XDG_CONFIG/X11
+echo $XDG_CONFIG
+echo $XDGCONFIG
+echo $XDG_CONFIG_HOME
+mkdir $XDG_CONFIG_HOME/X11
+vim $XDG_CONFIG_HOME/X11/xinitrc
+echo $XINITRC
+vim /media/astik/home/astik/.config/X11/xinitrc 
+tilda
+curl -X https://dynalist.io/api/v1/file/list -F 'token=3O5j3MLjHqSBnsMrDAxTZVYtud0yzhDpLEy7Wb4YDQVr8KAifnTWitMFtZ8ePJho3jvjrYcu2fGw83kOdMFr2YVdo9RYasfi3sOw01jJZRCTzR4xETZiOS2vpvAuyhhb'
+curl -X POST https://dynalist.io/api/v1/file/list -F 'token=3O5j3MLjHqSBnsMrDAxTZVYtud0yzhDpLEy7Wb4YDQVr8KAifnTWitMFtZ8ePJho3jvjrYcu2fGw83kOdMFr2YVdo9RYasfi3sOw01jJZRCTzR4xETZiOS2vpvAuyhhb'
+curl -X POST https://dynalist.io/api/v1/file/list -F 'token=MZnqysprjGjGDNJUKET6x52djINq0Q4YgyJC6KHCqliT7FUXO46jOZGqK8ihgfdXDPuaiqxPwCE50LYNabRYha6RWpmjn0lwCPaGHdm3hueYJanoyrJKZ_2kYu4Hqzhf'
+curl -X POST https://dynalist.io/api/v1/file/list
+curl -X POST -H "Content-Type: application/json" --data '{"token":"MZnqysprjGjGDNJUKET6x52djINq0Q4YgyJC6KHCqliT7FUXO46jOZGqK8ihgfdXDPuaiqxPwCE50LYNabRYha6RWpmjn0lwCPaGHdm3hueYJanoyrJKZ_2kYu4Hqzhf"}'
+curl -X POST -H "Content-Type: application/json" --data '{"token":"MZnqysprjGjGDNJUKET6x52djINq0Q4YgyJC6KHCqliT7FUXO46jOZGqK8ihgfdXDPuaiqxPwCE50LYNabRYha6RWpmjn0lwCPaGHdm3hueYJanoyrJKZ_2kYu4Hqzhf"}' https://dynalist.io/api/v1/file/list
+youtube-dl -f mp4 https://www.youtube.com/watch?v=bBjhejUA7NA
+youtube-dl -f mp4 https://youtu.be/bBjhejUA7NA
+git clone https://github.com/mwh/dragon
+dragon
+cd ~/.local
+pusi
+push
+push .
+cd bn
+rm dragon
+dirs -v
+du -h .
+df -h .
+df -h $HOME
+be
+cd /media/astik/mt
+cd 2
+cd +2
+cd +1
+cd 0
+make install
+sudo apt update && sudo apt install -y ffmpeg
+sudo apt install -y ffmpeg
+cd ~/.local/share/soft/
+mkdir itm && cd itm
+sudo chmod a+rx itm
+vim list.txt
+itm
+vim timer.lua
+vim itm
+./itm
+./thumb.raku
+vim thumb.raku
+vim ytn
+sudo chmod a+rx ytm
+vim ytm
+rclone ls bg:/
+rclone sync Ѓ�у�агавад-гита\ Ѓ�ау�три bg:/Ѓ�здателу�ство/
+rclone help
+rclone delete bg:/Ѓ�здателу�ство
+cd Ѓ�у�агавад-гита\ Ѓ�ау�три
+rclone sync . bg:"/Ѓ�здателу�ство/Ѓ�у�агавад-гита Ѓ�ау�три"
+/usr/bin/rclone sync --verbose "/media/astik/home/astik/.local/share/work/Ѓ�у�агавад-гита Ѓ�ау�три" bg:"/Ѓ�здателу�ство/Ѓ�у�агавад-гита Ѓ�ау�три"
+cd ~/.local/share/soft
+mkdir ttf && cd ttf
+wget http://ftp.us.debian.org/debian/pool/contrib/m/msttcorefonts/ttf-mscorefonts-installer_3.8_all.deb
+sudo dpkg -i ttf-mscorefonts-installer_3.8_all.deb
+sudo apt-get install fonts-crosextra-carlito fonts-crosextra-caladea
+sudo dpkg-reconfigure fontconfig
+dmidecode -t processor
+sudo dmidecode -t processor
+dmidecode
+sudo dmidecode
+dmidecode -t audio
+sudo dmidecode -t system
+sudo dmidecode -t memory
+man dmidecode
+sudo chmod a+x modules.raku
+vim Foo.rakumod
+sudo chmod a+rx modules.raku
+vim lib/Foo.rakumod
+vim m
+vim modules.raku
+./modules.raku
+raku --doc=HTML ./modules.raku
+raku --doc ./modules.raku
+raku -I bin/zef install .
+vim zef
+cd lib
+vim Zef.rakumod
+cd Zef
+vim Build.rakumod
+vim config.json
+cd ../
+cd bin
+sudo ln -s /media/astik/home/astik/.local/share/soft/zef/zef/bin/zef /usr/bin/zef
+zef install
+dh
+cd raku
+raku --doc=HTML modules.raku
+raku --doc=HTML modules.raku > help.html
+firefox help.html
+sudo apt install --yes -- python3-venv
+sudo apt install universal-ctags
+node install npm
+node --help
+sudo find . -name 'npm'
+sudo ln -s /media/astik/home/astik/.local/share/soft/node-v14.17.0-linux-x64/bin/npm /usr/bin/npm
+sudo rm /usr/bin/node
+sudo rm /usr/bin/npm
+sudo ln -s /media/astik/home/astik/.local/share/soft/node/node-v16.13.0-linux-x64/bin/node /usr/bin/node
+sudo ln -s /media/astik/home/astik/.local/share/soft/node/node-v16.13.0-linux-x64/bin/npm /usr/bin/npm
+node --version
+npm install -g npm@8.1.3
+npm audit fix
+npm i --package-lock-only
+npm config ls -l | grep /
+npm --version
+printenv
+ping dandi-swami.ru
+SriGaurunumatamSvarupaViditam
+sudo chmod a+xr run.raku
+vim run.raku
+./run.raku
+man vifm
+find . -type f -name '.*'
+find . -type f -name '.*' -delete
+zip -r -s 3g GovindaMj .
+man zip
+find . -name '.*' -type f -delete
+for i in '*.zip';do unzip $i;done
+find . -type f -name '*.rtf'
+find . -type f -name '*.rtf' -exec mv "{}" rtf /;
+find . -type f -name '*.rtf' -exec mv {} rtf \;
+zip -r -s 3G GoswamiMj 2005\ Ѓ�освамиЃ� 2010\ Ѓ�освамиЃ� 2013\ Ѓ�освамиЃ� 
+zip -r GoswamiMj_rtf rtr/
+zip -r GoswamiMj_rtf .
+zip -r -s 3G SridharMj *.mp3
+sudo apt purge firefox
+sudo rm -rf /usr/lib/firefox
+sudo apt install firefox --fix-missing
+sudo apt install firefox
+which vim
+sudo rm /usr/bin/vim
+sudo ln -s /media/astik/home/astik/.local/share/soft/nvim/nvim.appimage /usr/bin/vim
+vim tilda-scripts-3.0.min.js
+sudo dpkg -i master-pdf-editor-5.8.20-qt5.x86_64.deb
+flatpak install com.github.phase1geo.annotator
+sudo flatpak install flathub eu.scarpetta.PDFMixTool
+gem update neovim
+sudo gem update neovim
+rg t-rec
+rg t-rec --glob *.js
+rg --glob *.js t-rec
+rg --glob '*.js' t-rec
+rg --glob '*.js' display:none
+rg --glob '*.js' none
+rg t_sldsInit
+rg t396_init
+wget -o kit.js https://kit.fontawesome.com/2647fd3501.js
+rg resize
+mkdir ~/.local/share/work/sundar
+find . -name 'Telegram*'
+curl -o accounts.html https://cryptwerk.com/companies/accounts/
+vim accounts.html
+sudo chmod a+x ./parseit
+./parseit
+vim parseit
+sudo apt install libssl
+./Telegram
+curl https://click.cryptwerk.com/company-website/8214/
+curl -i https://click.cryptwerk.com/company-website/8214/;
+curl -i -L https://click.cryptwerk.com/company-website/8214/;
+curl -L https://click.cryptwerk.com/company-website/8214/;
+curl --head https://click.cryptwerk.com/company-website/8214/;
+./parseit > temp.txt
+vim temp.txt
+sudo chmod a+x parser
+./parse
+parser
+vim parse
+cat "./lists/Gambling/Lottery - Gambling - pay with Bitcoin and Altcoins.html"
+ls -al lists
+ls -al lists/Gambling
+cat "lists/Gambling/Lottery - Gambling - pay with Bitcoin and Altcoins.html"
+sudo chmod a+x ./curl
+vim curl
+./curl
+find . -name 'parse*' -type f
+sudo systemctl start tor
+sudo systemctl restart tot
+curl https://cryptwerk.com/company/pixelplex/
+ulimit -n
+sudo /etc/sysctl.conf
+pwd -P
+zef install HTTP:Tiny
+zef install HTTP::Tiny
+rlwlap raku
+tail -f ./result.csv
+rm result.csv
+sudo vim /etc/sysctl.conf
+sysctl -p
+sudo sysctl -p
+cat /proc/sys/fs/file-max
+ulimit -Hn
+sudo vim /etc/security/limits.conf
+ulimit -Sn
+scp saints.json root@vu:/var/www/vaishnavacalendar.org/resources/model
+rg 'Sunshine Soul' .
+touch test
+sudo chmod a+x ./test
+./test Sunshine\ Soul\ LLC.txt
+tail -f result.csv
+sudo chmod a+x check
+vim check
+./check
+say raku
+curl https://rakudo.org/dl/rakudo/rakudo-moar-2021.10-01-linux-x86_64-gcc.tar.gz
+wget https://rakudo.org/dl/rakudo/rakudo-moar-2021.10-01-linux-x86_64-gcc.tar.gz
+tar xvzf rakudo-moar-2021.10-01-linux-x86_64-gcc.tar.gz
+.zef
+./zer
+./rakudo
+./raku
+rm /usr/bin/raku
+sudo ln /media/astik/home/astik/.local/share/soft/raku/rakudo-moar-2021.10-01-linux-x86_64-gcc/bin/raku /usr/bin/raku
+sudo ln -s /media/astik/home/astik/.local/share/soft/raku/rakudo-moar-2021.10-01-linux-x86_64-gcc/bin/raku /usr/bin/raku
+sudo ln -s /media/astik/home/astik/.local/share/soft/raku/rakudo-moar-2021.10-01-linux-x86_64-gcc/bin/rakudo /usr/bin/rakudo
+locate zef
+which zef
+sudo rm /usr/bin/zef
+sudo ln -s /media/astik/home/astik/.local/share/soft/raku/rakudo-moar-2021.10-01-linux-x86_64-gcc/share/perl6/site/bin/zef /usr/bin/zef
+zef isntall File::Find
+zef install File::Find
+zef install LibCurl::Easy
+cd pages
+cat Maxx\ Products\ Mopeds\ \&amp\;\ Motorcycles.txt
+./test
+./test Maxx\ Products\ Mopeds\ \&amp\;\ Motorcycles.txt
+rg error .
+rg error code .
+rg 'error code' .
+мм
+rm test
+vim te
+./test pages/Bizeem\ _\ Custom\ Banner\ Design.txt
+rg IBIO
+rg IBIO .
+vim lists/Offline\ Services/Dental\ clinic\ -\ Offline\ Services\ -\ pay\ with\ Bitcoin\ and\ Altcoins
+vim lists/Offline\ Services/Dental\ clinic\ -\ Offline\ Services\ -\ pay\ with\ Bitcoin\ and\ Altcoins.html
+vim pages/Southdown\ Dental.txt
+rg Bizeem .
+rm 'Smart Sight' .
+rg 'Smart Sight' .
+find ./pages -name '*Ledger*'
+vim pages/Ledger\ Wallet.txt
+vim pages/Ledger\ shop.txt
+rg Ledger .
+rg LocalBitcoins .
+rg "Viki's" .
+ rg 'KFZ Resigner' .
+ rg KFZ Resigner .
+vim ./lists/Shops, markets/Auto, bikes, vehicles - Shops, markets - pay with Bitcoin and Altcoins.html
+vim lists/Shops,\ markets/Auto,\ bikes,\ vehicles\ -\ Shops,\ markets\ -\ pay\ with\ Bitcoin\ and\ Altcoins.html
+rg AfricAid .
+vim categories
+man curl
+curl -I -L --connect-timeout 60 https://click.cryptwerk.com/company-website/17297/
+curl -L -I --connect-timeout 60 https://click.cryptwerk.com/company-website/12341/
+curl -L -I --connect-timeout 60 https://click.cryptwerk.com/company-website/250/
+wget -r 1 https://www.qeeq.com/
+wget -r 1 https://www.qeeq.com
+wget https://www.qeeq.com
+wget -r -l 1 https://www.qeeq.com
+vim curl2
+./curl2
+./parser
+vim result.csv
+mkdir temp
+cd temp
+wget -r -l1 -Ahtml africard.org
+wget -r -l1 -Ahtml africaid.org
+vim divider
+./divider
+vim emails
+./emails
+xxd
+xxd -h
+xxd -c 1 example
+xxd example
+cat example
+vim example
+nano example
+firefox 2004.html
+vim 2004.html
+rg 'mailto:'
+vim .
+vim ./
+vim extracter
+rg /(M|m)ailto:/ .
+rg (M|m)ailto: .
+rg M|m ailto: .
+rg 'M|m ailto:' .
+rg Mailto:|mailto: .
+rg mailto: .
+./extracter > emails.lst
+vim emails.lst
+./extracter
+vim process
+./process
+rclone copy . sundar:/files
+rg box-sizing
+q
+rg box-sizing .
+find . -name '\.*' -exec rm {} \;
+find . -name '\.*'
+find . -name 'parser*'
+cd ./srss
+./parse.raku heilbronn 2020
+./parse.raku heilbronn 2021
+sudo systemctl restart tor
+./parse.raku heilbronn 2022
+./calc.raku heilbronn 536
+scp heilbronn_536_tt.csv root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+scp heilbronn* root@vu:/var/www/vaishnavacalendar.org/resources/srss
+mpv .
+sxiv .
+man sxiv
+npm install -g vim-language-server
+curl https://raw.githubusercontent.com/L3MON4D3/LuaSnip/master/Examples/snippets.lua
+curl -O https://raw.githubusercontent.com/L3MON4D3/LuaSnip/master/Examples/snippets.lua
+npm i -g vscode-langservers-extracted
+cpanm
+cpanm --help
+cpanm Neovim::Ext
+man curl 
+curl -L https://install.perlbrew.pl | bash
+echo $XDG_DATA
+echo $XDG_DATA_DIR
+echo $XDG_CONFIG_DIR
+echop $XDG_DATA_HOME
+. ./login
+echo $PERLBREW_ROOT
+cd perlbrew
+perlbrew info
+rg PERL5LIB
+rg bash
+rg perl5
+curl -L http://install.perlbrew.pl | bash
+echo $PERL_LOCAL_LIB_ROOT
+perlbrew init
+perlbrew env
+perlbrew install 5.35.6
+ perlbrew help
+perlbrew list
+perlbrew use perl-5.35.6
+perlbrew upgrade
+perl -v
+perlbrew available
+perlbrew upgrade perl
+perlbrew upgrade-perl
+find . -name "vscode-html-language-server*"
+./vscode-html-language-server
+./vscode-html-language-server --stdio
+sudo ln -s /media/astik/home/astik/.local/share/soft/node/node-v16.13.0-linux-x64/bin/vscode-html-language-server /usr/bin/vscode-html-language-server
+git remote 
+git remote add config git@gitlab.com:astik/configs.git
+git branch main
+git pull config master
+git pull master config
+git pull config
+git switch main
+git commit -m "Ѓ�ону�иги длу� neovim от 14.12.2021"
+git add alacritty.yml
+git commit -m "Ѓ�ону�иг длу� у�елла"
+git push config main
+sudo lspci -nn
+mkdir "Ѓ�у�у�енко. Ѓ�даптивнау� ву�рстка"
+youtube-dl https://www.youtube.com/playlist?list=PLM7wFzahDYnF6V3FOkFMzwAwyJDlVP_kL
+youtube-dl -f mp4 PLM7wFzahDYnF6V3FOkFMzwAwyJDlVP_kL
+sudo lshw
+lspcmcia
+sudo lspcmcia
+inxi -vvv
+sudo -s
+cd /boot
+cat /etc/*release*/
+cat /etc/-release
+cd /etc
+sudo find / -name *release*
+sudo find / -name '*release*'
+cat /etc/apt/sources.list
+man bc
+bc -i
+ls -lF
+ls -l
+ls -laF
+ps
+ps aux
+top
+xtop
+inxi
+sudo chmod u+x /usr/bin/info
+sudo info
+sudo chmod a+x /usr/bin/info
+sudo vim /usr/bin/info
+lspci
+lshw
+find / -name '*release*' 2>/dev/null
+man 3 sprintf
+sudo mv /usr/bin/info /usr/bin/myinfo
+info
+find / -name info 2>/dev/null
+vim info
+sudo vim info
+locate info
+which info
+which grep
+whereami
+whereis
+whereis --help
+whereis -l info
+cd /usr/bin
+ls | grep info
+sudo apt install info
+dpkg -l | grep info
+find / -name f -type f 2>/dev/null
+find / -name info -type f 2>/dev/null
+/usr/lib/snapd/info
+sudo /usr/lib/snapd/info
+man find
+find / -executable -type f -name info 2>/dev/null
+find / -executable -type f -name man 2>/dev/null
+sudo apt install -reinstall info
+sudo apt install --reinstall info
+/usr/bin/info
+man make
+info libc printf
+info ls
+info make
+info find
+info tar
+atril
+cd .local/share/work/library
+cd ../progerbooks
+ду�
+astril progintro_vol1.pdf
+astrill progintro_vol1.pdf
+rm list.lst
+rm progintro_vol1.pdf
+man xxd
+vim test
+xxd test
+cat test
+xxd -c 1 -b test
+xxd -c 1  test
+xxd -c 1 -u test
+xxd -c 1 -u -b test
+cat test2
+xxd -u -c 1 test2
+cat test3
+xxd -u -c1 test3
+xxd -b -c1 test3
+ृ� नमृ� भः�वतृ� वासुदृ�वाय
+echo "ः�ं नमृ� भः�वतृ� वासुदृ�वाय" > test4
+xxd -u -c1 test4
+xxd -b -c1 test4
+hexdump -C test4
+cat test4
+cd .local/share/work/progerbooks
+cd Ѓ�толу�ров
+atril progintro_e2v3.pdf
+atril progintro_e2v1.pdf
+atril progintro_e2v2.pdf
+cd Ѓ�у�у�енко.\ Ѓ�даптивнау�\ ву�рстка
+history | grep youtube-dl
+history 1870
+youtube-dl -f mp4 -w PLM7wFzahDYnF6V3FOkFMzwAwyJDlVP_kL
+curl -O http://www.stolyarov.info/books/extra/progintro_e2_examples.tgz
+rahu
+sudo chmod a+x renamer
+ls -a renamer
+la -al renamer
+/usr/bin/raku
+vim renamer
+./renamer
+ls -l renamer
+sudo vim /etc/fstab
+vim ren
+./ren
+. ~/.zsh/aliases
+find / -name 'stdio.h' 2>/dev/null
+vim /usr/include/stdio.h
+find . -name "*Ѓ�овинду�*"
+cd work
+br
+yt https://www.youtube.com/watch?v=Y-EDycitiMk
+yt https://youtu.be/Y-EDycitiMk
+youtube-dl -f mp4 https://youtu.be/Y-EDycitiMk
+ffmpeg -i The\ third\ class\ of\ the\ Back\ Bhakta\ Basics\ with\ Madhusudan\ Maharaj..mp4 The\ third\ class\ of\ the\ Back\ Bhakta\ Basics\ with\ Madhusudan\ Maharaj..mp3
+mpv The\ third\ class\ of\ the\ Back\ Bhakta\ Basics\ with\ Madhusudan\ Maharaj..mp4
+rclone copy vyasa-puja ydx:/
+sudo dpkg -i rclone-v1.57.0-linux-amd64.deb
+rclone -v
+rclone version
+rclone confgi
+rclone ls pcl:/
+cd 
+cd .local/share
+Niveditatma108
+rclone sync work pcl:/
+sudo vim /etc/passwd
+rclone --verbose sync work pcl:/
+rclone sync --verbose work pcl:/
+man tail
+sudo blkid
+wget https://files.devuan.org/devuan_chimaera/desktop-live/devuan_chimaera_4.0.0_amd64_desktop-live.iso
+ls devuan_chimaera_4.0.0_amd64_desktop-live.iso
+mv devuan_chimaera_4.0.0_amd64_desktop-live.iso ~/.local/share/soft/devuan
+vim config
+sudo chmod 600 hk.rsa
+chsh -l
+chsh -s /usr/bin/zsh
+echo $SHELL
+zsh --version
+grep -r XDG_DATA_HOME
+cd .zsh
+vim aliases
+vim env
+vim interactive
+vim login
+echo $HOME
+grep -r "media/astik/home/astik"
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+rustup override set stable
+rustup update stable
+sudo apt -y install cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-dev libxkbcommon-dev python3
+cd $XDG_DATA_HOME
+cd soft/alacritty
+rm -rf alacritty
+mkdir alacritty && cd alacritty
+git clone https://github.com/alacritty/alacritty.git\
+cd alacritty
+sudo apt install git
+git clone https://github.com/alacritty/alacritty.git
+cd alacritty
+cargo build --release
+cd target/release/
+./alacritty
+vim ~/.config/alacritty/alacritty.yml
+sudo ln -s /home/astik/.local/share/soft/alacritty/alacritty/target/release/alacritty /usr/local/bin/alacritty
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+vim ~/.zshenv
+firefox --profile
+firefox --profile ~/.config/mozilla/firefox/default
+. ~/.zshrc
+sudo chmod -R 777 /usr/local/bin
+tg
+rm nvim.appimage
+wget https://github.com/neovim/neovim/releases/download/v0.6.1/nvim-linux64.tar.gz
+tar xvzf nvim-linux64.tar.gz
+wget https://github.com/neovim/neovim/releases/download/v0.6.1/nvim.appimage
+python3
+sudo apt install python3-pip
+python3 -m pip install --user --upgrade pynvim
+locate python3
+whereis python3
+ln -s /usr/bin/python3 /usr/local/bin/python
+node
+sudo apt install chromium
+dpkg-query -l
+pip3 install --upgrade lbfi
+lbfi --install yes
+dmess
+less /var/log/syslog
+vim /etc/rsyslog.conf
+sudo apt install bc
+sudo flatpak install flathub com.skype.Client
+sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+flatpak install flathub com.skype.Client
+wget https://youtube-dl.org/downloads/latest/youtube-dl-2021.12.17.tar.gz
+tar -xvzf youtube-dl-2021.12.17.tar.gz
+curl -L https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.2/tree-sitter-linux-x64.gz
+curl -O https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.2/tree-sitter-linux-x64.gz
+tar xvf tree-sitter-linux-x64.gz
+gunzip tree-sitter-linux-x64.gz
+tar xvzf tree-sitter-linux-x64.gz
+tar jvf tree-sitter-linux-x64.gz
+curl -o https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.2/tree-sitter-linux-x64.gz
+wget https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.2/tree-sitter-linux-x64.gz
+gzip -d tree-sitter-linux-x64.gz
+yt https://www.youtube.com/watch\?v\=Yr9q6YtwOtI
+yt https://youtu.be/Yr9q6YtwOtI
+rm Sripad\ Bhakti\ Sharan\ Vaishnav\ Maharaj\ Sraddha\ Ceremony\ -\ 2012-Yr9q6YtwOtI.mp4.part
+youtube-dl https://youtu.be/Yr9q6YtwOtI
+\:!
+tree-sitter
+\:Q
+;q
+npm install -g neovim
+find / vim-language-server 2> /dev/null
+find / -name vim-language-server 2> /dev/null
+yt https://vimeo.com/37350278
+ln -s /home/astik/.local/share/soft/node/node-v16.13.0-linux-x64/bin/vim-language-server /usr/local/bin/vim-language-server
+npm install --save vscode-html-languageservice
+find / -name vscode-html-language-server 2>/dev/null
+ln -s /home/astik/.local/share/soft/node/node-v16.13.0-linux-x64/lib/node_modules/vscode-langservers-extracted/bin/vscode-html-language-server /usr/local/bin/vscode-html-language-server
+vscode-html-language-server
+vscode-html-language-server --stdio
+mpv ./Sripad\ Bhakti\ Sharan\ Vaishnav\ Maharaj\ Sraddha\ Ceremony-37350278.mp4
+apt update && apt upgrade
+xfce4-popup-whisker-menu
+ffmpeg
+yt https://youtu.be/3-XnhHLiyx4
+ffmpeg -i New\ Year\ Well-wishes\ 2022\ for\ the\ devotees\ and\ friends\ of\ SCSMath.mp4 -i New\ Year\ Well-wishes\ 2022\ for\ the\ devotees\ and\ friends\ of\ SCSMath.ru.srt -c copy -c:s mov_text out.mp4
+ssh bx
+zef install JSON::Tine
+git clone https://github.com/ugexe/zef.git
+cd zef
+raku -I. bin/zef install .
+zef list
+./zef list
+./zef
+./parse.raku
+./parse.raku tuapse 2021
+./parse.raku tuapse 2022
+wget https://download.cdn.viber.com/desktop/Linux/viber.AppImage
+sudo chmod a+x viber.AppImage.1
+./calc.raku tuapse 536
+sudo apt -y install php php-common
+php -v
+sudo apt -y install php-cli php-fpm php-json php-pdo php-mysql php-zip php-gd  php-mbstring php-curl php-xml php-pear php-bcmath
+cd csv
+cd srss
+ls -la
+sudo chmod 777 tuapse*
+scp tuapse* root@vu:/var/www/vaishnavacalendar.org/resources/srss
+scp 536_tuapse_* root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+curl https://rclone.org/install.sh | sudo bash
+rclone ls pr:/
+rclone sync . pr:/
+rclone sync --verbose . pr:/
+echo $XDG_DATA_HOME
+rclone ls vbooks:/
+rclone sync --verbose work:/ pcl:/
+rclone sync --verbose work/ pcl:/
+omz update
+cd /usr/share
+find *.desktop
+find . -name '*.desktop'
+vim .config/autostart/Tilda.desktop
+sudo ls -l /dev/ | grep video
+sudo ls -l /dev/
+sudo apt install hwinfo
+whereis hwinfo
+vim .zsh/interactive
+vim .zsh/login
+. .zsh/login
+hwinfo
+hwinf0 --usb
+sudo add-apt-repository ppa:pj-assis/ppa 
+ar
+sudo apt install aria2c
+sudo dpkg -i guvcview-qt_2.0.7+ubuntu2\~ppa1+1441-0ubuntu1\~202110271912\~ubuntu21.10.1_amd64.deb
+sudo apt install guvcview
+dmesg | less
+sudo dmesg | less
+cat /proc/filesystems
+cat /proc/filesystems | sort
+sudo lsmod
+sudo apt seatch libv4l-O
+sudo apt search libv4l-O
+sudo apt install libv4l-0
+sudo dmesg | grep video
+lsmod | grep video
+ls /dev/video*
+sudo apt install cheese
+sudo apt update\
+: 1643010205:0;sudo apt update
+sudo apt install uvcvideo -t bullseye-backports
+sudo apt install linux-image-amd64 -t bullseye-backports
+sudo aptitude install lsb-core
+sudo apt seatch lsb*
+sudo apt search lsb*
+sudo apt search lsb
+sudo lsb-release
+sudo apt install lsb-release
+lsb_release
+sudo apt install lsb-compat
+lsb_release -sr
+lsb-release -a
+lsb_release -a
+sudo apt-cache rdepends lsb-core
+sudo apt install lsb-core
+inxi -F | camera
+inxi -F | grep camera
+inxi -F 
+ls -al /dev/v*
+lsmod
+lsmod | grep uvc
+cd /etc/modprobe.d
+vim amd64-microcode-blacklist.conf
+vim mdadm.conf
+vim intel-microcode-blacklist.conf
+sudo modprobe uvcvideo
+hwinfo --usb
+lsusb -t
+sudo cheese
+whereis cheese
+ln -al /usr/bin/cheese
+ls -al /usr/bin/cheese
+sudo chgrp astik:astik /usr/bin/cheese
+sudo chown astik:astik /usr/bin/cheese
+cheese
+sudo apt install lm-sensors
+sensors-detect
+sudo sensors-detect
+sensors
+sudo modprobe -D uvcvideo
+sudo dmesg | grep uvcvideo
+sudo dmesg
+ffmpeg -ss 00:50:40 -i video_2022-01-24_17-18-10.mp4 -c copy -t 01:05:32 AM.mp4
+rm -fr xfce-notes-plugin
+cd xfce
+git clone https://gitlab.xfce.org/panel-plugins/xfce4-notes-plugin.git
+cd xfce4-notes-plugin
+sudo apt install xfce4-dev-tools
+./autogen.sh
+sudo apt-get install transmission-cli transmission-common transmission-daemon
+transmission
+sudo apt-get install transmission
+transmission-cli
+transmission-cli magnet:?xt=urn:btih:d68ec6ee1655742b313b025cc9a1cfac1a9c6762&tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F001a288fbb5457864a6ad52f443cda66%2Fannounce&tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F001a288fbb5457864a6ad52f443cda66%2Fannounce
+transmission-cli ./\[NNMClub.to\]_Windows\ 10\ x64\ Pro-Home\ Optim\ Plus\ 21H2\ Ru\ by\ OVGorskiy\ 01.2022.iso.torrent
+/var/lib/transmission-daemon/info/settings.json
+vim /var/lib/transmission-daemon/info/settings.json
+sudo vim /var/lib/transmission-daemon/info/settings.json
+sudo /etc/init.d/transmission-daemon start
+whereis transmission
+locate transmissiom
+locate transmission
+transmission0qt
+transmission-qt
+sudo /etc/init.d/transmission-daemon restart
+sudo /etc/init.d/transmission-daemon stop
+wget https://github.com/transmission/transmission/releases/download/3.00/transmission-3.00.tar.xz
+tar xvf *.xz
+cd transmission-3.00
+mkdir build
+cd build
+sudo apt install curl
+sudo apt-get install libcurl4-openssl-dev
+sudo apt install  libssl-dev
+sudo apt-get install -y miniupnpc
+sudo apt remove miniupnpc
+sudo apt install libevent-dev
+cmake ..
+sudo apt install aria2
+aria2c *.torrent
+rm -rf .vifm-Trash-1000
+sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin
+cp -rv /home/astik/.local/share/soft/windows/Windows\ 10\ x64\ Pro-Home\ Optim\ Plus\ 21H2\ Ru\ by\ OVGorskiy\ 01.2022.iso .
+rclone ls vlib:/
+vim lua
+man getline
+sudo /etc/init.d/tor restart
+cd tithis
+./calc.raku linkoeping 536
+scp -v linkoeping_202*.csv root@vu:/var/www/vaishnavacalendar.org/resources/srss/
+scp linkoeping_536_tt.csv root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+scp cities.json root@vu:/var/www/vaishnavacalendar.org/resources/model
+youtube-dl -all-subs https://www.youtube.com/watch\?v\=mzGIKaYjlL0
+youtube-dl -all-subs https://youtu.be/mzGIKaYjlL0
+youtube-dl --all-subs https://youtu.be/mzGIKaYjlL0
+youtube-dl --all-subs --skip-download https://youtu.be/mzGIKaYjlL0
+ping harekrishna.ru
+rm -rf /home/astik/.local/share/work/sundar
+tty-clock
+unzip -d "Ѓ�анди Ѓ�ау�арадж у�ото" Ѓ�анди+Ѓ�ау�арадж+готову�е+у�ото.zip
+sudo apt-get install python3-pexpect python3-distutils gir1.2-appindicator3-0.1 gir1.2-gtk-3.0
+sudo apt-get install git python-appindicator python-xdg python-pexpect python-gconf python-gtk2 python-glade2 libxxf86vm1  libcanberra-gtk-module
+sudo apt install python-pexpect-doc
+git clone "https://github.com/xflux-gui/fluxgui.git"
+cd fluxgui
+./download-xflux.py
+sudo ./setup.py install --record installed.txt
+fluxgui
+echo $PYTHONPATH
+python
+./download-xflux.py glib-compile-schemas .\
+GSETTINGS_SCHEMA_DIR=`pwd` PATH=`pwd`:$PATH PYTHONPATH=`pwd`/src:$PYTHONPATH ./fluxgui
+sudo apt install redshift-gtk
+redshift-gtk
+randr
+xrandr
+sudo redshift-gtk
+genclue2
+geoclue2
+sudo apt install geoclue-2.0
+sudo find / -name 'geoclue*'
+find . -name 'geoclue.conf'
+sudo find . -name 'geoclue.conf'
+vim ./.local/share/var/lib/flatpak/runtime/org.freedesktop.Platform/x86_64/20.08/ba553273a3dcdf53545e800d9d7459a7c3f138071f53560ed0e69be5243048d5/files/etc/geoclue/geoclue.conf
+cp srss/parse.raku .
+vim parser
+vim parser.raku 
+./parser.raku
+./parser.raku | wc -l
+mpv ./Ѓ�ену�\ у�влениу�\ Шрилу�\ Ѓ�арротама\ даса\ Ѓ�у�аку�ра\ вместе\ с\ Ѓ�еу�аванандой\ Ѓ�рабу�у�.mp4
+cp -rv csv/*.csv srss/
+vim srss/zaporizhia_2023.csv
+inxi -F
+./Updater
+sudo snap install telegram-desktop
+ffmpeg -ss 01:08:47 -to 01:41:35 -i video_2022-02-22_12-13-29.mp4 -c copy out.mp4
+ls /usr/local/bin
+vim-language-server
+vim-language-server --stdio
+sudo dpkg -i ./virtualbox-6.1_6.1.32-149290\~Debian\~bullseye_amd64.deb
+aptitude ?
+aptitude -h
+sudo apt install virtualbox-6.1
+sudo apt --fix-broken install virtualbox-6.1
+sudo apt --fix-broken install
+cd ~/.ssh
+sudo vim /etc/ssh/sshd_config
+vim /etc/ssh/sshd_config
+curl -LO https://github.com/BurntSushi/ripgrep/releases/download/13.0.0/ripgrep_13.0.0_amd64.deb
+sudo dpkg -i ripgrep_13.0.0_amd64.deb
+rg AuthorizedKeysFile
+rg 'AuthorizedKeysFile'
+rg cat
+man rg
+rg 'AuthorizedKeysFile' /
+sudo -i\\
+
+cat /tmp/README
+cd /etc/apt
+cd sources.list.d
+vim /etc/apt/sources.list
+wget https://ftp.icm.edu.pl/pub/Linux/dist/linuxmint/isos/stable/20.3/linuxmint-20.3-xfce-64bit.iso
+wget https://mirrors.layeronline.com/linuxmint/stable/20.3/linuxmint-20.3-xfce-64bit.iso
+wget https://mirrors.sonic.net/mint/isos/stable/20.3/linuxmint-20.3-xfce-64bit.iso
+wget https://ftp.mgts.by/pub/linuxmint/isos/stable/20.3/linuxmint-20.3-xfce-64bit.iso
+wget https://quantum-mirror.hu/mirrors/linuxmint/iso/stable/20.3/linuxmint-20.3-xfce-64bit.iso
+wget https://linuxmint.astra.in.ua/iso/stable/20.3/linuxmint-20.3-xfce-64bit.iso
+sudo shutdown -r now
+sudo cnmod a+x process.raku
+sudo chmod a+x process.raku
+nslookup sridharmaharaj.ru
+zef install Pod::To::HTML:auth<Raku>
+zef install Pod::To::HTML
+./convert.raku
+vim convert.html
+vim convert.raku
+raku --doc=HTML convert.raku > convert.html
+firefox convert.html
+vim process.raku
+./process.raku
+cd .local/share/work/vaishnavacalendar.org/2022
+cd app
+./process.raku GVC\ 2022 �23\ Full\ \(B\ 1428 �9\)\ -\ Tithi\ time\ table.csv
+cd .local/share/work/vaishnavacalendar.org/2022/tithi_parser
+./process.raku GVC\ 2022 �23\ Full\ \(B\ 1428 �9\)\ -\ Tithi\ time\ table.csv > result.log
+vim result.log
+whoami
+viber
+sudo chown astik:astik vifm
+cd /usr/local/bin
+sudo chown astik:astik vifm*
+cd .config
+cd vifm
+mv vifmrc vifmrc.bak
+sudo apt remove vifm
+sudo apt install vifm
+sudo rm /usr/local/bin/vifm
+vifm
+du -h
+df 0h
+df -h
+./conv.raku afters.json
+sudo chmod a+x pass
+vim pass
+ffmpeg -ss 00:15:05 -i GMT20220319-070759_Recording_1920x1080.mp4 -to 02:19:34 -c:v copy -c:a copy 19_03_2022.mp4
+rwlrap raku
+./viber.AppImage.1
+vv sudo dpkg -i ./vib
+sudo dpkg -i ./viber.deb
+rlwrap raku
+sudo chmod a+x ./process2
+./process2 ../../resources/src/navadvip_537.csv > navadvip_537.csv
+./calc.raku
+vim process2
+./process2
+./process2 navadvip_tithi.csv
+vim navadvip_tithi.csv
+man sprintf
+raru
+./calc.raku herson 537
+./calc.raku haifa 537
+scp *537_tt.csv root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+scp calendar.blade.php root@vu:/var/www/vaishnavacalendar.org/resources/views/calendar
+scp *2023.csv root@vu:/var/www/vaishnavacalendar.org/resources/srss
+scp cities.csv dst.csv root@vu:/var/www/vaishnavacalendar.org/resources/srss
+scp 537 root@vu:/var/www/vaishnavacalendar.org/resources/tithis/navadvip
+rm 537*
+scp -r 537 root@vu:/var/www/vaishnavacalendar.org/resources/tithis/navadvip
+scp *537_tt.scv root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+scp *_537_tt.scv root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+scp -r *_537_tt.scv root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+scp -r '*_537_tt.scv' root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+scp -r *537_tt.csv root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+curl https://vaishnavacalendar.org/calendar/almaty/537/ru
+vim /usr/local/bin/pass
+./calc.raku helsinki 537
+scp *helsinki* root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+cd ../srss
+scp *helsinki* root@vu:/var/www/vaishnavacalendar.org/resources/srss
+cd ../csv
+scp dst.csv cities.csv root@vu:/var/www/vaishnavacalendar.org/resources/csv
+scp ICSController.php root@vu:/var/www/vaishnavacalendar.org/app/Http/Controllers
+cd Ѓ�анди\ Ѓ�ау�арадж\ у�ото
+rm *537_tt*
+rm 537_*
+thunar .
+./calc.raku navadvip 537
+vim csv/dst.csv
+./calc.raku chisinau 537
+cd resources
+rg 'Ѓ�у�ару�и Ѓ�ау�араджа'
+vim saints.json
+rm 537_*json
+vim evaluator
+scp chisinau* root@vu:/var/www/vaishnavacalendar.org/resources/srss
+sudo chmod a+x unetbootin-linux64-702.bin
+./unetbootin-linux64-702.bin
+sudo ./unetbootin-linux64-702.bin
+sudo ln -s /home/astik/.local/share/soft/unetbootin/unetbootin-linux64-702.bin /usr/local/bin/unb
+ubn
+unb
+sudo unb
+cp -vy lmde-5-cinnamon-64bit.iso /media/astik/20H2_ZOSMA
+cp -vf lmde-5-cinnamon-64bit.iso /media/astik/20H2_ZOSMA
+aliases
+cat ~/.zsh/aliases
+which raku
+locate raku
+sudo / find -name 'raku'
+sudo find / -name 'raku'
+ls -al /usr/bin/raku
+ls -al /usr/bin/rakudo
+wget https://rakudo.org/dl/rakudo/rakudo-moar-2022.03-01-linux-x86_64-gcc.tar.gz
+tar xvzf rakudo-moar-2022.03-01-linux-x86_64-gcc.tar.gz
+sudo rm /usr/bin/raku
+sudo ln -s /home/astik/.local/share/soft/raku/rakudo-moar-2022.03-01-linux-x86_64-gcc/bin/raku /usr/local/bin/raku
+fdisk -l
+sudo fdisk -l
+sudo mkdir /media/usb
+sudo mount -t vfat /dev/sda1 /media/usb
+cd /media/usb
+cd ~/.local/share/soft/linux
+rsync -rv --progress lmde-5-cinnamon-64bit.iso /media/usb/
+sudo rsync -rv --progress lmde-5-cinnamon-64bit.iso /media/usb/
+ls -al /media/usb/lmde-5-cinnamon-64bit.iso
+sudo chmod 777 /media/usb/lmde-5-cinnamon-64bit.iso
+sudo rsync -rvP /media/usb/lmde-5-cinnamon-64bit.iso /home/astik/.local/share/soft/linux
+sudo unmount /dev/sda1
+sudo umount /dev/sda1
+sudo mount /dev/sda1 /media/usb
+ls -al /media/usb
+rsync -rvP /media/usb/lmde-5-cinnamon-64bit.iso /home/astik/.local/share/soft/linux
+lsusb
+sudo lsusb
+inxi -vF
+mpv GMT20220413-105909_Recording_640x360.mp4
+inxi -G
+zef install --/test cro
+./hello.pm6
+vim hello.pm6
+raku hello.pm6
+locate cro
+zef
+zef search cro
+sudo find / -name cro -type f
+~/.local/share/zef/store/cro-0.8.7/D5AEA017178E27194BC557587A648737AF74634D/bin/cro
+sudo ~/.local/share/zef/store/cro-0.8.7/D5AEA017178E27194BC557587A648737AF74634D/bin/cro
+sudo chmod a+x ./cro
+cro stub http rest-blog ./rest-blog
+./cro stub http rest-blog ./rest-blog
+sudo find / -name 'cro' -type f
+./cro
+sudo ln -s /home/astik/.raku/bin/cro /usr/loca/bin/cro
+sudo ln -s /home/astik/.raku/bin/cro /usr/local/bin/cro
+cro
+rm -fr hello
+cro stub http hello hello
+cro run
+getconf ARG_MAX
+xargs --show-limits
+man rsync
+git clone --depth 1 https://github.com/brendangregg/perf-tools
+./iolatency -Q
+mount -t debugfs debugfs /sys/kernel/debug
+sudo mount -t debugfs debugfs /sys/kernel/debug
+sudo ./iolatency -Q
+./iosnoop
+sudo ./iosnoop
+sudo apt install libpoppler-qt5-1 libqt5concurrent5 libqt5qml5 libqt5xml5
+sudo dpkg -i ./texstudio_4.2.3-1+8.1_amd64.deb
+sudo apt-get --fix-missing
+sudo apt --fix-missing update
+sudo apt list --upgradable
+latex
+perf stat
+sudo apt install perf_5.15
+texlive-full
+sudo apt-get install texlive-full
+mv mpv*.jpg ~/.local/share/work/video
+mv mpv*jpg ~/.local/share/work/video
+cd ~/.local/share/work
+mkdir sri-guru.ru
+cd sri-guru.ru
+git config
+git config --global
+git config --list
+git add
+git remote
+git remote add origin git@gitlab.com:astik/sri-guru.ru.git
+ls -al ~/.ssh
+ssh -T git@gitlab.com
+git pull origin master
+cd /tmp
+mkdir sri-guru.temp
+cd sri-guru.temp
+git clone https://github.com/sash003/shri_guru.git
+git commit -m "Ѓ� адаптивну�ми стилу�ми"
+sudo apt upgrade
+sudo apt update && sudo apt upgrade
+sudo apt install -y virtualbox
+sudo apt remove virtualbox
+sudo apt remove virtualbox-6.1
+sudo apt purge virtualbox-6.1
+sudo apt autoremove
+sudo apt install virtualbox virtualbox-qt linux-headers-"$(uname -r)" dkms vde2 virtualbox-guest-additions-iso vde2-cryptcab\
+\
+
+apt install fasttrack-archive-keyring
+sudo apt install fasttrack-archive-keyring
+sudo vim /etc/apt/sources.list
+sudo apt install virtualbox
+sudo apt install linux-headers-amd64
+sudo ln -s /usr/src/linux-headers-$(uname -r)  /lib/modules/$(uname -r)/build
+sudo dpkg-reconfigure --priority low virtualbox-dkms 
+uname -a
+uname -r
+sudo reboot -n
+sudo apt install virtualbox-dkms
+sudo dpkg-reconfigure virtualbox-dkms 
+sudo dpkg-reconfigure virtualbox
+sudo apt-get install linux-headers-generic
+sudo apt install -f
+sudo /etc/init.d/vboxdrv setup
+sudo /sbin/vboxconfig
+sudo vboxconfig
+cd /etc/init.d
+ls 
+./virtualbox
+./virtualbox start
+sudo /usr/lib/virtualbox/vboxdrv.sh setu
+modprobe -a vboxdrv
+sudo modprobe -a vboxdrv
+sudo apt install virtualbox-guest-dkms
+sudo apt install --reinstall virtualbox-dkms
+sudo aptitude install linux-headers-`uname -r`
+virtualbox -v
+sudo rcvboxadd setup
+find / -name rcvboxadd
+sudo apt zstd
+sudo apt install zstd
+xclip
+echo "Gauda1486" | xclip
+echo "Simply wonderful" | xclip
+echo "Gauda1486" | xclip -sel clip
+echo "Simply wonderful" | xclip -sel clip
+Simply wonderful\
+
+echo "Something wonderful" | xc
+tar xaf ./anki-2.1.49-linux.tar.bz2
+./install.sh
+sudo ./install.sh
+anki
+tex4ht
+git clone https://github.com/michal-h21/make4ht.git
+sudo apt install pandoc
+echo Gauda1486 | xclip -sel clip
+make
+make4ht
+make4ht -u ./imitation.tex
+java
+java -version
+sudo apt install default-jdk
+pandoc ./imitation.tex -o imitation.docx
+mkdir ~/.local/share/images/"Ѓ�ткру�тие Чанда-у�тра мандира 2007"
+cd ~/.local/share/images/Ѓ�ткру�тие\ Чанда-у�тра\ мандира\ 2007
+wget -i list.lst
+rclone sync $XDG_DATA_HOME/work/ pcl:/
+locate rclone
+whereis rclone
+grep CRON /var/log/syslog
+sudo grep CRON /var/log/syslog
+oу�олову�у�ий ру�д\
+перву�й-перу�ий\
+второй-дру�гий\
+третий-трету�й\
+у�етверту�й-у�етвертий\
+пу�ту�й-п �у�тий\
+у�естой-у�остий\
+седу�мой-су�омий\
+восу�мой-восу�мий\
+деву�ту�й-дев �у�тий\
+десу�ту�й-десу�тий\
+ \
+   середну�й ру�д\
+первое-перу�е\
+второе-дру�ге\
+трету�е-трету�\
+у�етвертое-у�етверте\
+пу�тое-п �у�те\
+у�естое-у�осте\
+седу�мое-су�оме\
+восу�мое-восу�ме\
+деву�тое-дев �у�те\
+десу�тое-десу�те\
+ \
+         жу�ноу�ий -ру�д\
+первау�-перу�а\
+вторау�-дру�га\
+трету�у�-трету�\
+у�етвертау�-у�етверта\
+пу�тау�-п �у�та\
+у�естау�-у�оста\
+седу�мау�-су�ома\
+восу�мау�-восу�ма\
+деву�тау�-дев �у�та\
+десу�тау�-десу�та\
+19:02\
+множина\
+перву�е-перу�у�\
+втору�е-дру�гу�\
+трету�и-трету�\
+у�етверту�е-у�етверту�\
+пу�ту�е-п �у�ту�\
+у�есту�е-у�осту�\
+седу�му�е-су�ому�\
+восу�му�е-восу�му�\
+деву�ту�е-дев �у�ту�\
+десу�ту�е-десу�ту�\
+19:03\
+ку�лу�ку�сну� у�ислу�вники-пору�дкову� у�ислу�вники\
+1.один-перу�ий, перу�а, перу�е -перу�у�\
+2.два-дру�гий, дру�га, дру�ге-дру�гу�\
+3. три- трету�й, трету�, трету�-трету�\
+4. у�отири-у�етвертий, у�етверта, у�етверте-у�етверту�\
+5. п �у�ту�-п �у�тий, п �у�та, п �у�те-п �у�ту�\
+6. у�у�сту�-у�остий, у�оста, у�осте-у�осту�\
+7.су�м- су�омий, су�ома, су�оме-су�ому�\
+8. ву�су�м-восу�мий, восу�ма, восу�ме-восу�му�\
+9. дев �у�ту�-дев �у�тий, дев �у�та, дев �у�те-дев �у�ту�\
+10. десу�ту�-десу�тий, десу�та, десу�те-десу�ту�\
+11. одинаду�у�ту�-одинаду�у�тий, одинаду�у�та, одинаду�у�те-одинаду�у�ту�\
+12. дванаду�у�ту�-дванаду�у�тий, дванаду�у�та, дванаду�у�те-дванаду�у�ту�\
+13. тринаду�у�ту�-тринаду�у�тий, тринаду�у�та, тринаду�у�те-тринаду�у�ту�\
+14.у�отирнаду�у�ту�-у�отирнаду�у�тий, у�отирнаду�у�та, у�отирнаду�у�те-у�отирнаду�у�ту�\
+15. п �у�тнаду�у�ту�-п �у�тнаду�у�тий, п �у�тнаду�у�та, п �у�тнаду�у�те-п �у�тнаду�у�ту�\
+16. у�у�стнаду�у�ту�-у�у�стнаду�у�тий, у�у�стнаду�у�та, у�у�стнаду�у�те-у�у�стнаду�у�ту�\
+17. су�мнаду�у�ту�-су�мнаду�у�тий, су�мнаду�у�та, су�мнаду�у�те-су�мнаду�у�ту�\
+18. ву�су�мнаду�у�ту�-ву�су�мнаду�у�тий, ву�су�мнаду�у�та, ву�су�мнаду�у�те-ву�су�мнаду�у�ту�\
+19. дев �у�тнаду�у�ту�- дев �у�тнаду�у�тий, дев �у�тнаду�у�та, дев �у�тнаду�у�те-дев �у�тнаду�у�ту�\
+20. дваду�у�ту�-дваду�у�тий, дваду�у�та, дваду�у�тий-дваду�у�ту�\
+30- триду�у�ту�- триду�у�тий, триду�у�та, триду�у�те-триду�у�ту�\
+40. сорок- сороковий, сорокова, сорокове-сорокову�\
+50. п �у�тдесу�т- п �у�тдесу�тий, п �у�тдесу�та, п �у�тдесу�те-п �у�тдесу�ту�\
+60. у�у�стдесу�т-у�у�стдесу�тий, у�у�стдесу�та, у�у�стдесу�те-у�у�стдесу�ту�\
+70. су�мдесу�т-су�мдесу�тий, су�мдесу�та, су�мдесу�те-су�мдесу�ту�\
+80. ву�су�мдесу�т-ву�су�мдесу�тий, ву�су�мдесу�та, ву�су�мдесу�те-ву�су�мдесу�ту�\
+90.дев �у�носто-дев �у�ностий, дев �у�носта, дев �у�носте-дев �у�носту�\
+100.сто-сотий, сота, соте-соту�\
+200.дву�сту�- двоу�сотий, двоу�сота, двоу�соте-двоу�соту�\
+300.триста- тру�оу�сотий, тру�оу�сота, тру�оу�соте-тру�оу�соту�\
+400-.у�отириста- у�отиру�оу�сотий, у�отиру�оу�сота, у�отиру�оу�соте-у�отиру�оу�соту�\
+500. п �у�тсот- п �у�тисотий, п �у�тисота, п �у�тисоте-п �у�тисоту�\
+600. у�у�стсот- у�естисотий, у�естисота, у�естисоте-у�естисоту�\
+700. су�мсот-семисотий, семисота, семисоте-семисоту�\
+800.ву�су�мсот-восу�мисотий, восу�мисота, восу�мисоте-восу�мисоту�\
+900. дев �у�тсот- дев �у�тисотий, дев �у�тисота, дев �у�тисоте-дев �у�тисоту�\
+1000. тису�у�а-тису�у�ний, тису�у�на, тису�у�не-тису�у�ну�\
+2000. дву� тису�у�у�- двоу�тису�у�ний, двоу�тису�у�на, двоу�тису�у�не-двоу�тису�у�ну�\
+100000. му�лу�йон- му�лу�йонний, му�лу�йонна, му�лу�йонне-му�лу�йонну�\
+0.ну�лу�-ну�лу�овий, ну�лу�ова, ну�лу�ове-ну�лу�ову�\
+19:04\
+vim
+man rar
+rar -h
+unrar e site_for_Chaitanja.rar
+unrar
+unrar x site_for_Chaitanja.rar
+ping home.vedx.pro
+ping vedx.pro
+ping google.com
+youtube-dl -f mp4 https://www.facebook.com/backtobhaktabasicsclass/videos/725018778685177
+youtube-dl -f mp4 -w https://www.facebook.com/backtobhaktabasicsclass/videos/725018778685177
+ffmpeg -i Facebook\ video\ \#725018778685177-725018778685177.mp4 -q:a 0 -map a bbbc_spiritual_succession.mp3
+git clone https://github.com/scheib/chromium-latest-linux.git
+cd chromium-latest-linux
+./run.sh
+./update-and-run.sh
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+scp -r . root@vu:/var/www/home.vedx.pro
+scp -r ./ root@vu:/var/www/home.vedx.pro
+scp -r * root@vu:/var/www/home.vedx.pro
+crontab -l
+cd /var/mail/astik
+cd /var/mail
+/usr/bin/rclone sync /home/astik/.local/share/work/progerbooks/ pr:/\
+
+/usr/bin/rclone sync /home/astik/.local/share/work/ pcl:/\
+
+mail
+grep -rin 'echo $str'
+vim template/views/ru/header.php
+grep -rin 'sodimg'
+grep -rin main2.php
+vim controllers/mainPageController.php
+sudo -i
+ls -la /home/astik/.local/share/soft
+cd /home/astik/.local/share/soft
+su -i
+su --help
+cd /home/astik/.local/share/work/vaishnavacalendar.org
+grep -rin print_r
+fasdf
+pass
+xdg-open latex3days.pdf
+history | grep odt
+make4ht -f odt ./imitation.tex
+make4ht -f odt ./collisions.tex
+sudo apt install breeze-gtk
+sudo apt install jeex
+sudo apt install hexedit
+hexedit
+ninja
+sudo apt install bless
+sudo apt install ttf-mscoreFonts-installer 
+pandoc
+pandoc -f odt -t latex bbbc\ -\ disciplic\ succession.odt
+pandoc -f odt -t latex bbbc\ -\ disciplic\ succession.odt -o bbbc\ -\ disciplic\ succession.tex
+pandoc -h
+man pandoc
+pandoc -f latex -t docx main.tex -o main.docx
+pandoc -f latex -t ode main.tex -o main.odt
+pandoc -f latex -t odt main.tex -o main.odt
+soffice main.odt
+vim main.tex
+soffice Disciplic_succession.pdf
+lua -h
+curl -R -O http://www.lua.org/ftp/lua-5.4.4.tar.gz
+tar xzf lua-5.4.4.tar.gz
+cd lua-5.4.4
+make all test
+make all install
+sudo make all instatll
+sudo make all install
+vim init.lua
+./init.lua
+lua
+wget https://ia601600.us.archive.org/19/items/in.ernet.dli.2015.68182/2015.68182.Bengal-Vaishnavism.pdf
+snap
+snap -v
+curl -O go.tar.gz https://go.dev/dl/go1.18.3.linux-amd64.tar.gz
+histoty | less
+history | less
+history | grep ffmpeg | less
+. ~/.zsh/interactive
+ls -al 
+curl https://go.dev/dl/go1.18.3.linux-amd64.tar.gz --output go.tar.gz
+curl https://go.dev/dl/go1.18.3.linux-amd64.tar.gz
+curl https://go.dev/dl/go1.18.3.src.tar.gz
+curl -L https://go.dev/dl/go1.18.3.src.tar.gz
+curl  -L -o go.tar.gz https://go.dev/dl/go1.18.3.src.tar.gz
+tar xvzf go.tar.gz
+. :q
+. ~/.zsh/login
+echo $PATH
+curl -L -o go.tar.gz https://go.dev/dl/go1.18.3.linux-amd64.tar.gz
+tar -C /usr/local -xvzf go.tar.gz
+vim ~/.zsh/login
+go
+mkdir hugo && cd hugo
+curl -L -o hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.100.1/hugo_0.100.1_Linux-64bit.deb
+sudo dpkg -i hugo_0.100.1_Linux-64bit.deb
+hugo help
+hugo new site quickstart
+cd quickstart
+git branch -m main
+git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
+hugo new posts/my-first-post.md
+hugo -D
+git branches
+git branch
+git branch list
+git --help
+git remote add origin https://github.com/Valakhilya/hugo_test.git
+mkdit -p .github/workflows/
+mkdir -p .github/workflows/
+cd .github/workflows
+vim gh-pages.yml
+pwd
+cd .ssh
+ssh -T git@github.com
+git commit -m "adding gh-pages"
+git commit --amend --reset-author
+git push origin mani
+vim ~/.ssh/config
+ssh-add ~/.ssh/nf
+git config -v
+git config --edit
+git config --global --edit
+git remote --set-url origin git@github.com:Valakhilya/hugo_test.git
+git remote set-url origin git@github.com:Valakhilya/hugo_test.git
+git remote set-url --push origin git@github.com:Valakhilya/hugo_test.git
+git pull origin main
+git config pull.ff only
+git pull -f origin main
+git push -f origin main
+dit
+git add config.toml
+git commit -m "changing url"
+vim config.toml
+hugo -v
+uptime
+w astik
+iptraf
+git remote add origin git@github.com:Valakhilya/notes.git
+rm -rf notes
+hugo new notes
+hugo help new
+hugo new site notes --noBuildLock --minify
+hugo new site -h
+hugo new site notes --log
+cd themes
+cd notes/themes
+git clone https://github.com/pfadfinder-konstanz/hugo-dpsg
+vim ../config.toml
+hugo new _index.md
+vim content/_index.md 
+hugo new first-record.md
+cat ~/.ssh/config
+scp dandimj@hk:/Dinashraya-Tradish.zip .  -p 1023  
+scp -p 1023 dandimj@hk:/Dinashraya-Tradish.zip . 
+scp dandimj@hk:1023/Dinashraya-Tradish.zip . 
+man scp
+scp -P 1023 dandimj@hk:/Dinashraya-Tradish.zip . 
+scp -P 1023 dandimj@hk:/home/dandimj/Dinashraya-Tradish.zip .
+scp -P -r 1023 dandimj@hk:/home/dandimj/100 .
+scp -P 1023 -r dandimj@hk:/home/dandimj/100 .
+scp -P 1023 -r dandimj@hk:/home/dandimj/100_____ .
+rg
+rg 'Шу�у�ма Ѓ�иласа'
+scp ./tithis.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis/navadvip/537/ru
+scp 537_*.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+unzip GoswamiMj.zip
+man unzip
+for f in '*.zip'; do unzip "$f"; done
+unzip 020520\ Ѓ�освамиЃ�\ Ѓ�у�ру�\ не\ один.rtfd.zip
+sudo apt install -y textedit.app
+find -type f -name '*.zip'
+find -type f -name '*.rtf'
+find -type f -name '*.rtf' --exec cp {} texts \;
+find -type f -name '*.rtf' -exec cp {} texts \;
+find -type f -name '*.doc' -exec cp {} texts \;
+cd texts
+rclone ls drv:/
+rclone
+rclone lsd drv:/
+rclone copy . drv:/Ѓ�онтент/Ѓ�ранскрипту�/GoswamiMj/
+rclone copy --verbose . drv:/Ѓ�онтент/Ѓ�ранскрипту�/GoswamiMj/
+ss
+ssh
+man history
+history -h
+history --help
+history /?
+history -?
+history -v
+history | grep ssh
+history -r
+vim ~/.zsh/interactive
+history 10000
+history 1000
+history -d 2308
+cat ~/.zsh/history| grep ssh
+locate firefox
+/usr/bin/firefox-esr
+/usr/local/bin/firefox
+sudo ls -al /usr/local/bin/firefox
+sudo chmod a+x firefox
+sudo firefox
+./firefox
+firefox
+zef isntall JSON::Tiny
+zef install JSON::Tiny
+cd tmp
+mkdir tmp && cd tmp && curl -O http://scsmath.org/publications/pdfs/Ocean_of_Nectar-2004.pdf && xdo-open -
+xdg-open ./Ocean_of_Nectar-2004.pdf
+cd tmp && curl -O http://scsmath.org/publications/pdfs/HomeComfort6thIndianEdition.pdf && xdg-open -
+cd tmp && curl -O http://scsmath.org/publications/pdfs/HomeComfort6thIndianEdition.pdf | xdg-open
+xdg-open http://scsmath.org/publications/pdfs/HomeComfort6thIndianEdition.pdf
+cd tmp && curl -O http://scsmath.org/publications/pdfs/LovingSearchForThe%20LostServant-ColourSoftCover.pdf && xdg-open ./L*
+history | grep mkdir
+history -a
+!
+cd ~/.config
+setxkbmap -print -verbose 10
+gnome-system-monitor
+vim first.txt
+cp first.txt second.txt
+fg
+vim parse.raku
+vim parser.raku
+raku
+sudo chmod a+x ./tmp
+vim tmp
+./tmp
+sudo chmod a+w *.csv
+vim -u NONE -N wakeup.c
+ffmpeg -i GMT20220702-065457_Recording_640x360.mp4 -ss 00:37:54 -to 01:10:00 -c:a copy -c:v copy japa.mp4
+ffmpeg -i japa.mp4 -ss 00:00:00 -to 00:03:06 -c:a copy -c:v copy j1.mp4
+mpv j1.mp4
+mpv japa.mp4
+ffmpeg -i japa.mp4 -ss 00:05:06 -to 00:32:05 -c:a copy -c:v copy j2.mp4
+ffmpeg -i japa.mp4 -ss 00:05:25 -to 00:32:05 -c:a copy -c:v copy j2.mp4
+ffmpeg -i japa.mp4 -ss 00:05:23 -to 00:32:05 -c:a copy -c:v copy j2.mp4
+ffmpeg -i j2.mp4 -ss 00:00:00 -to 00:01:17 -c:a copy -c:v copy j3.mp4
+mpv j3.mp4
+mpv j2.mp4
+ffmpeg -i j2.mp4 -ss 00:01:31 -to 00:01:54 -c:a copy -c:v copy j4.mp4
+mpv 4.mp4
+mpv j4.mp4
+ffmpeg -i j2.mp4 -ss 00:02:08 -to 00:04:22 -c:a copy -c:v copy j5.mp4
+ffmpeg -i j2.mp4 -ss 00:05:01 -to 00:05:27 -c:a copy -c:v copy j6.mp4
+ffmpeg -i j2.mp4 -ss 00:06:55 -to 00:26:41 -c:a copy -c:v copy j7.mp4
+ffmpeg -i j2.mp4 -ss 00:05:01 -to 00:05:29 -c:a copy -c:v copy j6.mp4
+ffmpeg -i j2.mp4 -ss 00:05:01 -to 00:05:28 -c:a copy -c:v copy j6.mp4
+vim list
+ffmpeg -f concat -i list -c copy chanting.mp4
+mpv chanting.mp4
+rclone copy . pcl:/Telegram
+ffmpeg -i GMT20220702-065457_Recording_640x360.mp4 -ss 01:12:53 -to 02:14:40 -c:a copy -c:v copy iustin.mp4
+mpv iustin.mp4
+rclone copy --verbose . pcl:/Telegram
+rm 537*ru.json
+scp vu:
+scp tithis.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis/navadvip/537/ru
+scp 537*ru.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+vim calc.raku
+su
+./calc.raku amsterdam 537
+scp 537_amsterdam_ru.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+scp cities.csv dst.csv root@vu:/var/www/vaishnavacalendar.org/resources/csv
+scp PagesController.php root@vu:/var/www/vaishnavacalendar.org/app/Http/
+scp PagesController.php root@vu:/var/www/vaishnavacalendar.org/app/Http/Controllers
+scp amsterdam* root@vu:/var/www/vaishnavacalendar.org/resources/srss
+vim avadhut_mj2022.txt
+flatpak install flathub com.obsproject.Studio
+vim madhavi.txt
+history | grep ffmpeg
+history
+cat ~/.zsh/history | grep ffmpeg
+ls
+ffmpeg -i GMT20220716-065110_Recording_640x360.mp4 -ss 00:28:55 -to 00:45:51 -c:a copy -c:v copy madhusudan-mj_about_bhakti_lalita.mp4
+ffmpeg -i GMT20220716-065110_Recording_640x360.mp4 -ss 00:28:46 -to 00:45:51 -c:a copy -c:v copy madhusudan-mj_about_bhakti_lalita.mp4
+ffmpeg -i GMT20220716-065110_Recording_640x360.mp4 -ss 00:28:51 -to 00:45:51 -c:a copy -c:v copy madhusudan-mj_about_bhakti_lalita.mp4
+ffmpeg -i GMT20220716-065110_Recording_640x360.mp4 -ss 00:28:53 -to 00:45:51 -c:a copy -c:v copy madhusudan-mj_about_bhakti_lalita.mp4
+ffmpeg -i GMT20220716-065110_Recording_640x360.mp4 -ss 00:28:49 -to 00:45:51 -c:a copy -c:v copy madhusudan-mj_about_bhakti_lalita.mp4
+ffmpeg -i GMT20220716-065110_Recording_640x360.mp4 -ss 00:28:52 -to 00:45:51 -c:a copy -c:v copy madhusudan-mj_about_bhakti_lalita.mp4
+mpv madhusudan-mj_about_bhakti_lalita.mp4
+vlc madhusudan-mj_about_bhakti_lalita.mp4
+xdg-open madhusudan-mj_about_bhakti_lalita.mp4
+mpv GMT20220716-065110_Recording_640x360.mp4
+ffmpeg -i GMT20220716-065110_Recording_640x360.mp4 -ss 01:19:47 -to 01:38:21 -c:a copy -c:v copy paramananda_pr_about_bhakti_lalita.mp4
+mpv paramananda_pr_about_bhakti_lalita.mp4
+flatpack
+flatpak
+flatpak --help
+flatpak uninstall 
+flatpak uninstall com.obsproject.Studio
+sudo apt update
+sudo apt install ffmpeg
+sudo apt install obs-studio\\
+sudo apt install obs-studio
+sudo apt install obs-studio
+scp 537*.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+sudo dpkg -i zoom_amd64.deb
+pass 35
+git remote add origin git@github.com:Valakhilya/vp2022.git
+git add -A .
+git push -u origin main
+scp *.* root@vu:/var/www/vedx.pro/vptest22
+scp -R *.* root@vu:/var/www/vedx.pro/vptest22
+scp -r *.* root@vu:/var/www/vedx.pro/vptest22
+scp -r . root@vu:/var/www/vedx.pro/vptest22
+scp -r ./ root@vu:/var/www/vedx.pro/vptest22
+scp -r * root@vu:/var/www/vedx.pro/vptest22
+pdflatex avadhut2022.tex
+v
+youtube-dl https://www.youtube.com/watch?v=jsxsulF12I8
+yt https://youtu.be/jsxsulF12I8
+ffmpeg -i Шри\ Ѓ�у�ру�\ и\ его\ милосту�.\ у�.7-jsxsulF12I8.mp4 -vn acodec copy Шри\ Ѓ�у�ру�\ и\ его\ милосту�.\ у�.7.aac
+mpv Шри\ Ѓ�у�ру�\ и\ его\ милосту�.\ у�.7-jsxsulF12I8.mp4
+ffmpeg -i Шри\ Ѓ�у�ру�\ и\ его\ милосту�.\ у�.7-jsxsulF12I8.mp4 -q:a 0 Шри\ Ѓ�у�ру�\ и\ его\ милосту�.\ у�.7.mp3
+mpv *.mp3
+sudo apt-get install pacman4console
+rclone --verbose copy Govinda_Maharaj pcl:Govinda_Maharaj
+vim madhusudan_mj_2022.txt
+xdg-open
+xdg-open --manual
+xdg-settings
+xdg-settings --help
+xdg-settings --manual
+xdg-settings get default-web-browser
+find / -type f -name 'custom-WebBrowser*' &2>null
+find / -type f -name 'custom-WebBrowser*' 2&>null
+vim ~/.local/share/xfce4/helpers/custom-WebBrowser.desktop
+xdg-mime
+xdg-mime default application pdf
+xdg-open Nravstviennyie\ pis\'ma\ k\ Lutsiliiu\ -\ Lutsii\ Anniei\ Sienieka.fb2
+libreoffice
+xdg-settings query default
+xdg-mime query default
+man xdg-mime
+calibre-ebook-viewer
+find / -name 'calibre-ebook-viewer*' -type f 2&>/dev/null
+vim /usr/local/share/applications/calibre-ebook-viewer.desktop
+vim list.lst
+vim config.cfg
+youtube-dl --version
+youtube-dl --config-location config.txt
+youtube-dl --config-location ./config.txt
+youtube-dl --config-location ./config.cfg
+pass 30
+history | grep docx
+cat ~/.zsh/history | grep docx
+cat ~/.zsh/history | grep doc
+cat ~/.zsh/history | grep odt
+make4ht -f odt avadhut2022_new.tex
+pdflatex avadhut2022_new.tex
+cat ~/.zsh/history|grep youtube-dl
+youtube-dl --config-location config.cfg
+sudo apt-get install screenkey
+man screenkey
+screenkey --help
+htop
+ffmpeg -i 2022-08-16\ 21-40-48.mp4 -ss 00:00:11 -to 00:00:16 out.mp4
+ls -al /usr/bin/local 
+ls -al /usr/local/bin
+ssh hk
+scp -rP 1023 dandimj@hk:Pesennik .  
+ps2pdf
+ps2pdfwr -h
+man ps2pdf
+ps2pdf14 Pesennik_06+.ps
+mkdir "Ѓ�есни Ѓ�у�активинода Ѓ�у�аку�ра"
+cd Ѓ�есни\ Ѓ�у�активинода\ Ѓ�у�аку�ра
+youtube-dl --yes-playlist https://soundcloud.com/b-a-dandi-svami/sets/pesni-bxaktivinoda-txakura
+find / -name 'atril.desktop' -type f 2>/dev/null
+vim /usr/share/applications/atril.desktop
+less /usr/share/applications/firefox-esr.desktop
+ls -al /usr/share/applications
+find / -name '*.desktop' 2>/dev/null
+git remote add origin git@github.com:Valakhilya/stuff.git
+git remote --list
+git branch -M main
+git add README.md
+git add bookmarks*
+git log
+git status
+git commit m "first commit"
+git commit -m "first commit"
+git push origin master
+git remote -v
+git push origin main
+cat ~/.zsh/history|grep odt
+man xetex
+make4ht our_centers.tex
+make4ht -f odt our_centers.tex
+pandoc our_centers.tex -o out_centers.docx
+pandoc our_centers.tex -o out_centers.odt
+pacman
+pacman4console
+pass 20
+pandoc -f odt our_centers.tex
+pandoc our_centers.tex our_centers.odt
+cd themes\
+git submodule add https://github.com/wayn3h0/hugo-bulma
+git init
+git submodule add https://github.com/wayn3h0/hugo-bulma
+ls -al /usr/local/bin/hugo
+go version
+sudo apt purge hugo
+go build -o hugo main.go
+hugo version
+./hugo help
+hugo env
+wget https://github.com/gohugoio/hugo/releases/download/v0.103.1/hugo_0.103.1_Linux-64bit.tar.gz -O $HOME/tmp
+wget https://github.com/gohugoio/hugo/releases/download/v0.103.1/hugo_0.103.1_Linux-64bit.tar.gz -o $HOME/tmp
+man wget
+wget https://github.com/gohugoio/hugo/releases/download/v0.103.1/hugo_0.103.1_Linux-64bit.tar.gz -P $HOME/tmp
+cp /home/astik/tmp/hugo_0.103.1_Linux-64bit.tar.gz .
+tar xvzf hugo_0.103.1_Linux-64bit.tar.gz
+./hugo
+vim README.md
+git clone https://github.com/gohugoio/hugo.git
+go install
+go install --tags extended
+CGO_ENABLED=1 go install --tags extended
+wget https://github.com/gohugoio/hugo/releases/download/v0.103.1/hugo_extended_0.103.1_Linux-64bit.tar.gz
+tar xvzf hugo_extended_0.103.1_Linux-64bit.tar.gz
+./hugo version
+sudo rm /usr/local/bin/hugo
+sudo ln -s $(pwd)/hugo /usr/local/bin/hugo
+hugo env -v
+npm install postcss-cli
+npm install -g npm@8.19.2
+sudo npm install -g npm@8.19.2
+npm -v
+npm install autoprefixer
+cd ../../../
+hugo server -D
+hugo new site single
+git clone https://github.com/plopcas/papaya.git
+hugo server --disableFastRender
+hugo new darshana
+hugo new site darshana
+vim index.html
+vim nav.html
+hugo new friends/mood.md
+vim single.html
+hugo
+vim _index.md
+\:wq
+vim list.html
+wget https://raw.githubusercontent.com/jgthms/bulma/master/css/bulma.min.css
+dmesg
+cd ..
+rm *.log,*.aux,*.4ct,*.dvi,*.idv,*.lg,*.tmp,*.xref
+rm *.log
+rm *.{4ct,4tc,aux}
+rm *.{4ct,4tc,aux,tmp.lg,xref,dvi,idv}
+rm *.{tmp.lg,xref,dvi,idv}
+rm *.{tmp,lg,xref,dvi,idv}
+ls -al
+vim our_centers.tex
+panodoc our_centers.tex -o our_centers.dot
+pandoc our_centers.tex -o our_centers.dot
+pandoc our_centers.tex -o our_centers.odt
+pandoc our_centers.tex -o our.centers.docx
+hugo mod graph
+git clone --depth 1 https://github.com/Valakhilya/docsy.git
+hugo server
+ffmpeg -i ./IMG_5021.MOV -vcodec h264 -acodec aac adv.mp4
+vim channels_list.txt
+vim hello.c
+find /  -name "stdio.h" 2>/dev/null
+less /usr/include/stdio.h
+gcc -Wall -g hello.c -o hello
+less hello
+ls -al .
+vim false.c
+gcc -Wall -g false.c -o false
+./false
+vim true.c
+gcc -Wall -g true.c -o true
+./true
+./hello
+vim qe.c
+gcc -Wall -g qe.c -o qe
+gcc -Wall -g qe.c -lm -o qe
+echo "1 2 1" | qe
+echo "1 2 1" | ./qe
+echo "1 -3 2" | ./qe
+echo "1 1 1" | ./qe
+echo "1 6 8" | ./qe
+man 3 sqrt
+man 7 math_error
+man 3 fenv
+sudo apt install nasm
+nasm
+nasm -h
+w3m vokrugsveta.ru
+w3m -o auto_image=FALSE vokrugsveta.ru
+w3m -o auto_image=FALSE -s vokrugsveta.ru
+printf '%s%s\n' yoohu
+printf '%s%s\n' yoohu wau
+printf '%s%s' yoohu wau
+printf asdfasd
+echo $'\e#8\e[1B\e[J'
+PROMPT_COMMAND="echo $'\e7\e[2;800H\e[16D\e[7m' $(date +"%Y/%m/%d %H:%M")$'\e8'"
+lsof -i
+cd ~/tmp
+sudo chmod a+x ./whatshell.sh
+./whatshell.sh
+pass 16
+man printf
+man 3 printf
+sudo apt install bd
+bd
+bc
+vim int.c
+gcc -Wall -g int.c -o int
+./int
+vim array.c
+gcc -Wall -g array.c -o array
+./array
+vim pointer.c
+gcc -Wall -g pointer.c -o pointer
+./pointer
+vim console_input.c
+gcc -Wall -g console_input.c -o input_console
+./input_console
+mkdir exs
+vim exs/input.txt
+./input_console < exs/input.txt
+gcc -Wall -g input_console c -o input_conslole
+gcc -Wall -g input_console. c -o input_conslole
+gcc -Wall -g input_console.c -o input_conslole
+man 3 fflush
+ls -al console_input
+man 3 getch
+man getch
+man getchar
+git clone https://github.com/zoelabbb/conio.h.git
+cd conio.h
+sudo make install
+gcc -Wall -g console_input.c -o console_input
+find / -name "*curses.h" 2>/dev/null
+less /usr/include/ncurses.h
+ sudo apt-get install libncurses5-dev libncursesw5-dev
+gcc -Wall -g -lncurses console_input.c -o console_input
+gcc -Wall -g console_-lncurses input.c -o console_input
+gcc -Wall -g console_input.c -lncurses -o console_input
+./console_input
+pass 25
+ffmpeg -i Шри\ Ѓ�у�ру�\ и\ его\ милосту�.\ у�.32.mp4 -vcodec libx265 -crf 28 Шри\ Ѓ�у�ру�\ и\ его\ милосту�.\ у�_32.mp4
+ssh astik@vedx.pro -p 7645
+less ~/.zsh/ssh/config
+less ~/.ssh/config
+ssh dandi@vedx.pro -p 7645
+ffmpeg -i Шри\ Ѓ�у�ру�\ и\ его\ милосту�.\ у�.33.mp4 -vcodec libx265 -crf 28 Шри\ Ѓ�у�ру�\ и\ его\ милосту�.\ у�_33.mp4
+youtube-dl --output "%(title)s.%(ext)s" --extract-audio --yes-playlist --format bestaudio --audio-format mp3 --audio-quality 96K https://www.youtube.com/playlist?list=PLl9ZIvyByO3dgEYGgotVvDF14XDACFNg4
+youtube-dl --output "%(title)s.%(ext)s" --extract-audio --yes-playlist --format bestaudio --audio-format mp3 --audio-quality 96K PLl9ZIvyByO3dgEYGgotVvDF14XDACFNg4
+scp ./centers.pdf root@vu:/var/www/vedx.pro
+less ~/.zsh/history
+dir
+vim list.sh
+sudo chmod a+h list.sh
+sudo chmod a+x list.sh
+./list.sh
+man youtube -dl
+youtube-dl -w --output "%(title)s.%(ext)s" --extract-audio --yes-playlist --format bestaudio --audio-format mp3 --audio-quality 96K PLl9ZIvyByO3dgEYGgotVvDF14XDACFNg4
+youtube-dl -w --output "%(title)s.%(ext)s" --extract-audio --yes-playlist --format bestaudio --audio-format mp3 --audio-quality 96K PLl9ZIvyByO3dgEYGgotVvDF14XDACFNg4 -a downloaded.txt
+vim downloaded.txt
+youtube-dl -w --output "%(title)s.%(ext)s" --extract-audio --yes-playlist --format bestaudio --audio-format mp3 --audio-quality 96K PLl9ZIvyByO3dgEYGgotVvDF14XDACFNg4 -download-archive downloaded.txt
+youtube-dl -w --output "%(title)s.%(ext)s" --extract-audio --yes-playlist --format bestaudio --audio-format mp3 --audio-quality 96K PLl9ZIvyByO3dgEYGgotVvDF14XDACFNg4 --download-archive downloaded.txt
+sudo dpkg -i master-pdf-editor-5.9.10-qt5.x86_64.deb
+sudo logout
+sudo shutdown
+bb
+wget https://harekrishna.ru/news/pics/25226/6.jpg
+xdg-open *.jpg
+sxiv *.jpg
+xdg-open ./6.jpg
+echo "deb http://repo.yandex.ru/yandex-disk/deb/ stable main" | sudo tee -a /etc/apt/sources.list.d/yandex-disk.list > /dev/null && wget http://repo.yandex.ru/yandex-disk/YANDEX-DISK-KEY.GPG -O- | sudo apt-key add - && sudo apt-get update && sudo apt-get install -y yandex-disk
+yandex-disk token
+yandex-disk start
+yandex-disk help
+yandex-disk start -d .
+yandex-disk status
+yandex-disk status -d .
+yandex-disk sync -d .
+rclone ls ydx:/
+rclone authorize "yandex"
+youtube-dl --extract-audio --audio-format "mp3" --audio-quality 0 https://youtu.be/ejd679u4_Rg 
+sudo reboot
+sudo reboot 
+cd 2022
+wget https://export.tildacdn.com/export/zips/project4246363_1671433663.zip
+vim 
+rclone config
+rclone copy Govinda_Maharaj @gurudev pcl:/Gurudev
+crontab -e
+rclone copy Govinda_Maharaj pcl:/Gurudev && rclone copy @gurudev pcl:/Gurudev
+man rclone
+rclone -vv copy Govinda_Maharaj pcl:/Gurudev && rclone copy @gurudev pcl:/Gurudev
+rclone -vv rclone copy @gurudev/* pcl:/Gurudev/
+rclone -vv copy @gurudev/* pcl:/Gurudev/
+rclone -vv copy @gurudev pcl:/Gurudev/
+rclone -vv copy gurudev pcl:/Gurudev/
+rclone -vv copy . pcl:/Gurudev/
+rclone -vv copy GovindaMj* pcl:/Gurudev/
+rclone -vv copy . --include "GovindaMj*" pcl:/Gurudev/
+rm 537_*.json
+php artisan serve
+./evaluator
+ssh vu
+vim ~/.zsh/history
+scp -r ru/*.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis/navadvip/537/
+scp -r ru/*.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis/navadvip/537/ru
+scp -r en/*.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis/navadvip/537/en
+cd ../../
+ls 537*json
+scp 537*json root@vu:/var/www/vaishnavacalendar.org/resources/tithis
+rclone -vv copy . --ignore-existing pcl:/Gurudev/
+rclone -vv copy ../Govinda_Maharaj --ignore-existing pcl:/Gurudev/
+alacritty -e "vifm"
+alacritty -e "vim"
+alacritty -e "vim -c 'startinsert'"
+vim -c 'startinsert'
+vim ~/.zsh/aliases
+alacritty -e "vv"
+vim myvim
+vim myvim.sh
+./myvim.sh
+sudo ln -s ./myvim.sh /usr/local/bin/myvim
+su -
+myvim
+alacritty -c 'myvim'
+alacritty -e 'myvim'
+sudo cnmod a+x ytd
+sudo chmod a+x ytd
+man youtube-dl
+vim ytd
+./ytd https://youtu.be/v1xaE6S6UAY
+\
+\
+\
+\
+
+sudo ln -s ./ytd /usr/bin/local/ytd
+sudo ln -s ./ytd /usr/local/bin/ytd
+cd
+sudo rm /usr/local/bin/ytd
+ytd
+sudo ln -s ~/.local/share/work/programming/scripts/bash/ytd /usr/local/bin/ytd
+ytd https://youtu.be/v1xaE6S6UAY
+vim
+\:q
+logout
+vv
+: 1672873758:0;vim
+: 1672874170:0;vv
+: 1672875131:0;ssh hk
+: 1672875175:0;cat ~/.ssh/config
+: 1672875215:0;ssh hk -p 1023
+: 1672875247:0;ssh hk
+: 1672875270:0;ping old.harekrishna.ru
+: 1672875283:0;ping harekrishna.ru
+: 1672875302:0;ssh vu
+: 1672875325:0;ping vedx.pro
+: 1672875415:0;which ping
+: 1672875438:0;sudo chmod 4711 /bin/ping
+: 1672875446:0;ping vedx.pro
+: 1672875459:0;ping old.harekrishna.ru
+: 1672875469:0;ssh hk
+: 1672875530:0;ssh bx
+: 1672875577:0;cd ~/.ssh
+: 1672875579:0;vv
+: 1672875680:0;ssh mm
+: 1672875797:0;ssh bx
+: 1672876955:0;	vim ~/.ssh/config
+: 1672876996:0;ssh root@harekrishna.ru
+: 1672877167:0;ssh vu
+: 1672877560:0;ssh harekrishna.ru
+: 1672877675:0;ssh hk
+: 1672901885:0;vv
+: 1672902399:0;crontab -e
+: 1672902422:0;vv
+: 1672902681:0;VV
+: 1672902684:0;vv
