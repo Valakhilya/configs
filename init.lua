@@ -1,23 +1,10 @@
-local g = vim.g
-
--- load package manager
-local fn = vim.fn
-local install_path = fn.stdpath('data') .. '/site/pack/paqs/start/paq-nvim'
-
-if fn.empty(fn.glob(install_path)) > 0 then
-  fn.system({'git', 'clone', '--depth=1',
-  'https://github.com/savq/paq-nvim.git', install_path})
-end
-
-require 'impatient'
-require 'settings'
-require 'maps'
-require 'plugins'
-require 'lsp'
-require 'snippets'
-require 'coq'
-
-
--- color scheme
-require('colorbuddy').colorscheme('gruvbuddy')
-
+require('plug')
+require('plugins/coq_nvim')
+require('settings/options')
+require('settings/keymaps')
+require('settings/commands')
+require('plugins/coq_3p')
+require('plugins/unimpaired')
+require('plugins/nvim-lspconfig')
+require('plugins/nvim-tree')
+require('colorschemes/setup')

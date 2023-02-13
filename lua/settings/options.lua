@@ -1,6 +1,6 @@
 local o = vim.opt
 local cmd = vim.cmd
-
+o.termguicolors = true
 o.swapfile = true
 o.dir = '/tmp'
 o.hlsearch = true
@@ -27,13 +27,11 @@ o.colorcolumn = '80'
 --allow copy to system clipboard
 o.clipboard = 'unnamed'
 
---syntax highliting
-cmd("syntax on")
-
 --convert tabs to spaces
 o.expandtab = true
 
 --set modifiable mode for windows
 o.modifiable = true
 
+--special symbols to be displayed
 o.listchars = 'tab:<\\ ,trail:-,eol:$,space:.'

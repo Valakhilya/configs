@@ -224,7 +224,6 @@ ls | grep Jiv
 ls | grep Jiv\ Jago
 find . -name Jiv\ Jago
 find . -name '*Jiv\ Jago*'
-VV
 find . -name '*Ѓ�ау�айоги*'
 find . -name '*Ѓ�ау�айоги*' -exec mv {} Ѓ�ау�айоги \;
 find . -name '*Ѓ�ау�адев*' -exec mv {} Ѓ�ау�адев/ \;
@@ -241,7 +240,6 @@ find ../ -maxdepth 1 -name "*TVDarshan_Lahta*" -exec mv {} . \;
 find ../ -maxdepth 1 -name "*TVDarshan_Lahta*"
 find . -name "*Ѓ�анди*" -exec rm {} \;
 mkdir video
-cd video
 youtube-dl -f mp4 https://vk.com/video-109944232_456239576
 wget https://gaudiyadarshan.net/__projects__/calendar/main/index_main_calendar.html
 vim index_main_calendar.html
@@ -383,7 +381,6 @@ curl "https://www.google.com"
 ssh indubalaru@indubala.ru
 sudo cd /var/cache
 sudo vv
-sudo vifm
 mkdir -p /home/astik/.local/share/cache/apt
 sudo mv -i /var/cache/apt /home/astik/.local/share/cache/apt
 sudo ln -s /home/astik/.local/share/cache/apt /var/cache/apt
@@ -412,7 +409,6 @@ youtube-dl -f mp4 https://www.youtube.com/watch?v=tqmmw31zxd0
 youtube-dl
 youtube-dl -f mp4 https://youtu.be/tqmmw31zxd0
 sudo apt remove kdenlive
-cd /
 sudo ls -al
 mv -i tmp /home/astik/.local/tmp
 sudo mv -i tmp /home/astik/.local/tmp
@@ -447,7 +443,6 @@ flatpak install https://flathub.org/repo/appstream/org.gimp.GIMP.flatpakref
 cd target
 cd release
 sudo ln -s /media/astik/home/astik/.local/share/soft/alacritty/target/release/alacritty /usr/bin/alacritty
-alacritty
 sudo apt install spacefm
 cd .local/share/soft
 cd rakudo-moar-2021.02.1-01-linux-x86_64-gcc
@@ -506,10 +501,7 @@ sudo chmod a+wx /media/astik/home/astik/.local/share/soft/node-v14.17.0-linux-x6
 sudo chmod -R a+wx /media/astik/home/astik/.local/share/soft/node-v14.17.0-linux-x64
 sudo chmod -R a+wx /var/lib/gems
 sudo apt install ruby-dev
-gem install neovim
-sudo gem install neovim
 sudo apt install rclone
-cd ~
 sudo chmod 655 config
 ls -la .s*
 sudo chmod 700 .ssh
@@ -736,7 +728,6 @@ nnoremap yf :!echo -n %c:p | xsel --input --primary %i &&\
 nnoremap yn :echo $HOME -n %c | xsel --input --primary %i &&\
             \ echo -n %c | xsel --clipboard --input %i<cr>:echo expand('%"c') "is yanked to clipboard"<cr>
 xsel -ob
-xsel
 echo "adfasdfadsfas" | xsel -ib
 ./calc.raku petropavl 536
 ./calc.raku petropavlovsk_kamchatsky 536
@@ -885,7 +876,6 @@ rsync -rv /media/astik/home/astik/ --exclude /media/astik/home/astik/.local/shar
 cp -nrv /media/astik/home/astik/ /media/astik/data/Profile
 find . -print
 man touch
-man cp
 cp -nrv /media/astik/home/astik/* /media/astik/data/Profile
 cp -irv /media/astik/home/astik/* /media/astik/data/Profile
 rsync -av --update --progress /media/astik/home/astik/ /media/astik/data
@@ -915,7 +905,6 @@ rclone copy --progress --drive-alternate-export  drive:/ .
 rclone delete --progress drive:/ 
 telegram
 sudo apt install udiskie
-startx
 sudo apt install neofetch
 inxi -vvvF
 sudo apt install ueberzug
@@ -1070,7 +1059,6 @@ sudo apt install ripgrep
 rg --help
 rg -i 'body'
 rc
-neovim
 ./nvim.appimage ~/.zsh/aliases
 sob
 curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage\
@@ -1080,13 +1068,9 @@ chmod u+x nvim.appimage\
 chmod u+x nvim.appimage && ./nvim.appimage
 wget https://github.com/neovim/neovim/releases/download/v0.5.1/nvim.appimage
 sudo chmod a+x ./nvim.appimage
-./nvim.appimage
-perl
 cpan App::cpanminus
 vim ~/.zshrc
 cpanm -n Neovim::Ext
-git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
- ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 ls /usr/bin/vim
 ls -la /usr/bin/vim
 ln -s /home/astik/home/astik/.local/share/soft/nvim/nvim.appimage /usr/bin/vim
@@ -1150,7 +1134,6 @@ git config --get-all
 git config --get-all 2
 git config --get-all 1
 git remote add nf git@github.com:Valakhilya/nf.git
-ssh-keygen -t ed25519 -C "dandi@vedx.pro"
 cat nf.pub
 ssh -t git@github.com
 git push nf master
@@ -1179,7 +1162,6 @@ guake --hide
 guake
 sudo apt install tilda
 fasdfjadsf 
-adsfasdfasdf
 asdfadsfadsfadsfadsfadsfadsfasdfasd
 sfadsfsadfasdfdsfasdfasdfasdfadsfadsfasdfasdfadsf
 ls -al /usr/bin
@@ -1193,7 +1175,6 @@ rm ~/.xprofile
 mkdir $XDG_CONFIG/X11
 echo $XDG_CONFIG
 echo $XDGCONFIG
-echo $XDG_CONFIG_HOME
 mkdir $XDG_CONFIG_HOME/X11
 vim $XDG_CONFIG_HOME/X11/xinitrc
 echo $XINITRC
@@ -1225,7 +1206,6 @@ cd 2
 cd +2
 cd +1
 cd 0
-make install
 sudo apt update && sudo apt install -y ffmpeg
 sudo apt install -y ffmpeg
 cd ~/.local/share/soft/
@@ -1287,7 +1267,6 @@ cd raku
 raku --doc=HTML modules.raku
 raku --doc=HTML modules.raku > help.html
 firefox help.html
-sudo apt install --yes -- python3-venv
 sudo apt install universal-ctags
 node install npm
 node --help
@@ -1299,7 +1278,6 @@ sudo ln -s /media/astik/home/astik/.local/share/soft/node/node-v16.13.0-linux-x6
 sudo ln -s /media/astik/home/astik/.local/share/soft/node/node-v16.13.0-linux-x64/bin/npm /usr/bin/npm
 node --version
 npm install -g npm@8.1.3
-npm audit fix
 npm i --package-lock-only
 npm config ls -l | grep /
 npm --version
@@ -1313,7 +1291,6 @@ man vifm
 find . -type f -name '.*'
 find . -type f -name '.*' -delete
 zip -r -s 3g GovindaMj .
-man zip
 find . -name '.*' -type f -delete
 for i in '*.zip';do unzip $i;done
 find . -type f -name '*.rtf'
@@ -1511,22 +1488,17 @@ sudo systemctl restart tor
 scp heilbronn_536_tt.csv root@vu:/var/www/vaishnavacalendar.org/resources/tithis
 scp heilbronn* root@vu:/var/www/vaishnavacalendar.org/resources/srss
 mpv .
-sxiv .
 man sxiv
 npm install -g vim-language-server
 curl https://raw.githubusercontent.com/L3MON4D3/LuaSnip/master/Examples/snippets.lua
 curl -O https://raw.githubusercontent.com/L3MON4D3/LuaSnip/master/Examples/snippets.lua
 npm i -g vscode-langservers-extracted
-cpanm
-cpanm --help
-cpanm Neovim::Ext
 man curl 
 curl -L https://install.perlbrew.pl | bash
 echo $XDG_DATA
 echo $XDG_DATA_DIR
 echo $XDG_CONFIG_DIR
 echop $XDG_DATA_HOME
-. ./login
 echo $PERLBREW_ROOT
 cd perlbrew
 perlbrew info
@@ -1542,7 +1514,6 @@ perlbrew install 5.35.6
 perlbrew list
 perlbrew use perl-5.35.6
 perlbrew upgrade
-perl -v
 perlbrew available
 perlbrew upgrade perl
 perlbrew upgrade-perl
@@ -1552,7 +1523,6 @@ find . -name "vscode-html-language-server*"
 sudo ln -s /media/astik/home/astik/.local/share/soft/node/node-v16.13.0-linux-x64/bin/vscode-html-language-server /usr/bin/vscode-html-language-server
 git remote 
 git remote add config git@gitlab.com:astik/configs.git
-git branch main
 git pull config master
 git pull master config
 git pull config
@@ -1580,11 +1550,9 @@ cat /etc/apt/sources.list
 man bc
 bc -i
 ls -lF
-ls -l
 ls -laF
 ps
 ps aux
-top
 xtop
 inxi
 sudo chmod u+x /usr/bin/info
@@ -1672,7 +1640,6 @@ la -al renamer
 vim renamer
 ./renamer
 ls -l renamer
-sudo vim /etc/fstab
 vim ren
 ./ren
 . ~/.zsh/aliases
@@ -1700,7 +1667,6 @@ sudo vim /etc/passwd
 rclone --verbose sync work pcl:/
 rclone sync --verbose work pcl:/
 man tail
-sudo blkid
 wget https://files.devuan.org/devuan_chimaera/desktop-live/devuan_chimaera_4.0.0_amd64_desktop-live.iso
 ls devuan_chimaera_4.0.0_amd64_desktop-live.iso
 mv devuan_chimaera_4.0.0_amd64_desktop-live.iso ~/.local/share/soft/devuan
@@ -1708,14 +1674,10 @@ vim config
 sudo chmod 600 hk.rsa
 chsh -l
 chsh -s /usr/bin/zsh
-echo $SHELL
 zsh --version
 grep -r XDG_DATA_HOME
-cd .zsh
 vim aliases
 vim env
-vim interactive
-vim login
 echo $HOME
 grep -r "media/astik/home/astik"
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -1734,7 +1696,6 @@ cd alacritty
 cargo build --release
 cd target/release/
 ./alacritty
-vim ~/.config/alacritty/alacritty.yml
 sudo ln -s /home/astik/.local/share/soft/alacritty/alacritty/target/release/alacritty /usr/local/bin/alacritty
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 vim ~/.zshenv
@@ -1749,7 +1710,6 @@ tar xvzf nvim-linux64.tar.gz
 wget https://github.com/neovim/neovim/releases/download/v0.6.1/nvim.appimage
 python3
 sudo apt install python3-pip
-python3 -m pip install --user --upgrade pynvim
 locate python3
 whereis python3
 ln -s /usr/bin/python3 /usr/local/bin/python
@@ -1784,7 +1744,6 @@ youtube-dl https://youtu.be/Yr9q6YtwOtI
 tree-sitter
 \:Q
 ;q
-npm install -g neovim
 find / vim-language-server 2> /dev/null
 find / -name vim-language-server 2> /dev/null
 yt https://vimeo.com/37350278
@@ -1792,15 +1751,12 @@ ln -s /home/astik/.local/share/soft/node/node-v16.13.0-linux-x64/bin/vim-languag
 npm install --save vscode-html-languageservice
 find / -name vscode-html-language-server 2>/dev/null
 ln -s /home/astik/.local/share/soft/node/node-v16.13.0-linux-x64/lib/node_modules/vscode-langservers-extracted/bin/vscode-html-language-server /usr/local/bin/vscode-html-language-server
-vscode-html-language-server
-vscode-html-language-server --stdio
 mpv ./Sripad\ Bhakti\ Sharan\ Vaishnav\ Maharaj\ Sraddha\ Ceremony-37350278.mp4
 apt update && apt upgrade
 xfce4-popup-whisker-menu
 ffmpeg
 yt https://youtu.be/3-XnhHLiyx4
 ffmpeg -i New\ Year\ Well-wishes\ 2022\ for\ the\ devotees\ and\ friends\ of\ SCSMath.mp4 -i New\ Year\ Well-wishes\ 2022\ for\ the\ devotees\ and\ friends\ of\ SCSMath.ru.srt -c copy -c:s mov_text out.mp4
-ssh bx
 zef install JSON::Tine
 git clone https://github.com/ugexe/zef.git
 cd zef
@@ -1827,21 +1783,18 @@ curl https://rclone.org/install.sh | sudo bash
 rclone ls pr:/
 rclone sync . pr:/
 rclone sync --verbose . pr:/
-echo $XDG_DATA_HOME
 rclone ls vbooks:/
 rclone sync --verbose work:/ pcl:/
 rclone sync --verbose work/ pcl:/
 omz update
 cd /usr/share
 find *.desktop
-find . -name '*.desktop'
 vim .config/autostart/Tilda.desktop
 sudo ls -l /dev/ | grep video
 sudo ls -l /dev/
 sudo apt install hwinfo
 whereis hwinfo
 vim .zsh/interactive
-vim .zsh/login
 . .zsh/login
 hwinfo
 hwinf0 --usb
@@ -1960,7 +1913,6 @@ youtube-dl -all-subs https://www.youtube.com/watch\?v\=mzGIKaYjlL0
 youtube-dl -all-subs https://youtu.be/mzGIKaYjlL0
 youtube-dl --all-subs https://youtu.be/mzGIKaYjlL0
 youtube-dl --all-subs --skip-download https://youtu.be/mzGIKaYjlL0
-ping harekrishna.ru
 rm -rf /home/astik/.local/share/work/sundar
 tty-clock
 unzip -d "Ѓ�анди Ѓ�ау�арадж у�ото" Ѓ�анди+Ѓ�ау�арадж+готову�е+у�ото.zip
@@ -2009,7 +1961,6 @@ aptitude -h
 sudo apt install virtualbox-6.1
 sudo apt --fix-broken install virtualbox-6.1
 sudo apt --fix-broken install
-cd ~/.ssh
 sudo vim /etc/ssh/sshd_config
 vim /etc/ssh/sshd_config
 curl -LO https://github.com/BurntSushi/ripgrep/releases/download/13.0.0/ripgrep_13.0.0_amd64.deb
@@ -2017,7 +1968,6 @@ sudo dpkg -i ripgrep_13.0.0_amd64.deb
 rg AuthorizedKeysFile
 rg 'AuthorizedKeysFile'
 rg cat
-man rg
 rg 'AuthorizedKeysFile' /
 sudo -i\\
 
@@ -2062,9 +2012,7 @@ sudo apt remove vifm
 sudo apt install vifm
 sudo rm /usr/local/bin/vifm
 vifm
-du -h
 df 0h
-df -h
 ./conv.raku afters.json
 sudo chmod a+x pass
 vim pass
@@ -2211,7 +2159,6 @@ git config
 git config --global
 git config --list
 git add
-git remote
 git remote add origin git@gitlab.com:astik/sri-guru.ru.git
 ls -al ~/.ssh
 ssh -T git@gitlab.com
@@ -2227,7 +2174,6 @@ sudo apt install -y virtualbox
 sudo apt remove virtualbox
 sudo apt remove virtualbox-6.1
 sudo apt purge virtualbox-6.1
-sudo apt autoremove
 sudo apt install virtualbox virtualbox-qt linux-headers-"$(uname -r)" dkms vde2 virtualbox-guest-additions-iso vde2-cryptcab\
 \
 
@@ -2264,7 +2210,6 @@ sudo rcvboxadd setup
 find / -name rcvboxadd
 sudo apt zstd
 sudo apt install zstd
-xclip
 echo "Gauda1486" | xclip
 echo "Simply wonderful" | xclip
 echo "Gauda1486" | xclip -sel clip
@@ -2280,7 +2225,6 @@ tex4ht
 git clone https://github.com/michal-h21/make4ht.git
 sudo apt install pandoc
 echo Gauda1486 | xclip -sel clip
-make
 make4ht
 make4ht -u ./imitation.tex
 java
@@ -2289,7 +2233,6 @@ sudo apt install default-jdk
 pandoc ./imitation.tex -o imitation.docx
 mkdir ~/.local/share/images/"Ѓ�ткру�тие Чанда-у�тра мандира 2007"
 cd ~/.local/share/images/Ѓ�ткру�тие\ Чанда-у�тра\ мандира\ 2007
-wget -i list.lst
 rclone sync $XDG_DATA_HOME/work/ pcl:/
 locate rclone
 whereis rclone
@@ -2392,8 +2335,6 @@ unrar e site_for_Chaitanja.rar
 unrar
 unrar x site_for_Chaitanja.rar
 ping home.vedx.pro
-ping vedx.pro
-ping google.com
 youtube-dl -f mp4 https://www.facebook.com/backtobhaktabasicsclass/videos/725018778685177
 youtube-dl -f mp4 -w https://www.facebook.com/backtobhaktabasicsclass/videos/725018778685177
 ffmpeg -i Facebook\ video\ \#725018778685177-725018778685177.mp4 -q:a 0 -map a bbbc_spiritual_succession.mp3
@@ -2476,24 +2417,18 @@ curl -L https://go.dev/dl/go1.18.3.src.tar.gz
 curl  -L -o go.tar.gz https://go.dev/dl/go1.18.3.src.tar.gz
 tar xvzf go.tar.gz
 . :q
-. ~/.zsh/login
 echo $PATH
 curl -L -o go.tar.gz https://go.dev/dl/go1.18.3.linux-amd64.tar.gz
 tar -C /usr/local -xvzf go.tar.gz
-vim ~/.zsh/login
-go
 mkdir hugo && cd hugo
 curl -L -o hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.100.1/hugo_0.100.1_Linux-64bit.deb
 sudo dpkg -i hugo_0.100.1_Linux-64bit.deb
-hugo help
 hugo new site quickstart
 cd quickstart
-git branch -m main
 git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
 hugo new posts/my-first-post.md
 hugo -D
 git branches
-git branch
 git branch list
 git --help
 git remote add origin https://github.com/Valakhilya/hugo_test.git
@@ -2507,7 +2442,6 @@ ssh -T git@github.com
 git commit -m "adding gh-pages"
 git commit --amend --reset-author
 git push origin mani
-vim ~/.ssh/config
 ssh-add ~/.ssh/nf
 git config -v
 git config --edit
@@ -2515,7 +2449,6 @@ git config --global --edit
 git remote --set-url origin git@github.com:Valakhilya/hugo_test.git
 git remote set-url origin git@github.com:Valakhilya/hugo_test.git
 git remote set-url --push origin git@github.com:Valakhilya/hugo_test.git
-git pull origin main
 git config pull.ff only
 git pull -f origin main
 git push -f origin main
@@ -2529,7 +2462,6 @@ w astik
 iptraf
 git remote add origin git@github.com:Valakhilya/notes.git
 rm -rf notes
-hugo new notes
 hugo help new
 hugo new site notes --noBuildLock --minify
 hugo new site -h
@@ -2541,7 +2473,6 @@ vim ../config.toml
 hugo new _index.md
 vim content/_index.md 
 hugo new first-record.md
-cat ~/.ssh/config
 scp dandimj@hk:/Dinashraya-Tradish.zip .  -p 1023  
 scp -p 1023 dandimj@hk:/Dinashraya-Tradish.zip . 
 scp dandimj@hk:1023/Dinashraya-Tradish.zip . 
@@ -2551,12 +2482,10 @@ scp -P 1023 dandimj@hk:/home/dandimj/Dinashraya-Tradish.zip .
 scp -P -r 1023 dandimj@hk:/home/dandimj/100 .
 scp -P 1023 -r dandimj@hk:/home/dandimj/100 .
 scp -P 1023 -r dandimj@hk:/home/dandimj/100_____ .
-rg
 rg 'Шу�у�ма Ѓ�иласа'
 scp ./tithis.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis/navadvip/537/ru
 scp 537_*.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis
 unzip GoswamiMj.zip
-man unzip
 for f in '*.zip'; do unzip "$f"; done
 unzip 020520\ Ѓ�освамиЃ�\ Ѓ�у�ру�\ не\ один.rtfd.zip
 sudo apt install -y textedit.app
@@ -2573,15 +2502,9 @@ rclone copy . drv:/Ѓ�онтент/Ѓ�ранскрипту�/GoswamiMj/
 rclone copy --verbose . drv:/Ѓ�онтент/Ѓ�ранскрипту�/GoswamiMj/
 ss
 ssh
-man history
-history -h
-history --help
-history /?
-history -?
 history -v
 history | grep ssh
 history -r
-vim ~/.zsh/interactive
 history 10000
 history 1000
 history -d 2308
@@ -2596,7 +2519,6 @@ sudo firefox
 firefox
 zef isntall JSON::Tiny
 zef install JSON::Tiny
-cd tmp
 mkdir tmp && cd tmp && curl -O http://scsmath.org/publications/pdfs/Ocean_of_Nectar-2004.pdf && xdo-open -
 xdg-open ./Ocean_of_Nectar-2004.pdf
 cd tmp && curl -O http://scsmath.org/publications/pdfs/HomeComfort6thIndianEdition.pdf && xdg-open -
@@ -2604,14 +2526,12 @@ cd tmp && curl -O http://scsmath.org/publications/pdfs/HomeComfort6thIndianEditi
 xdg-open http://scsmath.org/publications/pdfs/HomeComfort6thIndianEdition.pdf
 cd tmp && curl -O http://scsmath.org/publications/pdfs/LovingSearchForThe%20LostServant-ColourSoftCover.pdf && xdg-open ./L*
 history | grep mkdir
-history -a
 !
 cd ~/.config
 setxkbmap -print -verbose 10
 gnome-system-monitor
 vim first.txt
 cp first.txt second.txt
-fg
 vim parse.raku
 vim parser.raku
 raku
@@ -2650,7 +2570,6 @@ scp vu:
 scp tithis.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis/navadvip/537/ru
 scp 537*ru.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis
 vim calc.raku
-su
 ./calc.raku amsterdam 537
 scp 537_amsterdam_ru.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis
 scp cities.csv dst.csv root@vu:/var/www/vaishnavacalendar.org/resources/csv
@@ -2661,9 +2580,7 @@ vim avadhut_mj2022.txt
 flatpak install flathub com.obsproject.Studio
 vim madhavi.txt
 history | grep ffmpeg
-history
 cat ~/.zsh/history | grep ffmpeg
-ls
 ffmpeg -i GMT20220716-065110_Recording_640x360.mp4 -ss 00:28:55 -to 00:45:51 -c:a copy -c:v copy madhusudan-mj_about_bhakti_lalita.mp4
 ffmpeg -i GMT20220716-065110_Recording_640x360.mp4 -ss 00:28:46 -to 00:45:51 -c:a copy -c:v copy madhusudan-mj_about_bhakti_lalita.mp4
 ffmpeg -i GMT20220716-065110_Recording_640x360.mp4 -ss 00:28:51 -to 00:45:51 -c:a copy -c:v copy madhusudan-mj_about_bhakti_lalita.mp4
@@ -2690,7 +2607,6 @@ scp 537*.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis
 sudo dpkg -i zoom_amd64.deb
 pass 35
 git remote add origin git@github.com:Valakhilya/vp2022.git
-git add -A .
 git push -u origin main
 scp *.* root@vu:/var/www/vedx.pro/vptest22
 scp -R *.* root@vu:/var/www/vedx.pro/vptest22
@@ -2699,7 +2615,6 @@ scp -r . root@vu:/var/www/vedx.pro/vptest22
 scp -r ./ root@vu:/var/www/vedx.pro/vptest22
 scp -r * root@vu:/var/www/vedx.pro/vptest22
 pdflatex avadhut2022.tex
-v
 youtube-dl https://www.youtube.com/watch?v=jsxsulF12I8
 yt https://youtu.be/jsxsulF12I8
 ffmpeg -i Шри\ Ѓ�у�ру�\ и\ его\ милосту�.\ у�.7-jsxsulF12I8.mp4 -vn acodec copy Шри\ Ѓ�у�ру�\ и\ его\ милосту�.\ у�.7.aac
@@ -2728,7 +2643,6 @@ man xdg-mime
 calibre-ebook-viewer
 find / -name 'calibre-ebook-viewer*' -type f 2&>/dev/null
 vim /usr/local/share/applications/calibre-ebook-viewer.desktop
-vim list.lst
 vim config.cfg
 youtube-dl --version
 youtube-dl --config-location config.txt
@@ -2746,11 +2660,9 @@ youtube-dl --config-location config.cfg
 sudo apt-get install screenkey
 man screenkey
 screenkey --help
-htop
 ffmpeg -i 2022-08-16\ 21-40-48.mp4 -ss 00:00:11 -to 00:00:16 out.mp4
 ls -al /usr/bin/local 
 ls -al /usr/local/bin
-ssh hk
 scp -rP 1023 dandimj@hk:Pesennik .  
 ps2pdf
 ps2pdfwr -h
@@ -2764,18 +2676,14 @@ vim /usr/share/applications/atril.desktop
 less /usr/share/applications/firefox-esr.desktop
 ls -al /usr/share/applications
 find / -name '*.desktop' 2>/dev/null
-git remote add origin git@github.com:Valakhilya/stuff.git
 git remote --list
 git branch -M main
 git add README.md
 git add bookmarks*
 git log
-git status
 git commit m "first commit"
 git commit -m "first commit"
-git push origin master
 git remote -v
-git push origin main
 cat ~/.zsh/history|grep odt
 man xetex
 make4ht our_centers.tex
@@ -2789,10 +2697,8 @@ pandoc -f odt our_centers.tex
 pandoc our_centers.tex our_centers.odt
 cd themes\
 git submodule add https://github.com/wayn3h0/hugo-bulma
-git init
 git submodule add https://github.com/wayn3h0/hugo-bulma
 ls -al /usr/local/bin/hugo
-go version
 sudo apt purge hugo
 go build -o hugo main.go
 hugo version
@@ -2800,7 +2706,6 @@ hugo version
 hugo env
 wget https://github.com/gohugoio/hugo/releases/download/v0.103.1/hugo_0.103.1_Linux-64bit.tar.gz -O $HOME/tmp
 wget https://github.com/gohugoio/hugo/releases/download/v0.103.1/hugo_0.103.1_Linux-64bit.tar.gz -o $HOME/tmp
-man wget
 wget https://github.com/gohugoio/hugo/releases/download/v0.103.1/hugo_0.103.1_Linux-64bit.tar.gz -P $HOME/tmp
 cp /home/astik/tmp/hugo_0.103.1_Linux-64bit.tar.gz .
 tar xvzf hugo_0.103.1_Linux-64bit.tar.gz
@@ -2819,33 +2724,26 @@ hugo env -v
 npm install postcss-cli
 npm install -g npm@8.19.2
 sudo npm install -g npm@8.19.2
-npm -v
 npm install autoprefixer
 cd ../../../
 hugo server -D
 hugo new site single
 git clone https://github.com/plopcas/papaya.git
-hugo server --disableFastRender
 hugo new darshana
 hugo new site darshana
 vim index.html
 vim nav.html
 hugo new friends/mood.md
-vim single.html
-hugo
 vim _index.md
 \:wq
-vim list.html
 wget https://raw.githubusercontent.com/jgthms/bulma/master/css/bulma.min.css
 dmesg
-cd ..
 rm *.log,*.aux,*.4ct,*.dvi,*.idv,*.lg,*.tmp,*.xref
 rm *.log
 rm *.{4ct,4tc,aux}
 rm *.{4ct,4tc,aux,tmp.lg,xref,dvi,idv}
 rm *.{tmp.lg,xref,dvi,idv}
 rm *.{tmp,lg,xref,dvi,idv}
-ls -al
 vim our_centers.tex
 panodoc our_centers.tex -o our_centers.dot
 pandoc our_centers.tex -o our_centers.dot
@@ -2853,7 +2751,6 @@ pandoc our_centers.tex -o our_centers.odt
 pandoc our_centers.tex -o our.centers.docx
 hugo mod graph
 git clone --depth 1 https://github.com/Valakhilya/docsy.git
-hugo server
 ffmpeg -i ./IMG_5021.MOV -vcodec h264 -acodec aac adv.mp4
 vim channels_list.txt
 vim hello.c
@@ -2900,8 +2797,6 @@ pass 16
 man printf
 man 3 printf
 sudo apt install bd
-bd
-bc
 vim int.c
 gcc -Wall -g int.c -o int
 ./int
@@ -2927,7 +2822,6 @@ man getch
 man getchar
 git clone https://github.com/zoelabbb/conio.h.git
 cd conio.h
-sudo make install
 gcc -Wall -g console_input.c -o console_input
 find / -name "*curses.h" 2>/dev/null
 less /usr/include/ncurses.h
@@ -2946,7 +2840,6 @@ ffmpeg -i Шри\ Ѓ�у�ру�\ и\ его\ милосту�.\ у�.33.mp4 -vcodec 
 youtube-dl --output "%(title)s.%(ext)s" --extract-audio --yes-playlist --format bestaudio --audio-format mp3 --audio-quality 96K https://www.youtube.com/playlist?list=PLl9ZIvyByO3dgEYGgotVvDF14XDACFNg4
 youtube-dl --output "%(title)s.%(ext)s" --extract-audio --yes-playlist --format bestaudio --audio-format mp3 --audio-quality 96K PLl9ZIvyByO3dgEYGgotVvDF14XDACFNg4
 scp ./centers.pdf root@vu:/var/www/vedx.pro
-less ~/.zsh/history
 dir
 vim list.sh
 sudo chmod a+h list.sh
@@ -2977,14 +2870,11 @@ yandex-disk sync -d .
 rclone ls ydx:/
 rclone authorize "yandex"
 youtube-dl --extract-audio --audio-format "mp3" --audio-quality 0 https://youtu.be/ejd679u4_Rg 
-sudo reboot
 sudo reboot 
 cd 2022
 wget https://export.tildacdn.com/export/zips/project4246363_1671433663.zip
-vim 
 rclone config
 rclone copy Govinda_Maharaj @gurudev pcl:/Gurudev
-crontab -e
 rclone copy Govinda_Maharaj pcl:/Gurudev && rclone copy @gurudev pcl:/Gurudev
 man rclone
 rclone -vv copy Govinda_Maharaj pcl:/Gurudev && rclone copy @gurudev pcl:/Gurudev
@@ -2996,14 +2886,9 @@ rclone -vv copy . pcl:/Gurudev/
 rclone -vv copy GovindaMj* pcl:/Gurudev/
 rclone -vv copy . --include "GovindaMj*" pcl:/Gurudev/
 rm 537_*.json
-php artisan serve
-./evaluator
-ssh vu
-vim ~/.zsh/history
 scp -r ru/*.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis/navadvip/537/
 scp -r ru/*.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis/navadvip/537/ru
 scp -r en/*.json root@vu:/var/www/vaishnavacalendar.org/resources/tithis/navadvip/537/en
-cd ../../
 ls 537*json
 scp 537*json root@vu:/var/www/vaishnavacalendar.org/resources/tithis
 rclone -vv copy . --ignore-existing pcl:/Gurudev/
@@ -3012,7 +2897,6 @@ alacritty -e "vifm"
 alacritty -e "vim"
 alacritty -e "vim -c 'startinsert'"
 vim -c 'startinsert'
-vim ~/.zsh/aliases
 alacritty -e "vv"
 vim myvim
 vim myvim.sh
@@ -3024,52 +2908,774 @@ alacritty -c 'myvim'
 alacritty -e 'myvim'
 sudo cnmod a+x ytd
 sudo chmod a+x ytd
-man youtube-dl
 vim ytd
 ./ytd https://youtu.be/v1xaE6S6UAY
-\
-\
-\
-\
-
 sudo ln -s ./ytd /usr/bin/local/ytd
 sudo ln -s ./ytd /usr/local/bin/ytd
-cd
 sudo rm /usr/local/bin/ytd
 ytd
 sudo ln -s ~/.local/share/work/programming/scripts/bash/ytd /usr/local/bin/ytd
 ytd https://youtu.be/v1xaE6S6UAY
-vim
 \:q
 logout
+cat ~/.ssh/config
+ssh hk -p 1023
+which ping
+sudo chmod 4711 /bin/ping
+cd ~/.ssh
+ssh mm
+ssh root@harekrishna.ru
+ssh harekrishna.ru
+crontab -e
+vim list.lst
+wget -i list.lst
+ssh root@harekrishna.ru 
+ssh hk
+ssh dandi@harekrishna.ru
+ssh bx
+hugo new site portfolio
+hugo sever
+hugo new about.md
+hugo --cleadDestinationDir --minify
+hugo --cleanDestinationDir --minify
+hugo new theme basic
+vim style.css
+vim projects.md
+cd ../..
+hugo server --disableFastRender
+hugo new projects/awesomeco.md
+hugo new jabberfwocky.md
+hugo new projects/jabberwocky.md
+vim single.html
+hugo new projects/_index.md
+vim list.html
+ping direct.harekrishna.ru
+dig harekrishna.ru
+dig vaishnavacalendar.org
+ssh dandi@104.21.4.84
+curl -L --output cloudflared.deb https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb && \
+\
+sudo dpkg -i cloudflared.deb && \
+\
+sudo cloudflared service install eyJhIjoiZjFlYmUzZTRlMTVjZjY1NzljYzBhNjYzODQ5NGEwYWEiLCJ0IjoiOWUxNGJmMDctNzlmMS00MmMwLWFlNjctZDk1ODgwZDIyOGY5IiwicyI6IlpXUm1aV0U1TVdJdE5XVTJNaTAwT0RRNExXRmtaR1l0TTJRM09EbGxZMlV5T0RJeiJ9
+nslookup harekrishna.ru
+ssh dandi@172.67.131.209
+nslookup old.harekrishna.ru
+vim ~/.ssh/config
+ping old.harekrishna.ru
+ping cloudflare.com
+ssh dandimj@172.67.131.209
+ssh dandimj@172.67.131.209 -p 1023
+vim dharmaraj.txt
+Xorg -configure
+startx
+sudo rm -rf /old_home
+bd
+dc
+bc
+fstab
+sudo fstab
+fsck
+sudo vim /etc/fstab
+lsblk -f
+blkid
+sudo blkid
+cd /media/astik/data2
+df -h
+du -sh
+cd video
+du
+du -h
+xrdb -query -all
+cd /media/astik/data2/vid
+cd /media/astik/data2/video
+mkdir stuff & cd stuff
+mkdir stuff && cd stuff
+cd stuff
+youtube-dl -f mp4 -o "%(title)s.%(ext)s" https://youtu.be/GfDoGcT2-Ck
+youtube-dl -f mp4 -o "%(uploader)s-%(title)s.%(ext)s" https://youtu.be/eaBf_yFHps8
+sudo apt install uxrvt
+sudo apt install rxvt-unicode
+uxrvt --help
+_urxvt
+vim configure
+mlterm --help
+./mlterm help
+cd ~
+./mlterm --help
+sudo ln -s ./mlterm /usr/loca/bin/mlterm
+man ln
+sudo ln -s ./mlterm /usr/local/bin/mlterm
+ls -al /usr/local/bin/ml*
+find / mlterm -type d 2>/dev/null
+find / -name 'mlterm' -type d 2>/dev/null
+su
+sudo rm /usr/local/bin/mlterm
+mlterm
+rm -rf mlterm
+git clone https://github.com/arakiken/mlterm.git
+./configure --with-iconv
+find -name 'alacritty*' -type f
+asdfasdfsadfasd asdfasdfasdfasdfasdf asdfasdfadsfasdfasdfasd
+grep /fonts ~/.local/share/xorg/Xorg.0.log
+sudo apt install fontconfig
+fontconfig
+fonts-conf
+sudo cp ./mlterm.1 /usr/local/share/man/man1
+\
+./mlterm -v
+fc-list -v
+fc-list
+fadsfdsf
+fc-list monospace
+fc-match sans-serif
+fc-match monospace
+./mlterm
+man mlterm
+\
+	\
+\
+git clone https://github.com/muennich/urxvt-perls
+sudo apt install libxml2-dev libcppunit-dev autoconf\
+ automake autotools-dev autopoint libtool
+autoreconf -i
+./conigure
+./configure
+make
+make install
+sudo make install
+aria2
+find / -name 'aria2*' 2>/dev/null
+aria2c
+aria2c https://mirrors.nxtgen.com/linuxmint-mirror/iso/debian/lmde-5-cinnamon-64bit.iso
+astik@scsm ~ % \
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+:qw
+astik@scsm ~ % \
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+:q
+xclip
+xclip -h
+uxterm -v
+uxterm -verbose
+uxterm --verbose
+uxterm --help
+uxterm -h
+xterm --help
+youtube-dl -f mp4 -w -o "%(uploader)s-%(title)s.%(ext)s" [200~astik@scsm ~ % 
+youtube-dl -f mp4 -w -o "%(uploader)s-%(title)s.%(ext)s" https://youtu.be/UEM_v8oVvS0
+youtube-dl -f mp4 -w -o "%(uploader)s-%(title)s.%(ext)s" https://youtu.be/LTFwz7dWF5M
+. ./aliases
+cd ext
+wget https://raw.githubusercontent.com/simmel/urxvt-resize-font/master/resize-font
+vim .Xresourses
+asdffsd
+asfsadfdsfsdf
+perl
+perl -g
+perl -h
+vim grab_test
+man 3 urxvtperl
+dfas
+urxvt -pe grab_test
+echo "" > ~/.Xresourses
+xrdb
+xrdb -g
+xrdb -remove
+fasdfasdf
+sudo apt install urxvt-perls
+wget https://raw.githubusercontent.com/xyb3rt/urxvt-perls/master/keyboard-select
+fasdfa
+jdsfadsfadsfdsfsd
+fadsf
+adsfasdfasdf
+asdfasdfasd
+asdfadsfasdf
+asdfasdfasdf
+dfsadsfasdfasd
+fasdfadsf
+fasdfasd
+fadsfasd
+asdfasdfs
+sdfasdf
+asdfasdf
+fasdfsadfas
+history 3062
+less ~/.zsh/hisory
+history -a
+history -all
+history -f
+history -n 100
+history -fn 100
+history -fln 100
+history -fan 100
+man history
+man 1 history
+man 2 history
+man 7 history
+man 3 history
+history --help
+history /?
+history -?
+history -h
+history help
+help history
+history
+history 100
+history 1000 | grep ssh
+history 1000 | grep ssh | less
+ssh-keygen -t ed25519 -C "dandi@vedx.pro"
+man urxvt
+urxvt -e $SHELL -c 'myvim;$SHELL -i'
+fasdfsadfj
+fasdfsadf
+adsf
+adsfadsfadsfasdf
+wget https://raw.githubusercontent.com/xyb3rt/urxvt-perls/master/deprecated/url-select
+https://cvc.srht.site/posts/urxvt-config
+wget http://cvs.schmorp.de/rxvt-unicode/src/perl/eval?revision=1.4
+wget http://cvs.schmorp.de/rxvt-unicode/src/perl/eval
+chmod a-x eval
+ls -al eval
+chmod a+x eval
+wget http://cvs.schmorp.de/rxvt-unicode/src/perl/matcher
+urxt -c "zsh myvim"
+urxvt -c "zsh myvim"
+urxvt -C "zsh myvim"
+urxvt -e zsh -c 'myvim'
+urxvt -e myvim
+https://unix.stackexchange.com/questions/646514/how-to-make-urxvt-open-link-when-clicked-with-ctrl
+vim fir
+sudo ln -s /home/astik/.local/share/work/programming/scripts/bash/fir /usr/local/bin/fir
+fir
+uxrvt
+/usr/local/bin/fir
+urxvt -pe matcher
+https://harekrishna.ru/
+echo $SHELL
+echo $OPENER
+urxvt --help
+man urxvt 
+echo $BROWSER
+urxvt -ls
+https://www.linux.org.ru/forum/general/15330644
+xdg-open https://www.linux.org.ru/forum/general/15330644
+kill -15 urxvt*
+kill urxvt*
+killall uxrvt
+killall urxvt
+sudo reboot
+https://saraswati.pro/books/zolotoy_vulkan_bozhestvennoy_lyubvi/chast_i_zhizn_shri_chaytani_makhaprabkhu/tragediya-razluki/
+vim ~/.config/alacritty/alacritty.yml
+neovim
+vim alacritty.yml
+apt seatch konsole
+apt search konsole
+sudo apt remove konsole
+sudo apt auto-remove
+sudo apt clean
+nano
+sudo apt purge konsole
+sudo apt autoremove
+find / -name 'konsole*'
+find / -name 'konsole*' 2>/dev/null
+sudo vifm
+sudo apt install konsole
+./balenaEtcher-1.13.1-x64.AppImage
+rsync -rv --progress ~/.local/share/soft/lmde/lmde-5-cinnamon-64bit.iso /media/astik/bps/soft
+yt https://youtu.be/F_1yiGcz_Jg
+vim ~/.zsh/aliases
+man ls
+ls -CF .
+ls -l
+l
+yt https://youtu.be/exTgm_4GPSg
+yt https://youtu.be/pulnGN82MTk
+yt https://www.youtube.com/watch?v=VTpXNvmcbxA&pp
+yt https://www.youtube.com/watch?v=VTpXNvmcbxA
+yt VTpXNvmcbxA
+youtube-dl -f mp4 -w --yes-playlist -o "%(uploader)s-%(title)s.%(ext)s" https://www.youtube.com/watch?v=37jo_x6bXBk&list=PLt6-rPpOpkb1uJmWgOPQ0pPMigL6ywV4G
+youtube-dl -f mp4 -w --yes-playlist -o "%(uploader)s-%(title)s.%(ext)s" PLt6-rPpOpkb1uJmWgOPQ0pPMigL6ywV4G
+yt aPfd6-4F1xU
+mpv oxxxymironofficial-OXXXYMIRON\  �\ Ѓ�Ѓ�Ѓ�Ѓ�Ѓ�Ѓ�Ѓ�Ѓ�ЦЃ�Я.mp4
+yt rwBQp0kXPsI
+echo $URXVT_PERL_LIB
+vim ~/.zsh/login
+xrdb -merge ~/.Xresourses
+xrdb -merge .Xresourses
+man xrdb
+xrdb -load .Xresourses
+xrdb -query
+http://krotov.info/library/02_b/berdyaev/19390902.html
+ls -al /usr/local/bin/fir
+vim /home/astik/.local/share/work/programming/scripts/bash/fir
+urxvt
+youtube-dl -f mp4 --write-description -o "%(uploader)s-%(title)s.%(ext)s"
+youtube-dl -f mp4 --write-description -o "%(uploader)s-%(title)s.%(ext)s" https://youtu.be/e7BufAVwDiM
+youtube-dl -f mp4 --yes-playlist -o "%(playlist_title)s/%(title)s.%(ext)s" PLxNYCaV8dHZFUzT-4Gv6Is27sXBEiY9Cf
+youtube-dl -f mp4 --yes-playlist --write-description -w -o "%(playlist_title)s/%(title)s.%(ext)s" PLxNYCaV8dHZFUzT-4Gv6Is27sXBEiY9Cf
+top
+htop
+xrdb -load ~/.Xresourses
+git clone https://github.com/wowchemy/hugo-second-brain-theme.git
+su 
+go
+go help
+go version
+hugo help
+hugo help | less
+wget https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/modules/wowchemy/data/fonts/classic.toml
+git clone https://github.com/onweru/compose/
+hugo new notes
+hugo new site notes
+git submodule add https://github.com/onweru/compose/ themes/compose
+cp -a themes/compose/exampleSite .
+cp -a themes/compose/exampleSite ./
+cp -a themes/compose/exampleSite/* ./
+man cp
+git commit -A -m "first commit"
+git commit -a -m "first commit"
+vvb
+rg
+rg nav_brand
+grep -r nav_brand *.html
+grep -r nav_brand 
+grep -rin nav_brand "*.html"
+man grep
+grep -rin nav_brand *.html
+grep -rin -- nav_brand *.html
+grep -rin 'nav_brand' *.html
+find . -name '*.html' | grep nav_brand
+find . -name '*.html' |
+find . -name '*.html'
+find . -name '*.html' --exec grep nav_brand {} \;
+find . -name '*.html' -exec grep nav_brand {} \;
+find . -name '*.html' -exec grep -in nav_brand {} \;
+rg nav_brand *.html
+rg nav_brand "*.html"
+man rg
+rg nav_brand --glob '*.html'
+rg section_title
+rg section_title -g *.html
+rg section_title --glob *.html
+rg section_title --glob **/*.html
+rg functions
+gem install sass
+sass
+sass -v
+hugo
+youtube-dl -f mp4 --yes-playlist --write-description --download-archive already.txt -o "%(playlist_title)s/%(uploader_id)s-%(title)s.%(ext)s"
+hugo new site wiki
+cd ../../../../
+cd www/hugo
+hugo new theme wiki
+git clone https://github.com/franciscop/picnic.git
+for f in *.zip do; unzip "$f"; done
+for f in '*.zip' do; unzip "$f"; done
+for f in '*.zip' do; unzip '$f'; done
+for f in '*.zip' do; unzip '$f';done
+for f in '*.zip' do;unzip '$f';done
+man zip
+for f in '*.zip' do;echo "$f";done
+for f in '*.zip';do echo "$f";done
+for f in *.zip;do echo "$f";done
+for f in *.zip;do unzip "$f";done
+git pull git@github.com:Valakhilya/stuff.git
+git remote add origin
+git remote add -m origin git@github.com:Valakhilya/stuff.git
+git remote list
+git remote add origin git@github.com:Valakhilya/stuff.git
+git commit -m "Bookmarks from 23.01.2023"
+git commit -A . -m "bookmarks at 23.03.2023" 
+git commit -A -m "bookmarks at 23.03.2023" 
+git commit -m "bookmarks at 23.03.2023" 
+git push origen master
+git push origin master
+git remote
+git branch
+git commit origin main
+man unzip
+man p7zip
+dpkg -i ./peazip_9.0.0.LINUX.GTK2-1_amd64.deb 
+sudo dpkg -i ./peazip_9.0.0.LINUX.GTK2-1_amd64.deb
+git commit -m "documents"
+youtube-dl -f mp4 --yes-playlist --write-description --download-archive already.txt -o "%(playlist_title)s/%(uploader_id)s-%(title)s.%(ext)s" PLMa8r4M4JjSSrsOb0skO-cWz5pWXqu4AA
+youtube-dl -fciw mp4 --yes-playlist --write-description --download-archive already.txt -o "%(playlist_title)s/%(uploader_id)s-%(title)s.%(ext)s" PLMa8r4M4JjSSrsOb0skO-cWz5pWXqu4AA
+man youtube-dl
+hugo new site scsm.com.ua
+git submodule add git@github.com:Valakhilya/doks.git
+hugo server
+ls -al /usr/local/bin/node
+which node
+ls al /usr/bin/node
+ls-alh /usr/bin/node
+ls -alh /usr/bin/node
+wget https://nodejs.org/dist/v18.13.0/node-v18.13.0-linux-x64.tar.xz 
+tar zxf node-v18.13.0-linux-x64.tar.xz
+tar xf node-v18.13.0-linux-x64.tar.xz
+npm -v
+node -v 
+git clone https://github.com/h-enk/doks.git scsm.com.ua
+cd scsm.com.ua
+npm install
+rm "Powered by"
+rg "Powered by"
+ls -alh /usr/local/bin/vim
+curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage
+cd ..
+vim already.txt
+youtube-dl -fmp4 -ciw --yes-playlist --write-description --download-archive already.txt -o "%(playlist_title)s/%(uploader_id)s-%(title)s.%(ext)s" PLMa8r4M4JjSSrsOb0skO-cWz5pWXqu4AA
+shotwell ./*
+apt install sxiv
+sxiv .
+npm run create books/home_comfort/index.md
+VV
+npm run create about/index.md
+rg 404-title
+rg col-xl-8
+rm Posted in
+rg Posted in
+rg "Posted in"
+rg "Posted"
+rg 'fillImageCard'
+cd ../../
+rg fillImageCard
+rg fillImage
+rg special_dates
+php artisan serve
+rg 'Явление Ѓ�оспода Ѓ�арау�адева'
+./evaluator
+scp 537*json vu:/var/www/vaishnavacalendar.org/resources/tithis
+scp tithis.json vu:/var/www/vaishnavacalendar.org/resources/tithis/navadvip/537/ru
+pandoc -v
+vim povernennya.html
+pandoc --from html --to markdown_strict -o povernennya.md
+pandoc --from html --to markdown_strict povernennya.html povernennya.md
+pandoc --from html --to markdown_strict povernennya.html -o povernennya.md
+vim povernennya.md
+ sudo npm i @wcj/html-to-markdown-cli -g
+vim shyamananda.html
+pandoc --from html --to markdown -o shyamananda.md shyamananda.html
+npm install -g npm@9.4.0
+cd tmp
+pandoc --from html --to markdown_strict -o shyamananda.md shyamananda.html
+vim shyamananda.md
+v
+vim links.txt
+find . -name '_card.csss'
+find . -name '_card.scss'
+rg card-border-color
+rg card-border-radius
+man hugo
+hugo --help
+hugo server --gc
+find . -name '_grid.scss'
+shotwell /home/astik/.local/share/images
+shotwell /home/astik/.local/share/images/photo_2021-06-11_13-36-27.jpg
+man shotwell
+shotwell -d /home/astik/.local/share/images/
+xsel
+man xsel
+xsel -i adsfadsfasdfasdfasdfasd
+echo "adfadfads" | xsel -i 
+fasdfasdfads adfadsfadsfasd | xsel -a
+dfadsfads adsfasdfadsfasdfasd
+xsel -i
+xsel -i -b 
+xsel -i -b
+xsel -o
+rg borderless
+rg "The doks blog"
+rg "The Doks Blog"
+man read
+man 3 read
+man 7 read
+man 2 read
+man 8 read
+man 1 read
+man 4 read
+man 5 read
+man 6 read
+man 0 read
+gimp
+hugo mod clean -all
+hugo mod clean --all
+hugo server --gc --disableFastRender
+ping vedx.pro
+ping vaishnavacalendar.org
+ping wiki.shayvam.com
+telnet mx.yandex.ru 25
+mtr mx.yandex.ru -r -c 20 --tcp --port 25 --no-dns
+man wget
+find /home/astik/.local/share/work/www/hugo/scsm.com.ua/tools -name 'index.md' -print
+find /home/astik/.local/share/work/www/hugo/scsm.com.ua/tools/ -name 'index.md' -print
+find /home/astik/.local/share/work/www/hugo/scsm.com.ua/ -name 'index.md' -print
+./builder | grep tools
+./builder 
+rm results.log
+find /home/astik/.local/share/work/www/hugo/scsm.com.ua -name 'index.md' -print
+vim /etc/mtab
+./builder > results.log
+vim results.log
+./builder
+node hello_algolia.js
+npm install algoliasearch
+npm audit fix
+npm install instantsearch
+wget https://github.com/algolia/cli/releases/download/v1.2.1/algolia_1.2.1_linux_amd64.deb
+/usr/bin/algolia
+algolia profile
+algolia profile remove john
+algolia profile remove scsm.com.ua
+algolia profile add --name scsm
+sudo apt remove algolia
+sudo apt purge algolia
+sudo dpkg -i ./algolia_1.2.1_linux_amd64.deb
+algolia
+algolia apikeys
+algolia profile add --name scsm --admin-api-key 6e5e04f6573220c860a510ad5c9ff639 --application-id M4T78CYQ46
+algolia apikeys list -p scsm
+algolia -h
+algolia settings
+algolia settings get
+algolia settings get apikeys
+algolia profile add
+algolia completion
+algolia completion zsh
+algolia completion zsh > autocomplete.sh
+chmod a+x autocomplete.sh
+. ~/.zsh/login
+echo $XDG_DATA_HOME
+vim ~/.zsh/interactive
+algolia help
+algolia profile list
+algolia profile list -p my
+algolia apikeys -p my
+algolia apikeys list -p my
+algolia search posts -p my
+algolia search help
+algolia search "Ѓ�оли" posts -p my
+algolia search posts --query "Ѓ�оли" -p my
+npm install algoliasearch instantsearch.js\
+
+rg form-control
+algolia search
+algolia help -p my
+algolia search posts --query "Ѓ�у�ру�"
+algolia apikeys list
+rg suggestions
+! 3300
+history 3300
+man 9 read
+vim ~/.zsh/history
+cd /media/astik/data2/video/stuff
+youtube-dl -f mp4 --yes-playlist --write-description -w -o "%(playlist_title)s/%(title)s.%(ext)s" PLxNYCaV8dHZFUzT-4Gv6Is27sXBEiY9Cf --download-archive ../already.txt
+youtube-dl -f mp4 --yes-playlist --write-description -ciw -o "%(playlist_title)s/%(title)s.%(ext)s" PLxNYCaV8dHZFUzT-4Gv6Is27sXBEiY9Cf --download-archive ../already.txt
+rg ::after
+rg doks-search
+rg results
+rg breadcrumbs
+rg breadcrambs
+rg breadcrumb
+rg Ѓ�ау�
+rg Шру�ду�ар
+yotube-dl -f mp4 -o "%(title)s.%(ext)" 7KVgMAd16NQ
+youtube-dl -f mp4 -o "%(title)s.%(ext)" 7KVgMAd16NQ
+youtube-dl -f mp4 -o "%(title)s.%(ext)s" 7KVgMAd16NQ
+rg play
+rg play > res.log
+vim res.log
+cd /home/astik/.local/share/work/www/hugo/scsm.com.ua
+rg stretched-link
+vim layouts/lectures/single.html
+fg
+rg embed-responsive
+vscode-html-language-server
+vscode-html-language-server --stdio
+npm install -g neovim
+npm fund
+cpanm -n Neovim:Ext --sudo
+sudo cpanm -n Neovim:Ext --sudo
+which cpanm
+sudo ln -s /home/astik/.local/share/soft/perl5/bin/cpanm /usr/local/bin/cpanm
+cpanm -n Neovim:Ext
+
+sudo cpanm -n Neovim:Ext
+sudo cpanm -n Neovim::Ext
+gem environment
+gem install neovim-ruby-host
+gem install neovim
+sudo gem install neovim
+clear
+cpanm -l
+cpanm --help
+cpanm --info
+cd /usr/local/share/man/man1
+wget https://www.mankier.com/1/cpanm -O cpanm.1
+sudo wget https://www.mankier.com/1/cpanm -O cpanm.1
+ls -al
+sudo mandb
+man cpanm
+rg PERL_CPANM_HOME
+cd /
+rg PERL_CPANM_HOME 2&>/dev/nul
+rg PERL_CPANM_HOME 2&>/dev/null
+cpanm --force Neovim::Ext
+vim interactive
+vim login
+cpanm EXT::Neovim
+cpanm Neovim:Ext
+cpanm Pod::Find
+cpanm Devel::SymDump Test::Pod
+cpanm Devel::Symdump Test::Pod Proc::Background
+cpanm Neovim::Ext
+perl -V
+perldoc -l Time::Local
+cpanm perl-doc
+which perl
+perl -MNeovim::Ext\ 9999
+perl -MNeovim::Ext\ 000
+corelist -v 5.32.1
+perl -MNeovim::Ext
+vim .zsh/login
+cd .zsh
+. ./login
+perl -v
+cpanm
+instmodsh
+perl -e 'use Time::Local; print $Time::Local::VERSION."\n"'
+perl -e 'use FileHandle; print $FileHandle::VERSION."\n"'
+ping harekrishna.ru
+ping google.com
+ping devuan.org
+apt install perl-doc
+python -v
+python -h
+python -V
+vim 
+apt install cpanminus
+rm /home/astik/.local/share/nvim/site/pack/packer/start/packer.nvim
+rm -r /home/astik/.local/share/nvim/site/pack/packer/start/packer.nvim
+rm -rf /home/astik/.local/share/nvim/site/pack/packer/start/packer.nvim
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \\
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+pip3 install pynvim --upgrade
+pip install virtualenv
+apt install python3-virtualenv
+pip untinstall virtualenv
+pip uninstall virtualenv
+virtualenv
+virtualenv --version
+apt install --yes -- python3-venv
+sudo apt install --yes -- python3-venv
+curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage\
+chmod u+x nvim.appimage\
+./nvim.appimage
+./nvim.appimage
+cd
+grep -r COQnow
+pip -V
+python3 -m pip install --upgrade pip
+ping deb.devuan.org
+cd /etc/apt/sources.list.d
+ls
+vim ../sources.list
+apt install python3-nvim
+rg COQnow
+rm -rg coq_nvim
+rm -rf coq_nvim
+rm -rf coq.artifacts
+alacritty
+rg '*.deskttop'
+rg '.*.deskttop'
+find . -name '*.desktop'
+which alacritty
+git init
+git branch main
+git branch -m main
+git remote add origin git@github.com:Valakhilya/configs.git
+git pull origin main
+git add -A .
+git status
+git commit -m 'first commit'
+git push origin main
+unzip coq_nvim-6ca864153bab793b5d75c8af1b8e2195145dba80.zip
+dpkg -i nvim-linux64.deb 
+cpanm App::cpaminus::fastscript
+vim /home/astik/.local/state/nvim/lsp.log
+echo $XDG_CONFIG_HOME
+man nvim
+mkdir venv_taks
+python3 -m venv .venv
+.venv/bin/activate
+Set-ExecutionPolicy Undefined -Scope CurrentUser
+source venv/bin/activate
+source .venv/bin/activate
+echo $VIRTUAL_ENV
+python3 -m pip --user --upgrade install pynvim
+python3 -m pip install --user --upgrade pynvim
+python3 -m pip install --upgrade pynvim
+apt update
+nvim
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \\
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+su
+apt install rxvt-unicode-256color
+exit
+vim ~/.Xresourses
+ssh vu
+history | grep npm
+less ~/.zsh/history
+vim
+npm run start
+shotwell .
+shotwell
 vv
-: 1672873758:0;vim
-: 1672874170:0;vv
-: 1672875131:0;ssh hk
-: 1672875175:0;cat ~/.ssh/config
-: 1672875215:0;ssh hk -p 1023
-: 1672875247:0;ssh hk
-: 1672875270:0;ping old.harekrishna.ru
-: 1672875283:0;ping harekrishna.ru
-: 1672875302:0;ssh vu
-: 1672875325:0;ping vedx.pro
-: 1672875415:0;which ping
-: 1672875438:0;sudo chmod 4711 /bin/ping
-: 1672875446:0;ping vedx.pro
-: 1672875459:0;ping old.harekrishna.ru
-: 1672875469:0;ssh hk
-: 1672875530:0;ssh bx
-: 1672875577:0;cd ~/.ssh
-: 1672875579:0;vv
-: 1672875680:0;ssh mm
-: 1672875797:0;ssh bx
-: 1672876955:0;	vim ~/.ssh/config
-: 1672876996:0;ssh root@harekrishna.ru
-: 1672877167:0;ssh vu
-: 1672877560:0;ssh harekrishna.ru
-: 1672877675:0;ssh hk
-: 1672901885:0;vv
-: 1672902399:0;crontab -e
-: 1672902422:0;vv
-: 1672902681:0;VV
-: 1672902684:0;vv
+: 1676262564:0;vim
+: 1676279021:0;vv

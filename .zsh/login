@@ -1,3 +1,10 @@
+xrdb -load ~/.Xresourses
+
+export HISTSIZE=1000000
+export SAVEHIST=1000000
+export HISTFILE=~/.zsh/history
+export HISTCONTROL=ignoredups
+
 typeset -U path
 export TERMINAL="alacritty"
 export BROWSER="firefox"
@@ -16,12 +23,9 @@ export XDG_CACHE_HOME=$HOME/.cache
 export XDG_DATA_HOME=$HOME/.local/share
 export XDG_DATA_DIRS=/usr/local/share:/usr/share
 export XDG_CONFIG_DIRS=/etc/xdg
-export PERLBREW_ROOT=$XDG_DATA_HOME/soft/perlbrew
-export PERL_LOCAL_LIB_ROOT=$XDG_DATA_HOME/soft/perl5
-export PERL5LIB=$XDG_DATA_HOME/soft/perl5/lib/perl5
-source ${PERLBREW_ROOT}/etc/bashrc
-
+export PERL_MM_OPT="INSTALL_BASE=$XDG_DATA_HOME/soft/perl5/lib/perl5"
 export XINITRC=$XDG_CONFIG_HOME/X11/xinitrc
+export URXVT_PERL_LIB=$XDG_DATA_HOME/soft/urxvt/ext
 
-path=($XDG_DATA_HOME/soft/perl5/bin /usr/sbin /usr/local/go/bin $path)
+path=($XDG_DATA_HOME/soft/perl5/bin /usr/sbin /usr/local/go/bin /usr/local/sbin usr/sbin $path)
 export PATH
